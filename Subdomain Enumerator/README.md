@@ -9,13 +9,12 @@ It's a Subdomain Enumerator tool built using Python and threading.
 ## :information_source: How to use?
 ```bash
 # Clone the repository
-$ git clone https://github.com/kurogai/100-redteam-projects.git
-
+$ git clone https://github.com/may-sec/Projects.git
 # Enter the repository
-$ cd 100-redteam-projects\Projects\60_Subdomain_enumerator\sub_enumerator
+$ cd Projects\Subdomain Enumerator\Sub Enum
 
 # Open a terminal and run
-$ python3 sub_enumerator.py -d example.com -w wordlist.txt -o output.txt --threads 10
+$ python3 sub_enum.py -d example.com -w wordlist.txt -o output.txt --threads 10
 
 ```
 ## Developer
