@@ -1,13 +1,13 @@
 
 <h1 align="center">Remote command execution</h1>
 
-## :information_source:  technologies used
+## technologies used
 
 * python3
 * flask
 * flask_httpauth
 
-## :information_source: Running the code
+## Running the code
 
 To run this code, follow these steps:
 
