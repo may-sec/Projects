@@ -2,11 +2,11 @@
 
 This is a Multi Threaded non-recursive Directory Bruteforcing tool written in Python.
 
-## :information_source: Technologies used
+## Technologies used
 
 * Python
 
-## :information_source: How to use?
+## How to use?
 ```bash
 # Clone the repository
 $ git clone https://github.com/may-sec/Projects.git
