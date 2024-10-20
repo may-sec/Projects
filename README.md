@@ -2,7 +2,7 @@
 
 [Subdomain Enumeration](/Subdomain%20Enumerator)
 
-[Multi Threaded Directory Brute Forcer](Multi%20Threaded%20Directory%20Brute%20Forcer)
+[Directory BruteForcer](Directory%20BruteForcer)
 
 [Password Hash Cracker](/Password%20Hash%20Cracker)
 
