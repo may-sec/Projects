@@ -7,8 +7,7 @@ A Computer, Bootable USB for Windows 10
 
 1. Restart and hit Shift + 10
 
-2. 
-X: \Sources>
+2. X: \Sources>
 
 Input
 ```bash
@@ -23,8 +22,7 @@ Output:
     X:
 
 
-3. 
-X: \Sources>
+3. X: \Sources>
 
 Input
 ```bash
@@ -33,8 +31,7 @@ C:
 ```
 
 
-4.
-C: \>
+4. C: \>
 
 Input
 ```bash
@@ -49,8 +46,7 @@ Directory of C:\
     File Not Found
 
 
-5. 
-E: \>
+5. E: \>
 
 Input
 ```bash
@@ -58,8 +54,7 @@ D:
 ```
 
 
-6. 
-D: \>
+6. D: \>
 
 Input
 ```bash
@@ -67,8 +62,7 @@ cd Windows
 ```
 
 
-8. 
-D: \Windows>
+7. D: \Windows>
 
 Input
 ```bash
@@ -76,8 +70,7 @@ cd System32
 ```
 
 
-10. 
-D: \Windows\System32>
+8. D: \Windows\System32>
 
 Input
 ```bash
@@ -85,8 +78,7 @@ ren utilman.exe utilman2.exe
 ```
 
 
-11. 
-D: \Windows\System32>
+9. D: \Windows\System32>
 
 Input
 ```bash
@@ -94,6 +86,6 @@ copy cmd.exe utilman.exe
 ```
 
 
-12. Click Ease of Access - cmd will open
+10. Click Ease of Access - cmd will open
 
-13. net user may password
+11. net user may password
