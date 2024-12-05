@@ -5,6 +5,7 @@
 We are trying to access CMD so that we can change the Username, Password without Logging in. So, We used Bootable USB: As we can access temporary CMD from there and there is also a way in Windows 10 via Troubleshooting but that's not possible for all Window User.
 
 So after opening CMD we perform some steps like searching for System Files present in our main computer by checking each drive then after searching we go to the System32 Folder and there we contain our utilman.exe and cmd.exe File. So we make a copy of utilman.exe and then changed utilman.exe as cmd.exe. As if we execute utilman.exe file, then cmd.exe will get executed. And utilman.exe is one and only ""Ease of Access"" which is present at the bottom right in Windows. So, after changing that and starting our Windows normally. We can tap of ""Ease of Access"" and cmd.exe will get executed and we can use out short script for which we were waiting for.
+
 net user username password -> this will change out password for particular account without any problem.
 
 ## Requirement
