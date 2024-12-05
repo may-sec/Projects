@@ -5,6 +5,8 @@
 
 A Computer, Bootable USB for Windows 10
 
+## Steps
+
 1. Restart and hit Shift + 10
 
 2. X: \Sources>
