@@ -6,3 +6,5 @@ sed -n 's#.*\/in/\([^/]*\)/.*#https://www.linkedin.com/in/\1/#p' a.txt | uniq | 
 
 sed -n 's#.*\/in/\([^/]*\)/.*#\1#p' a.txt | uniq > final4.txt
 → for id only (*this one will be used*)
+
+and install tools from requirements.txt
