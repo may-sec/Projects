@@ -1,4 +1,3 @@
-
 <h1 align="center">Linkedin Automated Messenging</h1>
 
 ## technologies used
