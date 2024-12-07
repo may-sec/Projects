@@ -25,8 +25,8 @@ username = driver.find_element(By.XPATH, "//input[@name='session_key']")
 password = driver.find_element(By.XPATH, "//input[@name='session_password']")
 
 #Input login credentials
-username.send_keys("mayankrawatp001@gmail.com")
-password.send_keys("2tV$!)EqLN/6jQ*")
+username.send_keys("aa@gmail.com")
+password.send_keys("2]ghjg*")
 
 time.sleep(sleep)
 #click the submit button to login
