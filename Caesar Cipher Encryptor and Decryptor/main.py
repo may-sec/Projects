@@ -1,27 +1,49 @@
-//A simple substitution cipher where each letter in the plaintext is shifted a certain number of places down the alphabet
-
 def caesar_cipher(text, shift, mode='encrypt'):
+    result = ""
+    if mode == 'decrypt':
+        shift = -shift  # Reverse the shift for decryption
 
-  result = ""
-  for char in text:
-    if char.isalpha():
-      # Determine the base character (A for uppercase, a for lowercase)
-      base = ord('A') if char.isupper() else ord('a')
-      # Calculate the shifted character's position
-      shifted_pos = (ord(char) - base + shift) % 26 + base
-      # Convert the shifted position back to a character
-      result += chr(shifted_pos)
+    for char in text:
+        if char.isalpha():
+            base = ord('A') if char.isupper() else ord('a')
+            shifted_pos = (ord(char) - base + shift) % 26 + base
+            result += chr(shifted_pos)
+        else:
+            result += char
+    return result
+
+
+if __name__ == "__main__":
+    option = input(''' Select one of these
+    1. Encrypt text
+    2. Decrypt text\n''')
+    option=int(option)
+    
+    shift = input("Enter the shift : ")    
+    shift=int(shift)
+    
+    if(option==1):
+        text = input("Enter the text that you want to encrypt : ")
+        encrypted = caesar_cipher(text, shift)
+        print(f"Original: {text}")
+        print(f"Encrypted: {encrypted}")        
+    
+    elif(option==2):
+        encrypted = input("Enter the text that you want to decrypt : ")        
+        decrypted = caesar_cipher(encrypted, shift, mode='decrypt')
+        print(f"Encrypted: {encrypted}")
+        print(f"Decrypted: {decrypted}")
+    
     else:
-      # Keep non-alphabetic characters unchanged
-      result += char
-  return result
+        print("Incorrect option : ", option)
+
 
 # Example usage
-text = "Hello, World!"
-shift_value = 3
+# text = "Hello, World!"
+# shift_value = 3
 
-encrypted_text = caesar_cipher(text, shift_value)
-print("Encrypted:", encrypted_text) 
+# encrypted_text = caesar_cipher(text, shift_value)
+# print("Encrypted:", encrypted_text)
 
-decrypted_text = caesar_cipher(encrypted_text, shift_value, mode='decrypt')
-print("Decrypted:", decrypted_text)
+# decrypted_text = caesar_cipher(encrypted_text, shift_value, mode='decrypt')
+# print("Decrypted:", decrypted_text)
