@@ -1,4 +1,5 @@
 import hashlib
+import string
 
 def check_password_strength(password):
   if len(password) < 8:
@@ -35,9 +36,13 @@ def check_password_strength(password):
 
   return "Strong"
 
-# Example usage
-passwords = ["password123", "MyStrongP@ssw0rd!", "abc123456", "secret"] #add more data to check
+password = input("Check the strength of password : ")
+strength = check_password_strength(password)
+print(f"Password: {password} -> Strength: {strength}")
 
-for password in passwords:
-  strength = check_password_strength(password)
-  print(f"Password: {password} -> Strength: {strength}")
+# Example usage
+# passwords = ["password123", "MyStrongP@ssw0rd!", "abc123456", "secret"]
+
+# for password in passwords:
+#     strength = check_password_strength(password)
+#     print(f"Password: {password} -> Strength: {strength}")
