@@ -12,9 +12,9 @@ def getSupportedHashTypes():
 def main():
     usage = """
 # Usage:
-    python cracker_advanced.py --hashvalue <hash_value> --hashtype <hash_type> --wordlist <path_to_wordlist>
+    python hash-cracker.py --hashvalue <hash_value> --hashtype <hash_type> --wordlist <path_to_wordlist>
 # Example:
-    python cracker_advanced.py --hashvalue 7052cad6b415f4272c1986aa9a50a7c3 --hashtype md5 --wordlist words.txt
+    python hash-cracker.py --hashvalue 7052cad6b415f4272c1986aa9a50a7c3 --hashtype md5 --wordlist words.txt
 """
     optHandler = OptionParser(usage)
     optHandler.add_option("--hashvalue", dest="hashValue", type="string", help="Hash value to be cracked")
