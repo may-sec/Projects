@@ -1,6 +1,6 @@
-# Sundomain Enumerator
+# Subdomain Enumerator
 
-This is a Sundomain Enumerator tool written in bash
+This is a Subdomain Enumerator tool written in bash
 
 ## Technologies used
 
