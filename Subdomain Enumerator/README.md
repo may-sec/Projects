@@ -15,3 +15,9 @@ This is a Subdomain Enumerator tool written in bash
 * amass
 * httprobe
 * gowitness
+
+
+## How to use?
+```bash
+./main.sh domain.com
+```
