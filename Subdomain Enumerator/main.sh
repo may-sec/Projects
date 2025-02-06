@@ -11,6 +11,7 @@ run_tool() {
     local command="$2"
     local output_file="$3"
 
+    echo ""
     echo -e "[+] Harvesting subdomains with $tool_name..."
     eval "$command"  # Execute the command
     if [[ $? -eq 0 ]]; then # Check if the command exited successfully
@@ -48,7 +49,8 @@ if [[ $? -eq 0 ]]; then
     echo "[+] Reconnaissance complete for $url"
 
     # eyewitness -f $url/recon/alive.txt --timeout 4 --max-retries 2 --web
-    gowitness scan file -f $url/recon/alive.txt
+    # gowitness scan file -f $url/recon/alive.txt
+    gowitness scan file -f alive.txt --save-content --screenshot-fullpage --threads=4 --write-db
 
     echo "[+] Screenshot done for $url"
 else
