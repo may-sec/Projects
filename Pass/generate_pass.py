@@ -29,22 +29,33 @@ def generate_password(length=15, include_uppercase=True, include_lowercase=True,
 
     max_retries = 1000
 
-    for _ in range(max_retries):
-        remaining_part = ''.join(random.choice(characters) for _ in range(remaining_len))
+    for idx in range(max_retries):
+        remaining_part = ''.join(random.choice(characters) for idx in range(remaining_len))
 
         # Apply substitutions and creative capitalization to must_contain
         modified_must_contain = ""
         for char in must_contain:
             if random.random() < 0.3:  # 30% chance for substitution
-                if char.lower() in "aeiou":  # Examples: a -> @, e -> 3, i -> !, o -> 0, u -> (_)
-                    substitutions = {"a": "@", "e": "3", "i": "!", "o": "0", "u": "_"}
-                    modified_must_contain += substitutions.get(char.lower(), char)
-                elif char.lower() in "ls": # Examples: l -> 1, s -> $
-                    substitutions = {"l":"1", "s":"$"}
-                    modified_must_contain += substitutions.get(char.lower(), char)
-                elif char.lower() in "t": # Example: t -> 7
-                    substitutions = {"t":"7"}
-                    modified_must_contain += substitutions.get(char.lower(), char)
+                if char_lower in "aeioulst":  # Combined vowels and lst
+                    substitutions = {
+                        "a": ["@", "4"],
+                        "e": ["3"],
+                        "i": ["!", "1"],
+                        "o": ["0"],
+                        "u": ["_", "v"],
+                        "l": ["1", "|"],
+                        "s": ["$", "5"],
+                        "t": ["7", "+", "T"],
+                    }
+                    modified_must_contain += random.choice(substitutions.get(char_lower, [char]))
+                elif char_lower in "4357":  # Combined 4357
+                    substitutions = {
+                        "4": ["A"],
+                        "3": ["E"],
+                        "5": ["S"],
+                        "7": ["T", "+"],
+                    }
+                    modified_must_contain += random.choice(substitutions.get(char_lower, [char]))
                 else:
                   modified_must_contain += char # if no substitutions available, add the same character
             elif random.random() < 0.2:  # 20% chance for capitalization change
@@ -84,13 +95,14 @@ if __name__ == "__main__":
         if args.length <= len(args.t) and args.t: # check if the length is greater than must contain string
             print("Error: Length should be greater than the length of must contain string")
             exit(1)
-        for _ in range(args.n):
+        for idx in range(args.n):
             password = generate_password(args.length, include_uppercase, include_lowercase, include_digits, include_symbols, args.t)
 
             if password:
                 print(password)
             else:
                 print("Could not generate a password meeting the criteria.")
+        print("\nYou can generate more specific results check help command or Use the following command:- \npython3 generate_pass.py -h\n\npython3 generate_pass.py 15 -t \"P@$$wOrd\" -n 10 -c lud")
 
     except AttributeError:
         parser.print_help()
