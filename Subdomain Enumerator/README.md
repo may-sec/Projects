@@ -46,15 +46,11 @@ go install [github.com/tomnomnom/httprobe@latest](https://www.google.com/search?
 go install [github.com/sensepost/gowitness@latest](https://www.google.com/search?q=https://github.com/sensepost/gowitness%40latest)
 
 # 7. crt.sh (requires a custom script - example):
-# Create a script (e.g., crt_v2.sh) to query the crt.sh API and place it in your PATH.
-# Example (using curl and jq - install jq with apt-get install jq or yum install jq):
-# #!/bin/bash
-# domain="$1"
-# curl -s "[https://crt.sh/?q=%.$domain&output=json](https://www.google.com/search?q=https://crt.sh/%3Fq%3D%25.%24domain%26output%3Djson)" | jq -r '.[].name_value' | sort -u
-
-# Verify (after sourcing your shell config):
-echo $PATH
-# You should see /opt/recon-tools/bin (or your chosen directory) in the output.
+## Create a script (e.g., crt_v2.sh) to query the crt.sh API and place it in your PATH.
+## Example (using curl and jq - install jq with apt-get install jq or yum install jq):
+## #!/bin/bash
+## domain="$1"
+## curl -s "[https://crt.sh/?q=%.$domain&output=json](https://www.google.com/search?q=https://crt.sh/%3Fq%3D%25.%24domain%26output%3Djson)" | jq -r '.[].name_value' | sort -u
 
 
 ## Usage
