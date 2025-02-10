@@ -56,3 +56,30 @@ reboot -f
 ```
 
 The new password should now be active, and you can test it.
+
+
+## Prevention
+
+While it's not possible to completely prevent someone with physical access from resetting the root password, you can make it significantly more difficult. Here are some strategies:
+
+### 1. Secure the Boot Process:
+
+* BIOS/UEFI Password: Set a strong password in your system's BIOS or UEFI settings. This will prevent unauthorized users from changing boot settings, such as booting from a USB drive or DVD to bypass the system.   
+* Disable Boot from External Media: Configure your BIOS/UEFI to disable booting from USB drives, DVDs, or network boot. This makes it harder for attackers to use live CDs or other tools to gain access.
+* GRUB Password: Add a password to your GRUB bootloader. This will prevent users from modifying kernel parameters (like init=/bin/bash) during boot.
+
+### 2. Limit Physical Access:
+
+* Secure Server Room: If possible, keep your server in a locked room or cabinet with restricted access.
+* Physical Locks: Use physical locks on server cases to prevent access to internal components.
+
+### 3. Software-Based Security:
+
+* Full Disk Encryption: Encrypt your entire hard drive. This will protect your data even if someone removes the hard drive and tries to access it from another system.   
+* SELinux: Enable and properly configure SELinux. This adds an extra layer of security and can help prevent attackers from gaining root privileges even if they manage to reset the password.
+* Regular Security Updates: Keep your system up-to-date with the latest security patches. This will help protect against known vulnerabilities.
+
+### 4. Monitoring and Auditing:
+
+* Auditd: Configure auditd to monitor system calls related to password changes and boot processes. This will help you detect any suspicious activity.   
+* Intrusion Detection System (IDS): Implement an IDS to monitor your system for malicious activity and alert you to potential attacks.
