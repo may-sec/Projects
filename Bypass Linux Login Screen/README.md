@@ -4,29 +4,33 @@
 
 Laptop with Linux OS
 
-## Steps
+Steps
 
-1. start the machine and wait until its shows the grub boot loader screen
+## Resetting Linux Password using GRUB
 
-2. press ‘e’ for edit into boot loader setting
+Resetting a Linux password using the GRUB bootloader involves booting into single-user mode or recovery mode and then using the command line to reset the password. Here’s a step-by-step guide:
 
-3. In here Linux section we have to change ‘ro’ to ‘rw’ and in the last of the line we need to add
+1. Access the GRUB menu. GRUB (Grand Unified Bootloader) is the default bootloader for most Linux distributions. First, restart or power on your computer.  As soon as the boot process begins, press and hold the Shift key (for some systems it might be the Esc key) to bring up the GRUB menu.
+
+2. Enter the Edit Mode. Before booting into the system, you need to edit the boot parameters. First, highlight the default boot entry (usually the first in the list) using arrow keys. 
+
+Press ‘E’ to edit the entry.
+
+3. Modify Boot Parameters. To boot into single-user mode, you need to modify the Linux boot parameters. Here are the following steps:
+• Find the line that starts with linux or linux16. This line specifies the boot parameters.
+• At this line, locate ‘ro quiet’, replace ‘ro’ to ‘rw’ then add the word single or init=/bin/bash, depending on your distribution and setup.
+• Press Ctrl + X or F10 to boot with the modified parameters.
+
+4. Remount the File System with Write Permissions. By default, the filesystem might be in read-only mode in this state. To change the password, you’ll need write permissions. Enter the following command:
+
 ```bash
-init=/bin/bash
+mount -n -o remount,rw /
 ```
 
+5. Reset the Password. Use the passwd command to reset the password for a user. Enter the command below, replacing ‘username’ with the actual username for which you want to reset the password:
 
-4. press CTRL+X for save and exit
-
-5. 
 ```bash
-/etc/shadow
-```
-
-
-6. 
-```bash
-#passwd [username]
+passwd username
 ```
 (change password for user(system user))
 
@@ -35,8 +39,14 @@ init=/bin/bash
 ```
 (change password for root user)
 
+6. Reboot the System. Now that the password is reset, it’s best to reboot the system to return to normal operation. Enter the following command:
+```bash
+sync
+```
 
-7. 
+Then, force a reboot with:
 ```bash
 reboot -f
 ```
+
+The new password should now be active, and you can test it.
