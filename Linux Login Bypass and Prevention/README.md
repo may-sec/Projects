@@ -12,6 +12,8 @@ Resetting a Linux password using the GRUB bootloader involves booting into singl
 
 1. Access the GRUB menu. GRUB (Grand Unified Bootloader) is the default bootloader for most Linux distributions. First, restart or power on your computer.  As soon as the boot process begins, press and hold the Shift key (for some systems it might be the Esc key) to bring up the GRUB menu.
 
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Linux%20Login%20Bypass%20and%20Prevention/pics/01.png" />
+
 2. Enter the Edit Mode. Before booting into the system, you need to edit the boot parameters. First, highlight the default boot entry (usually the first in the list) using arrow keys. 
 
 Press ‘E’ to edit the entry.
@@ -20,6 +22,8 @@ Press ‘E’ to edit the entry.
 • Find the line that starts with linux or linux16. This line specifies the boot parameters.
 • At this line, locate ‘ro quiet’, replace ‘ro’ to ‘rw’ then add the word single or init=/bin/bash, depending on your distribution and setup.
 • Press Ctrl + X or F10 to boot with the modified parameters.
+
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Linux%20Login%20Bypass%20and%20Prevention/pics/02.png" />
 
 4. Remount the File System with Write Permissions. By default, the filesystem might be in read-only mode in this state. To change the password, you’ll need write permissions. Enter the following command:
 
@@ -38,6 +42,8 @@ passwd username
 #passwd
 ```
 (change password for root user)
+
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Linux%20Login%20Bypass%20and%20Prevention/pics/03.png" />
 
 6. Reboot the System. Now that the password is reset, it’s best to reboot the system to return to normal operation. Enter the following command:
 ```bash
