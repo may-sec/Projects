@@ -84,37 +84,29 @@ copy cmd.exe utilman.exe
 11. net user username password
 
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/01.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/01.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/01.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/02.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/01.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/03.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/01.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/04.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/01.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/05.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/02.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/06.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/03.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/07.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/04.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/08.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/05.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/09.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/06.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/10.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/07.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/11.jpg" />
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/08.jpg" />
-
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/09.jpg" />
-
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/10.jpg" />
-
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/11.jpg" />
-
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/12.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/12.jpg" />
 
 
 ## Creating a New User Account
@@ -147,8 +139,6 @@ To remove the new user account you created earlier, type the following:
 ```bash
 net user NewGuy /delete
 ```
-
-
 
 
 
@@ -208,4 +198,4 @@ Prevent users from booting from USB or external drives.
 * Access BIOS/UEFI settings during boot and adjust boot order or disable USB booting.
 
 
-<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/13.jpg" />
+<img width="931" alt="image" src="https://github.com/may-sec/Projects/blob/main/Windows%20Login%20Bypass%20and%20Prevention/pics/13.jpg" />
