@@ -1,4 +1,4 @@
-<h1 align="center">Bypass Windows Login Screen</h1>
+<h1 align="center">Windows Login Bypass and Prevention</h1>
 
 
 ## Explaination
