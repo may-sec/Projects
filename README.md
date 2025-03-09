@@ -22,7 +22,7 @@
 
 
 
-## Extra
+## Extra (Successfully finished practice labs)
 
 [Lab 1: AppLocker](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/AppLocker/AppLocker.md)
 
