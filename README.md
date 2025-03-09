@@ -10,10 +10,19 @@
 
 [Bypass Windows Login Screen](Bypass%20Windows%20Login%20Screen)
 
+[Linux Login Bypass and Prevention](/Linux%20Login%20Bypass%20and%20Prevention)
+
+[Caesar Cipher Encryptor and Decryptor](/Caesar%20Cipher%20Encryptor%20and%20Decryptor)
+
+[LSB Steganography](/LSB%20Steganography)
+
+[Linkedin Automated Messaging](/Linkedin%20Automated%20Messaging)
+
+[Password Hash Cracker](/Password%20Hash%20Cracker)
 
 
 
-##Extra
+## Extra
 
 [Lab 1: AppLocker](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/AppLocker/AppLocker.md)
 
