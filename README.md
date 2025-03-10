@@ -22,7 +22,7 @@
 
 
 
-## Extra (Successfully finished practice labs)
+## Getting Started in Security with BHIS and MITRE ATT&CK with John Strand by Antisyphon Training (Successfully finished practice labs)
 
 [Lab 1: AppLocker](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/AppLocker/AppLocker.md)
 
@@ -47,3 +47,8 @@
 [Lab 11: Nessus](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/nessus/Nessus.md)
 
 [Lab 12: PingCastle and PlumHound](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/PingCastle.md)
+
+
+## SOC Core Skills with John Strand by Antisyphon Training (Successfully finished practice labs)
+
+[Lab 1: Wireshark](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Wireshark/Wireshark.md)
