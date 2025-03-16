@@ -74,3 +74,16 @@ strings ./backupexe | less
 
 [Lab 3: Windows CLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WindowsCLI/WindowsCLI.md)
 
+[Lab 4: DeepBlueCLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/deepbluecli/DeepBlueCLI.md)
+
+[Lab 5: FirewallLog](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/FirewallLog/FirewallLog.md)
+
+[Lab 6: MemoryAnalysis(Volatility)](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Memory/MemoryAnalysis(Volatility).md)
+
+[Lab 7: RITA](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/RITA/RITA.md)
+
+[Lab 8: DomainLogReview](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/DomainLogReview/DomainLogReview.md)
+
+[Lab 9: Velociraptor](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Velociraptor/Velociraptor.md)
+
+[Lab 10: WebTesting](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WebTesting/WebTesting.md)
