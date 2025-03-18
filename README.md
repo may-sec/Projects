@@ -22,40 +22,11 @@
 
 
 
-## Getting Started in Security with BHIS and MITRE ATT&CK with John Strand by Antisyphon Training (Successfully finished practice labs)
-
-[Lab 1: AppLocker](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/AppLocker/AppLocker.md)
-
-[Lab 2: Password Cracking](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/PasswordCracking/PasswordCracking.md)
-
-[Lab 3: Password Spraying](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/PasswordSpray/PasswordSpray.md)
-
-[Lab 4: RITA](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/RITA/RITA.md)
-
-[Lab 5: DeepBlueCLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/deepbluecli/DeepBlueCLI.md)
-
-[Lab 6: Domain Log Review](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/DomainLogReview/DomainLogReview.md)
-
-[Lab 7: Sysmon](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Sysmon/Sysmon.md)
-
-[Lab 8: Atomic Red Team and BlueSpawn](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/bluespawn/Bluespawn.md)
-
-[Lab 9: Nmap](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Nmap/Nmap.md)
-
-[Lab 10: Web Testing](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WebTesting/WebTesting.md)
-
-[Lab 11: Nessus](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/nessus/Nessus.md)
-
-[Lab 12: PingCastle and PlumHound](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/PingCastle.md)
-
-
+# Intro
 ## SOC Core Skills with John Strand by Antisyphon Training (Successfully finished practice labs)
 
-[Lab 1: Wireshark](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Wireshark/Wireshark.md)
-
-[Lab 2: Linux CLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/LinuxCLI/LinuxCLI.md)
-
-
+  - [Linux CLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/LinuxCLI/LinuxCLI.md)
+  
 ```bash
 mv /nc ./notnetcat
 mknod backpipe p
@@ -72,18 +43,55 @@ cd /tmp
 strings ./backupexe | less
 ```
 
-[Lab 3: Windows CLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WindowsCLI/WindowsCLI.md)
+  - [Memory Analysis (Volatility)](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Memory/MemoryAnalysis(Volatility).md)
+  - [TCPDump](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/TCPDump/TCPDump.md)
+  - [Web Log Review](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WebLogReview/WebLogReview.md)
+  - [WindowsCLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WindowsCLI/WindowsCLI.md)
+  - [Wireshark](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Wireshark/Wireshark.md)
+  - [RITA](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/RITA/RITA.md)
+  - [Nessus](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/nessus/Nessus.md)
+  - [Web Testing](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WebTesting/WebTesting.md)
+  - [DeepBlueCLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/deepbluecli/DeepBlueCLI.md)
+  - [Domain Log Review](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/DomainLogReview/DomainLogReview.md)
+  - [Velociraptor](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Velociraptor/Velociraptor.md)
+  - [Firewall Log Review](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/FirewallLog/FirewallLog.md)
+  - [Elk In The Cloud](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/md/elk_in_the_cloud.md)
+  - [Elastic Agent](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/md/elastic_agent.md)
+  - [Sysmon in ELK](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/md/sysmon_logs.md)
+  - [Lima Charlie](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/limacharlie/limacharlie.md)
+  - [Lima Charlie & Atomic Red](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/LCmeetsAtomicRed/LCAR.md)
+  - [AC Hunter CE](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/ACHCE/ACHunterCE.md)
+  - [Hunting DCSync, Sharepoint and Kerberoasting](https://github.com/strandjs/IntroLabs/tree/master/IntroClassFiles/Tools/IntroClass/PoisoningtheWellIR-main)
 
-[Lab 4: DeepBlueCLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/deepbluecli/DeepBlueCLI.md)
+## Getting Started in Security with BHIS and MITRE ATT&CK with John Strand by Antisyphon Training (Successfully finished practice labs)
 
-[Lab 5: FirewallLog](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/FirewallLog/FirewallLog.md)
+ - [Applocker](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/AppLocker/AppLocker.md)
+ - [Atomic RedTeam and Bluespawn](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/bluespawn/Bluespawn.md)
+ - [DeepBlueCLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/deepbluecli/DeepBlueCLI.md)
+ - [Nessus](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/nessus/Nessus.md)
+ - [Host Firewalls and Nmap](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Nmap/Nmap.md)
+ - [Password Cracking](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/PasswordCracking/PasswordCracking.md)
+ - [Password Spraying](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/PasswordSpray/PasswordSpray.md)
+ - [Responder](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Responder/Responder.md)
+ - [RITA and AC Hunter](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/RITA/RITA.md)
+ - [Sysmon](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Sysmon/Sysmon.md)
+ - [Web Testing](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WebTesting/WebTesting.md)
+ - [Falcon](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/falcon.md)
+ - [ConnectSecure](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/Tools/IntroClass/Connectsecure.md)
+ - [Azure IR](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/AZURE-MSP-WRITEUP-main/README.md)
+ - [AC Hunter CE](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/ACHCE/ACHunterCE.md)
+  
+## Active Defense & Cyber Deception With John Strand by Antisyphon Training (Ongoing practice labs)
 
-[Lab 6: MemoryAnalysis(Volatility)](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Memory/MemoryAnalysis(Volatility).md)
-
-[Lab 7: RITA](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/RITA/RITA.md)
-
-[Lab 8: DomainLogReview](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/DomainLogReview/DomainLogReview.md)
-
-[Lab 9: Velociraptor](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Velociraptor/Velociraptor.md)
-
-[Lab 10: WebTesting](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WebTesting/WebTesting.md)
+  - [Spidertrap](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Spidertrap.md)
+  - [Cowrie](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Cowrie.md)
+  - [Canarytokens](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/canarytokens/Canarytokens.md)
+  - [RITA](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/RITA/RITA.md)
+  - [Bluespawn](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/bluespawn/Bluespawn.md)
+  - [Portspoof](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Portspoof.md)
+  - [HoneyBadger](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/HoneyBadger.md)
+  - [HoneyShare](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/honeyshare/HoneyShare.md)
+  - [HoneyUser](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/honeyuser/honeyuser.md)
+  - [AdvancedC2](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/pcap/AdvancedC2PCAPAnalysis.md)
+  - [WebHoneypot](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/webhoneypot/webhoneypot.md)
+  - [File Audit](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/FileAudit/FileAudit.md)
