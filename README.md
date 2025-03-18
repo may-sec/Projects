@@ -22,7 +22,6 @@
 
 
 
-# Intro
 ## SOC Core Skills with John Strand by Antisyphon Training (Successfully finished practice labs)
 
   - [Linux CLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/LinuxCLI/LinuxCLI.md)
