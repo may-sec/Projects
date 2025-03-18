@@ -24,6 +24,8 @@
 
 ## SOC Core Skills with John Strand by Antisyphon Training (Successfully finished practice labs)
 
+  - [TCPDump](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/TCPDump/TCPDump.md)
+  - [Wireshark](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Wireshark/Wireshark.md)
   - [Linux CLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/LinuxCLI/LinuxCLI.md)
   
 ```bash
@@ -42,11 +44,14 @@ cd /tmp
 strings ./backupexe | less
 ```
 
+
+
+
+
+
   - [Memory Analysis (Volatility)](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Memory/MemoryAnalysis(Volatility).md)
-  - [TCPDump](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/TCPDump/TCPDump.md)
   - [Web Log Review](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WebLogReview/WebLogReview.md)
   - [WindowsCLI](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WindowsCLI/WindowsCLI.md)
-  - [Wireshark](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/Wireshark/Wireshark.md)
   - [RITA](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/RITA/RITA.md)
   - [Nessus](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/nessus/Nessus.md)
   - [Web Testing](https://github.com/KAISERaustin/IntroLabsRemastered/blob/master/IntroClassFiles/Tools/IntroClass/WebTesting/WebTesting.md)
