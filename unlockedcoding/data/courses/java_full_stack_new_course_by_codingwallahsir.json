@@ -1,0 +1,385 @@
+{
+  "courseName": "Codingwallahsir-Java-Full-Stack-New-Course",
+  "coursecategory": "web-development",
+  "viewtype": "both",
+  "des": "Learn Java Full Stack NEW Course by Codingwallahsir with comprehensive video tutorials and hands-on projects.",
+  "imageofcourse": "https://appxcontent.kaxa.in/subject/2024-10-24-0.5396263352863484.png",
+  "audio": "english",
+  "cost": 0,
+  "videoType": "hls",
+  "redirecturl": "",
+  "rank": "high",
+  "homepage": true,
+  "videos": [
+    {
+      "title": "Course Introduction for ALL | Coding vs Programming",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1333475-1729783900/hls-b87140/720p/master-8505838.98947735.m3u8"
+    },
+    {
+      "title": "How to access live classes on discord",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1356891-1730737722/hls-3e1df1/720p/master-5242244.11392125.m3u8"
+    },
+    {
+      "title": "Introduction to JAVA | Java Editions | Java Popular LTS Versions",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1333497-1729784441/hls-116721/720p/master-2237629.912021064.m3u8"
+    },
+    {
+      "title": "Java FIRST PROGRAM | How JAVA works internally 🔥",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1333484-1729784085/hls-96dff5/720p/master-333726.056273731.m3u8"
+    },
+    {
+      "title": "Data Types & Variables in Java with It's Sizes",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1361298-1730871464/hls-0a1754/720p/master-1414543.2918405465.m3u8"
+    },
+    {
+      "title": "Types of Variables | Dynamic Variable | Wrapper Classes",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1367824-1731038863/hls-c4db82/720p/master-3543160.9560503196.m3u8"
+    },
+    {
+      "title": "Type Casting",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1384679-1731480042/hls-574f31/720p/master-8434320.861582866.m3u8"
+    },
+    {
+      "title": "Introduction to Operators - Arithmetic, Shorthand, Relation, Logical",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1411835-1732098162/hls-bc70bd/720p/master-9032898.159272216.m3u8"
+    },
+    {
+      "title": "Operators - Bitwise | Shift | Ternary | Pre & Post Operators with Hands On",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1428982-1732541229/hls-b53b27/720p/master-9920711.297272108.m3u8"
+    },
+    {
+      "title": "if-else lecture",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1445944-1732909865/hls-71100b/720p/master-3924989.701922055.m3u8"
+    },
+    {
+      "title": "Switch [var]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1449187-1732981861/hls-8da84c/720p/master-5492566.925278046.m3u8"
+    },
+    {
+      "title": "Introduction of Loops with types",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1470962-1733504237/hls-cd8dfa/720p/master-6507964.677598965.m3u8"
+    },
+    {
+      "title": "Enhanced Loop | Loops Questions",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1472932-1733567409/hls-2a1d67/720p/master-3010921.0667107943.m3u8"
+    },
+    {
+      "title": "JUMP STATEMENTS | NESTED LOOPS | SECANRIO BASED Coding Questions",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1498497-1734180508/hls-909436/720p/master-3411787.5553693343.m3u8"
+    },
+    {
+      "title": "Introduction to METHODS & it's Types",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1509924-1734491319/hls-37f05f/720p/master-1501796.828764288.m3u8"
+    },
+    {
+      "title": "REAL TIME USE of METHODS in Development | PROGRAMS List",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1510115-1734495461/hls-258801/720p/master-4682539.230294798.m3u8"
+    },
+    {
+      "title": "Complete Array in ONE SHOT [ LIVE ]",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1527375-1734841066/hls-4aff96/720p/master-3062376.5491519817.m3u8"
+    },
+    {
+      "title": "INTRODUCTION TO STRINGS | STRING POOL | STRING BUFFER | BUILDER",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1536975-1735058864/hls-59eb8c/720p/master-4393815.168019935.m3u8"
+    },
+    {
+      "title": "Mostly Used String Methods | Interview Questions with HINTS",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1540912-1735144012/hls-d4c7a8/720p/master-77037.20784211665.m3u8"
+    },
+    {
+      "title": "Introduction to OOPS | Building Blocks & Pillars of OOPS",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1554734-1735502925/hls-05aa77/720p/master-3675737.5281403325.m3u8"
+    },
+    {
+      "title": "Constructor & It's Types with Real-time use in API",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1573023-1735915233/hls-1ffb6a/720p/master-2225417.9363241633.m3u8"
+    },
+    {
+      "title": "INTRODUCTION of Inheritance | It's types",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1573473-1735927823/hls-dcf7c7/720p/master-6911218.030756665.m3u8"
+    },
+    {
+      "title": "Interface & Multiple Inheritance with Real Life Example",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1625803-1737103761/hls-0c4b67/720p/master-5873973.755393323.m3u8"
+    },
+    {
+      "title": "Introduction to Interface & Multithreading",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1608566-1736698404/hls-152216/720p/master-9496739.887327403.m3u8"
+    },
+    {
+      "title": "2nd FEB | Sun Live: Collection Frameworks + Spring AI",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1687201-1738635561/hls-ef19a7/720p/master-2289083.733959949.m3u8"
+    },
+    {
+      "title": "Java 8 Tutorial | Lecture 1",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1835225-1742606728/hls-58978f/720p/master-8486059.262081409.m3u8"
+    },
+    {
+      "title": "Java 8 Tutorial | Lecture 2",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1839339-1742738128/hls-02e49c/720p/master-7919199.943711879.m3u8"
+    },
+    {
+      "title": "JAVA 8 Tutorial | Lecture 3",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1839446-1742742447/hls-4c946b/720p/master-2860548.1689837496.m3u8"
+    },
+    {
+      "title": "Building First Web Serivce using Spring Boot [1]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/668282-1711260338/hls-e4637c/720p/master-8778267.493516603.m3u8"
+    },
+    {
+      "title": "Data Exchange Between Client & Server using URL [2]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/668267-1711259259/hls-c0e998/720p/master-5412377.013316718.m3u8"
+    },
+    {
+      "title": "Form Submission & Custom Landing Page [3]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/668268-1711259261/hls-33d8a5/720p/master-374849.3495286187.m3u8"
+    },
+    {
+      "title": "Level 0 - CRUD Rest API | Postman Setup Both in VS Code & Desktop [4]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/668269-1711259261/hls-cfe19a/720p/master-3630378.5166870696.m3u8"
+    },
+    {
+      "title": "Level 1 - CRUD Rest API with Collection Framework & OOPS [5]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/668270-1711259261/hls-f88053/720p/master-541125.9482919095.m3u8"
+    },
+    {
+      "title": "Level 2 - CRUD Rest API with 2 Layer Architecture | Spring IOC | Auto Wiring | Loose Coupling [6]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/668303-1711261601/hls-102707/720p/master-7412518.0294399625.m3u8"
+    },
+    {
+      "title": "JDBC | Spring JDBC | Spring DATA JDBC | Spring DATA JPA | Spring Dev Tools | Embeded H2 Database [7]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/668421-1711270418/hls-c24214/720p/master-6700280.458610759.m3u8"
+    },
+    {
+      "title": "Spring DATA JDBC | Spring DATA JPA with Embed H2 SQL Database [ 8 ]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/668174-1711236942/hls-3d106a/720p/master-2247134.565496662.m3u8"
+    },
+    {
+      "title": "How to Setup MySQL Database with Spring Boot without Changing DAO Layer",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/678871-1711727354/hls-a9dfc7/720p/master-1246145.1418307945.m3u8"
+    },
+    {
+      "title": "Level 3 - CRUD Rest API with MySQL Database",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/679072-1711740130/hls-e4c5ba/720p/master-535028.490394589.m3u8"
+    },
+    {
+      "title": "Response Entity - HTTP Status | HTT Headers | Body",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/696627-1712237112/hls-b4fd29/720p/master-5205649.745986998.m3u8"
+    },
+    {
+      "title": "Exception Handling in Spring Boot | Spring Boot Production Ready Code",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/723630-1713041350/hls-de1c14/720p/master-8889244.095210476.m3u8"
+    },
+    {
+      "title": "Spring Boot - REST API Validation",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/727989-1713201734/hls-579ae8/720p/master-6441432.996953356.m3u8"
+    },
+    {
+      "title": "REST API Documenting | Swagger & Open API in Spring Boot",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/740109-1713554181/hls-217bc6/720p/master-9111472.833964383.m3u8"
+    },
+    {
+      "title": "Unit Testing in Spring Boot",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/740371-1713587657/hls-d460db/720p/master-8875288.19453797.m3u8"
+    },
+    {
+      "title": "Spring MVC | HTML | Thymleaf",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/774827-1714597274/hls-2b67b2/720p/master-2036391.3349431574.m3u8"
+    },
+    {
+      "title": "Spring security | Form Based | Basic Authentication | InMemory Authetication | Role Based Authorization",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/873964-1717228345/hls-c14442/720p/master-7048926.603246271.m3u8"
+    },
+    {
+      "title": "Spring Security DB | Custom Security Filter Chain",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/894248-1717790653/hls-a72082/720p/master-2270370.692467951.m3u8"
+    },
+    {
+      "title": "Spring Security JWT | JWT Token Generator using DB Authentication",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/916776-1718387542/hls-f0764a/720p/master-2490309.873619385.m3u8"
+    },
+    {
+      "title": "Spring Security JWT part2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/919185-1718465294/hls-c8dd5a/720p/master-9090218.596740713.m3u8"
+    },
+    {
+      "title": "Spring Security OAuth",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/936686-1718988748/hls-70e04a/720p/master-9682504.106597263.m3u8"
+    },
+    {
+      "title": "Spring Boot - Configuration & Profiling",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/960218-1719671304/hls-285b41/720p/master-9554242.997259988.m3u8"
+    },
+    {
+      "title": "Web Basics | Vs Code Setup for Beginners",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1690520-1738692439/hls-b9224f/720p/master-4975642.635927308.m3u8"
+    },
+    {
+      "title": "HTML Starting",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1708614-1739104458/hls-82b58b/720p/master-5064136.855571866.m3u8"
+    },
+    {
+      "title": "HTML-Continue-2",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1712751-1739248461/hls-e1b99f/720p/master-9261516.242952477.m3u8"
+    },
+    {
+      "title": "CSS Introduction with Notes",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1747629-1740074483/hls-fd9f90/720p/master-8668408.312001089.m3u8"
+    },
+    {
+      "title": "CSS Part 2",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1753168-1740221183/hls-f5057d/720p/master-7176629.669994803.m3u8"
+    },
+    {
+      "title": "CSS Flexbox Tutorial",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1758029-1740398845/hls-4ea65c/720p/master-3257489.4938536203.m3u8"
+    },
+    {
+      "title": "CSS Grid",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1782868-1741086263/hls-dbfd27/720p/master-9509996.090604994.m3u8"
+    },
+    {
+      "title": "JavaScript Lecture 1",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1792485-1741279952/hls-03280a/720p/master-7815956.1377719715.m3u8"
+    },
+    {
+      "title": "JavaScript Lecture 2",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1793908-1741329996/hls-96ab1a/720p/master-4520258.749879571.m3u8"
+    },
+    {
+      "title": "React Zero Lecture [Mostly Theory]",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1800884-1741532119/hls-54a67a/720p/master-3120778.390129313.m3u8"
+    },
+    {
+      "title": "React.js Starting with HandsOn",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1802088-1741589543/hls-502518/720p/master-78855.7667062073.m3u8"
+    },
+    {
+      "title": "React.js Lecture 3 | Form Submission & State Management",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1808481-1741752805/hls-118f70/720p/master-6192528.7233062945.m3u8"
+    },
+    {
+      "title": "Routing in React.js | Most Important",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1811690-1741802127/hls-67c954/720p/master-3871058.6013739514.m3u8"
+    },
+    {
+      "title": "Live 0 | Just Hi Hello with All Students - part 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1364089-1730913579/hls-300aaf/720p/master-4860425.024844663.m3u8"
+    },
+    {
+      "title": "Live 0 | Hi Hello - Part 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1364112-1730914485/hls-40d62a/720p/master-401307.8015846716.m3u8"
+    },
+    {
+      "title": "Live 16th Nov | Type Casting Practice using Wrapper Classes & Strings | Introduction to Operators",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1411512-1732093668/hls-e366e8/720p/master-2705121.0872448995.m3u8"
+    },
+    {
+      "title": "Live 17th Nov | Operators & Conditional Statements",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1402274-1731911500/hls-5fc469/720p/master-5419205.573583372.m3u8"
+    },
+    {
+      "title": "23rd Nov | Live practice on Input & output",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1425327-1732434477/hls-2a2446/720p/master-8519224.33226819.m3u8"
+    },
+    {
+      "title": "If-else, switch Statements Live Practice Session",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1474298-1733626095/hls-550c0e/720p/master-1888722.2585819452.m3u8"
+    },
+    {
+      "title": "Loops Live Practice Session with - if, else & switch | String Programs",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1482848-1733834725/hls-af7b18/720p/master-6023718.680962364.m3u8"
+    },
+    {
+      "title": "You Can Skip this - Live Session on Logic Building & ChatGPT",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1515008-1734585867/hls-7368f7/720p/master-9269008.794536745.m3u8"
+    },
+    {
+      "title": "4 Jan Live Session | Encapsulation | Abstraction | Inheritance Practice Session",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1584245-1736228440/hls-f4a7cc/720p/master-8026871.321484883.m3u8"
+    },
+    {
+      "title": "5 Jan Live Session | Polymorphism in OOPS | Exception Handling ?",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1584082-1736226264/hls-f74cbf/720p/master-1114610.8554196733.m3u8"
+    },
+    {
+      "title": "12th Jan | Introduction to Interface & Multithreading",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1608566-1736698404/hls-152216/720p/master-9496739.887327403.m3u8"
+    },
+    {
+      "title": "18th Jan - Spring Boot First Live Session",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1631650-1737222920/hls-774c57/720p/master-554284.7302011866.m3u8"
+    },
+    {
+      "title": "19th Jan - Live Session",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1665203-1738037789/hls-ca3f62/720p/master-250068.90269772208.m3u8"
+    },
+    {
+      "title": "25th Jan - Live",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1665250-1738038328/hls-1c8653/720p/master-8867187.169033434.m3u8"
+    },
+    {
+      "title": "1st Feb | Sat Live Deepseek Crash Course with LocalSetup using Ollama",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1687197-1738634478/hls-622d09/720p/master-3945634.9394749044.m3u8"
+    },
+    {
+      "title": "2nd FEB | Sun Live: Collection Frameworks + Spring AI",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1687201-1738635561/hls-ef19a7/720p/master-2289083.733959949.m3u8"
+    },
+    {
+      "title": "Live Doubt Session & Interaction",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingwallahsir-data/1816266-1742097866/hls-44ccdc/720p/master-7241791.309818777.m3u8"
+    },
+    {
+      "title": "YouTube Scrapper",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/1066836-1722680368/hls-1ba4e5/720p/master-5440678.031770141.m3u8"
+    },
+    {
+      "title": "AWS Introduction | How to Deploy Spring Boot App on AWS",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/984388-1720443332/hls-6c5412/720p/master-6106654.634060109.m3u8"
+    },
+    {
+      "title": "AWS S3 | How to Deploy React.js on AWS",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingwallahsir-data/999959-1720850488/hls-e9f26f/720p/master-786987.1663291072.m3u8"
+    }
+  ],
+  "whatYouWillLearn": [
+    "Master the fundamentals and core concepts",
+    "Build real-world projects and applications",
+    "Understand best practices and industry standards",
+    "Develop problem-solving skills",
+    "Learn debugging and testing techniques",
+    "Master object-oriented programming concepts"
+  ],
+  "requirements": [
+    "Basic computer knowledge",
+    "Internet connection for video streaming",
+    "Code editor (VS Code recommended)",
+    "Motivation to learn and practice"
+  ],
+  "rating": {
+    "average": 4.2,
+    "count": 215,
+    "breakdown": {
+      "1": 5,
+      "2": 9,
+      "3": 29,
+      "4": 94,
+      "5": 265
+    }
+  },
+  "duration": "5h 49m",
+  "level": "Intermediate",
+  "language": "Hindi",
+  "studentsEnrolled": 783,
+  "lastUpdated": "2025-10-20",
+  "features": [
+    "Lifetime Access",
+    "Certificate of Completion",
+    "Mobile and Desktop Access",
+    "Downloadable Resources",
+    "Community Support"
+  ],
+  "teacherId": "codingwallahsir"
+}

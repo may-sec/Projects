@@ -1,0 +1,118 @@
+{
+  "courseName": "keerti-hld",
+  "coursecategory": "system-design",
+  "viewtype": "both",
+  "des": "Learn HLD High Level System Design by keertipurswani with comprehensive video tutorials and hands-on projects.",
+  "imageofcourse": "https://appxcontent.kaxa.in/paid_course3/2024-05-13-0.547368900127966.PNG",
+  "audio": "english",
+  "cost": 0,
+  "videoType": "hls",
+  "redirecturl": "",
+  "rank": "medium",
+  "subsection": [
+    "keertipurswani",
+    "educosys",
+    "keerti"
+  ],
+  "videos": [
+    {
+      "title": "Class 1 - Client Server Architecture and Networking",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/633ffbad-e7a9-4703-9ff6-c91f682ddd19/720p/drm-hls/master-1210456.6086147872.m3u8.m3u8"
+    },
+    {
+      "title": "Class 2 - Networking (Short Polling, Long Polling, WebSockets, SSEs)",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/969314b4-75a3-476b-94ca-5cb20f9de37c/720p/drm-hls/master-3255835.67804234.m3u8.m3u8"
+    },
+    {
+      "title": "Class 3 - Monolith, Microservices, gRPC, Webhooks",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/9571594f-0ff2-43d3-b6eb-dcca451d9d22/720p/drm-hls/master-1722668.9606174505.m3u8.m3u8"
+    },
+    {
+      "title": "Class 4 - CAP Theorem",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/7a3e6b20-9311-484b-b30a-fcb915a48ecf/720p/drm-hls/master-8145527.448009496.m3u8.m3u8"
+    },
+    {
+      "title": "Class 5 - MsgQueues, PubSub, Kafka",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/54dea7b3-1b6e-42dd-bf7c-3d81d243470d/720p/drm-hls/master-4487084.836408433.m3u8.m3u8"
+    },
+    {
+      "title": "Class 6 - Caching, Load Balancing",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/842f42cb-d780-4a1f-87db-39c2f1352b71/720p/drm-hls/master-2128906.4170911163.m3u8.m3u8"
+    },
+    {
+      "title": "Class 7 - Intro to data storage, Sharding, Scaling, Consistent Hashing",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/39b2a9b5-ed0f-42f4-ad7b-85ef12ea701c/720p/drm-hls/master-4131644.4542835075.m3u8.m3u8"
+    },
+    {
+      "title": "Class 8 - MongoDB, Neo4j, InfluxDB, Cassandra",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/78e4b3f8-b569-4c34-889b-c2b8f8642fe5/720p/drm-hls/master-119276.6620144714.m3u8.m3u8"
+    },
+    {
+      "title": "Class 9 - Distributed Transactions, SQL DB, BLOB",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/4cfd6cf0-29c7-4f5b-8424-d300341a9638/720p/drm-hls/master-8838655.452992462.m3u8.m3u8"
+    },
+    {
+      "title": "Class 10 - Capacity Estimation, Revision",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/814520d3-f8cf-4f5a-9474-5357bb0f1c68/720p/drm-hls/master-6864428.361508029.m3u8.m3u8"
+    },
+    {
+      "title": "Class 11 - GraphQL, API Design, Rate Limiting, Pagination, Filtering",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/81af52d9-9b92-4e8b-ac61-08ed6d1434f3/720p/drm-hls/master-5388647.367732748.m3u8.m3u8"
+    },
+    {
+      "title": "Class 12 - Auth, Logging, Monitoring",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/687590a0-4cfb-4241-85c0-ae9094ce6c1a/720p/drm-hls/master-2490149.9414875316.m3u8.m3u8"
+    },
+    {
+      "title": "Class 13 - Whatsapp System Design",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/590252d3-28be-4751-af03-65dcba2e3468/720p/drm-hls/master-9001184.160694713.m3u8.m3u8"
+    },
+    {
+      "title": "Class 14 - YouTube System Design",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/7ae17a83-c9bb-45e8-9708-167c22deb0aa/720p/drm-hls/master-3294153.216546336.m3u8.m3u8"
+    },
+    {
+      "title": "Class 15 - Uber, Zerodha Mock Interview",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/cf1de84c-9d21-4de0-90b9-6b3bdc3b3426/720p/drm-hls/master-8039683.424174737.m3u8.m3u8"
+    }
+  ],
+  "whatYouWillLearn": [
+    "Master high-level system design principles and patterns",
+    "Design scalable distributed systems and microservices",
+    "Understand database design and caching strategies",
+    "Learn load balancing and system optimization techniques",
+    "Design fault-tolerant and highly available systems",
+    "Master system architecture patterns and best practices"
+  ],
+  "requirements": [
+    "Basic understanding of computer science fundamentals",
+    "Knowledge of databases and distributed systems concepts",
+    "Internet connection for video streaming",
+    "Drawing tools (draw.io, Lucidchart) for system diagrams",
+    "Experience with software development and system architecture"
+  ],
+  "rating": {
+    "average": 4.3,
+    "count": 437,
+    "breakdown": {
+      "1": 4,
+      "2": 10,
+      "3": 33,
+      "4": 106,
+      "5": 341
+    }
+  },
+  "duration": "21h 10m",
+  "level": "Beginner",
+  "language": "Hinglish",
+  "studentsEnrolled": 478,
+  "lastUpdated": "2025-10-20",
+  "features": [
+    "Lifetime Access",
+    "Certificate of Completion",
+    "Mobile and Desktop Access",
+    "Downloadable Resources",
+    "Community Support"
+  ],
+  "teacherId": "keertipurswani"
+}

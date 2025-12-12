@@ -1,0 +1,6 @@
+{
+  "category": "defence-exam",
+  "des": "Defence exam preparation courses for NDA, CDS, AFCAT, and other military examinations",
+  "imageofcategory": "https://images.shiksha.com/mediadata/images/articles/1647867741phpP8R2Sn.jpeg",
+  "rank": "low"
+}

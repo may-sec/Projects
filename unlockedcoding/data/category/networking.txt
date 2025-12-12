@@ -1,0 +1,6 @@
+{
+  "category": "networking",
+  "des": "Computer networking and network security courses",
+  "imageofcategory": "https://denizhalil.com/wp-content/uploads/2024/12/Network-Monitoring-with-C-IP-And-Ethernet-Sniffing.jpg",
+  "rank": "low"
+}

@@ -1,0 +1,66 @@
+{
+    "courseName": "Namaste-React",
+    "coursecategory": "web-development",
+    "viewtype": "both",
+    "des": "A comprehensive React course taking you from zero to hero. Build real-world apps, understand how React really works under the hood, and become a frontend expert. :contentReference[oaicite:2]{index=2}",
+    "imageofcourse": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-react-banner-hd.webp",
+    "audio": "English",
+    "cost": 5499,
+    "videoType": "redirect",
+    "subsection": [
+   "namastedev"
+    ],
+    "redirecturl": "https://t.me/Haki_Un_Bot?start=BQADAQAD2RUAAvk7eUZ_f46Fa0pGKRYE",
+    "redirectsyllabus": [
+      "Episode-01 | Inception – Getting Started with React & Project Setup :contentReference[oaicite:3]{index=3}",
+      "Episode-02 | Igniting Our App – Tooling, Bundlers and File Structure :contentReference[oaicite:4]{index=4}",
+      "Episode-03 | Laying the Foundation – JSX, Components, Props & State :contentReference[oaicite:5]{index=5}",
+      "Episode-04 | Talk is Cheap, Show Me The Code – State Management, UI Data Handling :contentReference[oaicite:6]{index=6}",
+      "Episode-05 | Let's Get Hooked! – React Hooks Deep Dive :contentReference[oaicite:7]{index=7}",
+      "Episode-06 | Exploring The World – APIs, Effects, Real-World Data :contentReference[oaicite:8]{index=8}",
+      "Episode-07 | Finding the Path – Advance Topics, Routing, Performance :contentReference[oaicite:9]{index=9}",
+      "Episode-08 | Let's Get Classy – Class Components, Legacy Patterns & Migration :contentReference[oaicite:10]{index=10}",
+      "Episode-09 | Optimizing Our App – Bundling, Code-Splitting, Testing, Best Practices :contentReference[oaicite:11]{index=11}",
+      "Bonus | Projects & Interview Prep – Real-World Apps + Interview Questions :contentReference[oaicite:12]{index=12}"
+    ],
+    "rank": "high",
+    "whatYouWillLearn": [
+      "Master React fundamentals including JSX, components, props, state and hooks",
+      "Build and optimise production-ready React applications",
+      "Understand tooling, bundlers, context, redux and advanced state management",
+      "Improve app performance, implement code splitting and best frontend practices",
+      "Be interview-ready for React and frontend roles with real-world apps",
+      "Apply strong frontend foundations to design scalable UI systems"
+    ],
+    "requirements": [
+      "Basic familiarity with HTML, CSS and JavaScript",
+      "Laptop/desktop with internet connection",
+      "Willingness to build real projects and practice consistently"
+    ],
+    "rating": {
+      "average": 4.8,
+      "count": 2000,
+      "breakdown": {
+        "1": 20,
+        "2": 30,
+        "3": 100,
+        "4": 350,
+        "5": 1500
+      }
+    },
+    "duration": "50+ hours",
+    "level": "Beginner to Intermediate",
+    "language": "English",
+    "studentsEnrolled": "",
+    "lastUpdated": "2025-10-26",
+    "features": [
+      "Lifetime access to high-quality video content",
+      "Hands-on real-world projects and assignments",
+      "Premium community access for students",
+      "Certificate of completion",
+      "Detailed notes and support for interview preparation"
+    ],
+    "teacherId": "akshay-saini",
+    "videos": []
+  }
+  

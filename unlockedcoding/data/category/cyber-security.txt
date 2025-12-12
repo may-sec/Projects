@@ -1,0 +1,6 @@
+{
+  "category": "cyber-security",
+  "des": "Cybersecurity fundamentals, ethical hacking, penetration testing, and security protocols",
+  "imageofcategory": "https://innefu.com/wp-content/uploads/2025/05/How-To-Improve-Organizational-Cybersecurity.webp",
+  "rank": "low"
+}

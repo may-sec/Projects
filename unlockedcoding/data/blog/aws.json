@@ -1,0 +1,99 @@
+{
+    "id": "aws-educate-program",
+    "name": "AWS Educate Program Access",
+    "description": "Learn cloud computing with AWS Educate - get free credits, courses, and hands-on labs for students and educators.",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "requirements": [
+      "Student or educator status",
+      "Valid email address",
+      "Educational institution affiliation",
+      "Age 13+ years"
+    ],
+    "youtubeTutorialLink": "https://www.youtube.com/watch?v=lWxbtQX4vTs",
+    "steps": [
+      "Go to AWS Educate website",
+      "Click 'Join AWS Educate'",
+      "Select your role (Student or Educator)",
+      "Create AWS Educate account",
+      "Verify your email address",
+      "Complete profile with institution details",
+      "Access free AWS credits and courses"
+    ],
+    "links": [
+      {
+        "name": "AWS Educate",
+        "url": "https://aws.amazon.com/education/awseducate/"
+      },
+      {
+        "name": "Student Portal",
+        "url": "https://awseducate.com/"
+      },
+      {
+        "name": "Free Credits",
+        "url": "https://aws.amazon.com/education/awseducate/credits/"
+      }
+    ],
+    "category": "Cloud Computing",
+    "tags": ["aws", "cloud", "education", "free credits", "cloud-computing", "amazon-web-services"],
+    "featured": false,
+    "difficulty": "Beginner",
+    "estimatedTime": "10-15 minutes",
+    "readingTime": "7 min read",
+    "lastUpdated": "2024-01-20",
+    "author": "Unlocked Coding Team",
+    "benefits": [
+      "Free AWS credits for hands-on learning",
+      "Access to real cloud services (EC2, S3, Lambda)",
+      "Self-paced courses and learning paths",
+      "Career resources and job boards",
+      "Badges and certifications",
+      "Networking opportunities with industry professionals"
+    ],
+    "useCases": [
+      "Learn cloud computing fundamentals",
+      "Build and deploy applications on AWS",
+      "Practice with production-grade infrastructure",
+      "Prepare for AWS certifications",
+      "Complete hands-on projects",
+      "Explore machine learning and serverless"
+    ],
+    "troubleshooting": [
+      {
+        "issue": "Account verification taking too long",
+        "solution": "Ensure you use a valid educational email address. If verification is delayed, contact AWS Educate support with your student ID."
+      },
+      {
+        "issue": "Credits not appearing in account",
+        "solution": "Credits may take 24-48 hours to appear after account approval. Check your AWS Educate dashboard for credit allocation."
+      },
+      {
+        "issue": "Unable to access certain AWS services",
+        "solution": "Some services may be restricted in the educational account. Check the AWS Educate service limitations page for details."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How much AWS credit do I get?",
+        "answer": "AWS Educate provides a limited amount of free credits. The exact amount varies, but it's typically enough for learning and small projects."
+      },
+      {
+        "question": "Can I use AWS Educate for commercial projects?",
+        "answer": "No, AWS Educate credits are strictly for educational purposes. Commercial projects require a paid AWS account."
+      },
+      {
+        "question": "Do the credits expire?",
+        "answer": "Yes, AWS Educate credits have an expiration date. Check your account dashboard for credit expiration dates."
+      }
+    ],
+    "relatedResources": [
+      {
+        "name": "AWS Free Tier",
+        "url": "https://aws.amazon.com/free/"
+      },
+      {
+        "name": "AWS Training and Certification",
+        "url": "https://aws.amazon.com/training/"
+      }
+    ],
+    "content": "AWS Educate is Amazon Web Services' global initiative designed to provide students and educators with the resources needed to accelerate cloud-related learning. This comprehensive program offers free access to AWS cloud services, educational content, hands-on labs, and self-paced courses that help learners build practical cloud computing skills. Whether you're a computer science student looking to understand cloud infrastructure, an educator teaching cloud computing, or someone transitioning into the tech industry, AWS Educate provides a structured pathway to cloud mastery.\n\nOne of the most significant advantages of AWS Educate is the access to free AWS credits. These credits allow students to experiment with real cloud services without worrying about costs, enabling hands-on learning with production-grade infrastructure. Unlike other educational programs that provide limited access or simulated environments, AWS Educate gives you actual experience with services like EC2, S3, Lambda, and many more. This real-world exposure is invaluable for building confidence and understanding how cloud services work in practice.\n\nThe program is specifically designed to be accessible to learners at all levels. Beginners can start with foundational courses that explain cloud computing concepts in simple terms, while advanced students can dive deep into specialized topics like machine learning, serverless architecture, and DevOps practices. The curriculum includes badges and certifications that can be added to your resume, making it easier to demonstrate your cloud computing knowledge to potential employers.\n\nAWS Educate's learning environment includes AWS Educate Cloud Credits, which provides a limited amount of AWS service usage. This feature is particularly beneficial because it allows students to deploy real applications, set up databases, configure networking, and experiment with various AWS services without financial constraints. The hands-on experience gained through these credits is far more valuable than theoretical knowledge alone, as employers consistently seek candidates with practical cloud experience.\n\nBeyond technical resources, AWS Educate offers career development tools including job boards, career pathways, and networking opportunities. The platform connects students with internships and entry-level positions at companies using AWS services. Many students have found their first tech jobs through AWS Educate's career resources, making it not just an educational platform but a career launchpad.\n\nThe application process is straightforward and typically takes only a few minutes. Students need to verify their educational status, which can be done through a school email address or by providing documentation of enrollment. Once approved, access to all resources is immediate, and there's no cost involved at any stage of the process. This accessibility makes cloud computing education available to students worldwide, regardless of their financial situation or geographic location.\n\nFor educators, AWS Educate provides curriculum resources, teaching materials, and AWS credits for classroom use. This enables instructors to teach cloud computing using real AWS services, enhancing the learning experience for their students. Many universities and coding bootcamps incorporate AWS Educate into their curricula, recognizing its value in preparing students for cloud-focused careers."
+  }

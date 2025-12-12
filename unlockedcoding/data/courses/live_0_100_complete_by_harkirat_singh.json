@@ -1,0 +1,634 @@
+{
+  "courseName": "harkirat-Cohort-2",
+  "coursecategory": "web-development",
+  "copyright":true,
+  "viewtype": "both",
+  "des": "Learn Live 0 100 Complete by harkirat Singh with comprehensive video tutorials and hands-on projects.",
+  "imageofcourse": "https://appx-wsb-gcp-mcdn.akamai.net.in/teachcode/admin/COURSE/cover/1699610005757WhatsApp-Image-2023-11-10-at-3.16.18-PM.jpeg",
+  "audio": "english",
+  "cost": 0,
+  "videoType": "hls",
+  "subsection": [
+    "harkirat",
+    "harkirat-Singh",
+    "100xdevs"
+  ],
+  "redirecturl": "",
+  "rank": "high",
+  "videos": [
+    {
+      "title": "How to join discord",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/videos/harkirat-data/425237-1701049441/hls/1080p/master-622111.7225618844.m3u8.m3u8"
+    },
+    {
+      "title": "Neovim Setup",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.i~n/videos/harkirat-data/42686-1708701790/hls-01aa69/1080p/master-150519.0365779274.m3u8"
+    },
+    {
+      "title": "Mumbai meetup",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42689-1708706823/hls-5a7b70/1080p/master-9160150.341453297.m3u8"
+    },
+    {
+      "title": "Mumbai meetup (Enhanced audio)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42711-1708859104/hls-f2d61b/1080p/master-425861.58464503975.m3u8"
+    },
+    {
+      "title": "Week 7.2 | Intro to Typescript - 23/07/23",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/7e9aa8c1-89d9-4c36-9716-ed8b66ce29cd/1080p/drm-hls/master-8593397.217840541.m3u8.m3u8"
+    },
+    {
+      "title": "Week 7.3 (26 July, 2023) - Assignment on Typescript",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/e3ae1acf-b597-4a76-bf1a-19da792b24e1/1080p/drm-hls/master-351276.84864189714.m3u8.m3u8"
+    },
+    {
+      "title": "Week 8.1 | Custom hooks, Generics and zod (29-7-2023)",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/6f3ce057-49bf-4c0e-8610-64384867f0a9/1080p/drm-hls/master-7389817.239794407.m3u8.m3u8"
+    },
+    {
+      "title": "Week 10.2 | NextJS",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/f3c9ebeb-c2b0-4bbf-afbb-388a0ed26a69/1080p/drm-hls/master-9879999.402992893.m3u8.m3u8"
+    },
+    {
+      "title": "A beginners guide to contribute to CMS",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/724623-1713125781/hls-8d16eb/1080p/master-8820273.769118419.m3u8"
+    },
+    {
+      "title": "React Interview Questions",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/849785-1716557479/hls-e4a1f1/1080p/master-9689308.772252697.m3u8"
+    },
+    {
+      "title": "ESLInt, Prettier",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/867348-1717056083/hls-a86b1c/1080p/master-5930756.542126703.m3u8"
+    },
+    {
+      "title": "Week 14.1 | Trpc Intro",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/e650dd31-c859-4900-b89c-60c7f8f26c3e/1080p/drm-hls/master-830076.0029794563.m3u8.m3u8"
+    },
+    {
+      "title": "Week 14.2 | TRpc Part 2",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/bbb23576-7aed-4cad-a3b2-233f95780463/1080p/drm-hls/master-4584300.715767457.m3u8.m3u8"
+    },
+    {
+      "title": "Week 9.2 | Github CI/CD",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/cc61e09d-3a04-4862-ac0b-44bc915f0047/1080p/drm-hls/master-4361944.758632441.m3u8.m3u8"
+    },
+    {
+      "title": "Week 19.1 | Real time communication, Distributed computing (Zoom upload) (22 oct 2023)",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/d846cea5-ab41-4891-8eb3-57bf6ec98456/1080p/drm-hls/master-9875889.46047646.m3u8.m3u8"
+    },
+    {
+      "title": "Week 16.1 | GraphQL",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/dcd5c3b5-6ef5-4503-b68c-8b52c9aa661c/1080p/drm-hls/master-2703807.980942232.m3u8.m3u8"
+    },
+    {
+      "title": "Week 16.2 | graphql and setting up project locally",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/26973d50-2ffd-4dde-880a-b7fe7923fcfd/1080p/drm-hls/master-8030237.020743703.m3u8.m3u8"
+    },
+    {
+      "title": "How to solve assignments",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/videos/harkirat-data/428179-1701628555/hls/1080p/master-1018187.8846289804.m3u8.m3u8"
+    },
+    {
+      "title": "35.2 | AMA on ZOOM",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/84292-1722571652/hls-608015/1080p/master-5903236.566677159.m3u8"
+    },
+    {
+      "title": "15.3 | docker-compose, exec command, docker push command",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/43242-1710262781/hls-7d1627/1080p/master-4969322.575822553.m3u8"
+    },
+    {
+      "title": "13.3 | Offline video - Backend of Blogging app",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42869-1709367167/hls-429920/1080p/master-141057.95388186016.m3u8"
+    },
+    {
+      "title": "Orientation",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/videos/harkirat-data/428014-1701547976/hls/1080p/master-7028460.111657584.m3u8.m3u8"
+    },
+    {
+      "title": "Week 1.2 | JS Foundations",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/videos/harkirat-data/428178-1701656340/hls/1080p/master-184568.5943212283.m3u8.m3u8"
+    },
+    {
+      "title": "How to solve assignments",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/videos/harkirat-data/428179-1701628555/hls/1080p/master-1018187.8846289804.m3u8.m3u8"
+    },
+    {
+      "title": "Week 1.3 | Offline class | Basic JS APIs",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/videos/harkirat-data/429174-1701807897/hls/1080p/master-8007673.922601473.m3u8.m3u8"
+    },
+    {
+      "title": "Week 1.4 | Loops, Functions, Callback functions",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/videos/harkirat-data/313682-1701885330/hls/1080p/master-6548576.505134447.m3u8.m3u8"
+    },
+    {
+      "title": "Week 1.5 | Async functions, Promises and async await",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/videos/harkirat-data/314282-1701981617/hls/1080p/master-385947.7896450714.m3u8.m3u8"
+    },
+    {
+      "title": "Week 2.1 | Promises and async JS revision, doubt session (Zoom upload)",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/videos/harkirat-data/315296-1702191326/hls/720p/master-7666648.77568298.m3u8.m3u8"
+    },
+    {
+      "title": "Week 2.2 | Express and Backend (Zoom upload)",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/videos/harkirat-data/315400-1702240042/hls/1080p/master-9765612.77525986.m3u8.m3u8"
+    },
+    {
+      "title": "2.3 | Bash and terminal",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/316373-1702418556/hls/1080p/master-4982651.44369773.m3u8.m3u8"
+    },
+    {
+      "title": "Week 2.4 | Bash and Terminal (Advance)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/316374-1702419083/hls/1080p/master-3701240.525948841.m3u8.m3u8"
+    },
+    {
+      "title": "Week 2.5 | Express basics",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/316808-1702489402/hls/1080p/master-64832.14454093833.m3u8.m3u8"
+    },
+    {
+      "title": "2.6 | map, filter, arrow fns",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/316813-1702493178/hls/1080p/master-7614218.572974103.m3u8.m3u8"
+    },
+    {
+      "title": "2.7 | Git basics to advance",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/317447-1702622028/hls/1080p/master-2471654.1460002926.m3u8.m3u8"
+    },
+    {
+      "title": "Week 3.1 | Middlewares, global catches and zod",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/318116-1702746290/hls/1080p/master-3712460.6149765495.m3u8"
+    },
+    {
+      "title": "Week 3.2 | Dynamic backend Authentication using Express, JWT and monogodb",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/465519-1703946226/hls-fe5874/1080p/master-2114724.39999701.m3u8"
+    },
+    {
+      "title": "3.3 | Middleware recap and assignments",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/319583-1703113321/hls/1080p/master-1553107.1360588644.m3u8"
+    },
+    {
+      "title": "3.4 | JWT recap and assignment",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/319584-1703113323/hls/1080p/master-6610267.1961770775.m3u8"
+    },
+    {
+      "title": "4.0.1 | DOM Introduction",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/320022-1703191468/hls/1080p/master-348684.75574234116.m3u8"
+    },
+    {
+      "title": "week 4.1 | DOM",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/323886-1704132479/hls-3b2578/1080p/master-6405919.955593138.m3u8"
+    },
+    {
+      "title": "4.2 | Foundation for React",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/321034-1703442352/hls/1080p/master-3790241.107082606.m3u8"
+    },
+    {
+      "title": "4.3 | Mongo offline",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/322226-1703693189/hls-5e21eb/1080p/master-2944476.748659308.m3u8"
+    },
+    {
+      "title": "5.1 | Diving into React",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/323508-1703965610/hls-2a3e66/1080p/master-4925900.556239593.m3u8"
+    },
+    {
+      "title": "Week 5.1 | React (Local recording)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/467804-1704046552/hls-da6b50/1080p/master-3350113.9784150966.m3u8"
+    },
+    {
+      "title": "week 5.2 | Creating a To-Do App",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/323796-1704104939/hls-4c8ab6/1080p/master-3874593.576912506.m3u8"
+    },
+    {
+      "title": "week 5.2 | Creating a To-Do App (Re-upload)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/325238-1704399601/hls-c4fae1/1080p/master-2815851.295966958.m3u8"
+    },
+    {
+      "title": "Week 6.1 | Popular react hooks, React deep dive",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/482183-1704566446/hls-b63239/1080p/master-7079194.3714659205.m3u8"
+    },
+    {
+      "title": "Week 6.2 | useEffect, useMemo, useCallback",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/482950-1704693724/hls-c48bd5/1080p/master-7886233.956747084.m3u8"
+    },
+    {
+      "title": "6.3 | Recap of everything in react, Intro to useRef",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/329673-1705087761/hls-22b6bc/1080p/master-3554746.383673082.m3u8"
+    },
+    {
+      "title": "6.4 | Assignment solutions",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/329676-1705109181/hls-e2cc78/1080p/master-4263047.860674962.m3u8"
+    },
+    {
+      "title": "7.1 | Context, prop drilling",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/330042-1705170383/hls-3f9abd/1080p/master-3056894.055823189.m3u8"
+    },
+    {
+      "title": "7.2 | Recoil",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/330132-1705250119/hls-948a6f/1080p/master-6498075.800071641.m3u8"
+    },
+    {
+      "title": "7.3 | Recoil Deep dive",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/331549-1705538483/hls-032016/1080p/master-8545300.647718968.m3u8"
+    },
+    {
+      "title": "Week 12.2 | Tailwind, flex, grids , react recap (27th Aug)",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/87d92b70-4930-4d04-8f7d-e4b1c7610917/1080p/drm-hls/master-3339320.514653845.m3u8.m3u8"
+    },
+    {
+      "title": "8.1 | Tailwind class - Cohort 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/41787-1705771617/hls-a2a0b3/1080p/master-5819032.102800088.m3u8"
+    },
+    {
+      "title": "8.2 | Building PayTM Project",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/41867-1705893656/hls-6be18e/1080p/master-2123721.1977985515.m3u8"
+    },
+    {
+      "title": "8.3 | axios vs fetch",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42058-1706264407/hls-5b0a5c/1080p/master-9055315.916249739.m3u8"
+    },
+    {
+      "title": "8.4 | PayTM Frontend",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42059-1706313345/hls-bd5eb2/1080p/master-3706760.4350871397.m3u8"
+    },
+    {
+      "title": "9.1 | Custom hooks",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42060-1706375081/hls-5b87ed/1080p/master-4577485.757770754.m3u8"
+    },
+    {
+      "title": "9.2 | Typescript Intro",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42062-1706459503/hls-f0ee8a/1080p/master-9742616.322881073.m3u8"
+    },
+    {
+      "title": "9.3 | Generics, enums, imports, exports",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42067-1706584061/hls-3adaca/1080p/master-8874451.502100697.m3u8"
+    },
+    {
+      "title": "Week 13.1 | SQL",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/8d94142a-462a-4942-95eb-e6e3c9b01315/1080p/drm-hls/master-3087748.325759079.m3u8.m3u8"
+    },
+    {
+      "title": "16.1 | Websockets | Cohort-3",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/163851-1732615575/hls-8c3d24/1080p/master-4512539.340304473.m3u8"
+    },
+    {
+      "title": "Week 13.2 | Prisma ORM",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/4c8386c2-8e9a-4bec-bdba-42be50e9f5c5/1080p/drm-hls/master-8652020.786298815.m3u8.m3u8"
+    },
+    {
+      "title": "16.2 | WebSockets Project - Chat app | Cohort-3",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/164118-1732615576/hls-3a5450/1080p/master-1865079.8882854835.m3u8"
+    },
+    {
+      "title": "week 10.1 | Postgres",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42099-1707117351/hls-4b3770/1080p/master-1764727.0683052386.m3u8"
+    },
+    {
+      "title": "Week 30.2 | Exchange Project Part 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/940975-1719187640/hls-9f69e3/1080p/master-2654478.026729665.m3u8"
+    },
+    {
+      "title": "week 10.2 | Prisma",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42565-1708377606/hls-e0e41a/1080p/master-1069274.5841861884.m3u8"
+    },
+    {
+      "title": "11.1 | Serverless Fns",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42243-1707890591/hls-92eb79/1080p/master-6073035.333372587.m3u8"
+    },
+    {
+      "title": "11.2 | Deploying to AWS",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42255-1707889691/hls-e865e1/1080p/master-4067468.1701015714.m3u8"
+    },
+    {
+      "title": "Week 11.3 | Certificate Management",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/731212-1713294437/hls-5441ef/1080p/master-5533323.881904346.m3u8"
+    },
+    {
+      "title": "Week 12.1 | Deploying Frontends on AWS",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42583-1708426385/hls-e95ec3/1080p/master-6184944.721643939.m3u8"
+    },
+    {
+      "title": "12.2 | Typescript Advance APIs",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42575-1708417024/hls-b6b030/1080p/master-1975908.1791972676.m3u8"
+    },
+    {
+      "title": "Week 8.2 | Deploying npm packages, intro to mono repos",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/b807e2d9-c21a-4290-a0bb-1c712f43b42c/1080p/drm-hls/master-4743471.173582474.m3u8.m3u8"
+    },
+    {
+      "title": "12.3 | Actionable Docker to start packages",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42611-1708514764/hls-b70cf9/1080p/master-1316427.0092130858.m3u8"
+    },
+    {
+      "title": "12.4 | SQL Joins and Relationships",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42623-1708585862/hls-55ba19/1080p/master-6692897.782499698.m3u8"
+    },
+    {
+      "title": "12.5 | Prisma Recap, Relationships in Prisma",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42657-1708669025/hls-b8c8d5/1080p/master-1109704.8004375366.m3u8"
+    },
+    {
+      "title": "Week 12.6 | Connection pooling in serverless envs",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42671-1708680723/hls-07650b/1080p/master-7994445.265662127.m3u8"
+    },
+    {
+      "title": "Week 13.1 | Project (Local recording)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42709-1708857307/hls-7a2b30/1080p/master-558619.530827813.m3u8"
+    },
+    {
+      "title": "13.2 | AMA Session",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42769-1708958828/hls-a3fcae/1080p/master-1237492.862675631.m3u8"
+    },
+    {
+      "title": "13.3 | Offline video - Backend of blogging app (improved audio))",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42870-1709372946/hls-36a572/1080p/master-7491403.154550176.m3u8"
+    },
+    {
+      "title": "13.4 | Frontend of Blogging app",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42860-1709302510/hls-9fc788/1080p/master-4890784.4985607695.m3u8"
+    },
+    {
+      "title": "13.4 | Frontend of the blogging app",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42887-1709397229/hls-8ef2f5/1080p/master-5084489.272418495.m3u8"
+    },
+    {
+      "title": "Week 14.1 | NextJS Intro",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42888-1709398308/hls-24b477/1080p/master-78736.12103199035.m3u8"
+    },
+    {
+      "title": "14.2 | Next Backend",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/42897-1709485249/hls-946fba/1080p/master-4248203.565392788.m3u8"
+    },
+    {
+      "title": "14.3 | NextJS Backend (Offline video)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/43027-1709847166/hls-05723b/1080p/master-7925787.367493115.m3u8"
+    },
+    {
+      "title": "15.1 | Docker part 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/43129-1710007362/hls-399d62/1080p/master-5601115.993054444.m3u8"
+    },
+    {
+      "title": "15.2 | Docker part 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/43152-1710093585/hls-94431b/1080p/master-3708188.3299716976.m3u8"
+    },
+    {
+      "title": "15.2 | Docker part 2 (Reuploaded)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/43177-1710163423/hls-3da6e4/1080p/master-7509300.041437769.m3u8"
+    },
+    {
+      "title": "15.4 | Bind mounts",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/43212-1710238302/hls-5cbad3/1080p/master-5655051.696736444.m3u8"
+    },
+    {
+      "title": "16.1 | Monorepo part 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/43425-1710605324/hls-7f75d7/1080p/master-7518809.7640913855.m3u8"
+    },
+    {
+      "title": "16.2 | Monorepo part 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/43467-1710759045/hls-75ca28/1080p/master-4457214.720679783.m3u8"
+    },
+    {
+      "title": "16.3 | Authentication using cookies",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/660981-1710949476/hls-472600/1080p/master-7398266.205678376.m3u8"
+    },
+    {
+      "title": "16.4 | NextAuth",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/663709-1711029940/hls-c9f55c/1080p/master-5714695.895838768.m3u8"
+    },
+    {
+      "title": "17.1 | PayTM part 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/668152-1711219296/hls-ed49e4/1080p/master-579627.3523563467.m3u8"
+    },
+    {
+      "title": "17.2 | PayTM Part 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/668738-1711300839/hls-e969e7/1080p/master-7226651.349910578.m3u8"
+    },
+    {
+      "title": "Week 18.1 | PayTM Part 3",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/681983-1711814836/hls-3de127/1080p/master-4904809.164134669.m3u8"
+    },
+    {
+      "title": "18.1.2 | PayTM Part 3 (continued)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/681996-1711815558/hls-a9606e/1080p/master-9128134.084060302.m3u8"
+    },
+    {
+      "title": "18.2 | CI/CD",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/683573-1711958052/hls-d537c2/1080p/master-2416619.181728894.m3u8"
+    },
+    {
+      "title": "19.1 | Middlewares in Next.js",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/700726-1712349612/hls-0a6ea2/1080p/master-3844400.879923295.m3u8"
+    },
+    {
+      "title": "19.2 | CSR vs SSR vs Static Site Generation",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/700736-1712353750/hls-16f848/1080p/master-1008333.4423149925.m3u8"
+    },
+    {
+      "title": "19.3 | Advance backend comm/Websockets",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/703827-1712474710/hls-441716/1080p/master-1016078.5581304954.m3u8"
+    },
+    {
+      "title": "19.4 | Redis, Pub subs and Queues",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/704725-1712529610/hls-c1e2b7/1080p/master-5910728.928726068.m3u8"
+    },
+    {
+      "title": "1-100 orientation, setting up cms/daily | 13/04",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/723728-1713058822/hls-b54cc6/1080p/master-483611.43027377373.m3u8"
+    },
+    {
+      "title": "20.1 | OpenAPI Spec (Offline)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/733727-1713363393/hls-1a0efc/1080p/master-7426783.695560779.m3u8"
+    },
+    {
+      "title": "Week 12.1 | OpenAPI Spec (26 August 2023)",
+      "url": "https://appx-recordings-mcdn.akamai.net.in/drm/756221dc-20ad-45a1-8384-ee253927b2da/1080p/drm-hls/master-2736666.953999165.m3u8.m3u8"
+    },
+    {
+      "title": "21.1 | Rate limitting, DDoS and Captchas",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/746373-1713791773/hls-0df424/1080p/master-9873731.14184191.m3u8"
+    },
+    {
+      "title": "Week 21.2 | Singleton pattern + Pub subs",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/743843-1713738495/hls-79613b/1080p/master-3080092.826712444.m3u8"
+    },
+    {
+      "title": "Week 22.1 | Capacity estimation, Horizontal and vertical scaling, Scaling Node.js and ASGs (1/2)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/762553-1714284083/hls-2cc62e/1080p/master-2560299.9043116313.m3u8"
+    },
+    {
+      "title": "Week 22.2 | Auto Scaling Groups",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/763475-1714342032/hls-e9b76c/1080p/master-9862125.62891504.m3u8"
+    },
+    {
+      "title": "Week 22.3 | Indexing in databases",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/780634-1714731017/hls-8c7707/1080p/master-5625927.154922088.m3u8"
+    },
+    {
+      "title": "Week 22.4 | Normalization in DBs",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/782592-1714762157/hls-a81f50/1080p/master-5219890.732208457.m3u8"
+    },
+    {
+      "title": "23.1 | WebRTC",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/785495-1714869615/hls-6036b9/1080p/master-9322587.103409646.m3u8"
+    },
+    {
+      "title": "Week 23.2 | Webrtc, setting up projects, 0-1 farewell",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/786635-1714966832/hls-14c553/1080p/master-3774322.3388038683.m3u8"
+    },
+    {
+      "title": "Week 24.1 | GRPC",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/808919-1715500154/hls-dd9f3f/1080p/master-178733.38110186986.m3u8"
+    },
+    {
+      "title": "Week 24.2 | Testing in the MERN stack",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/816436-1715713635/hls-787707/1080p/master-1543567.1328139168.m3u8"
+    },
+    {
+      "title": "24.3 | Testing from start (Offline video)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/826646-1715951780/hls-2f35a8/1080p/master-1380560.3725652006.m3u8"
+    },
+    {
+      "title": "Week 25.1 | Integration and end to end tests",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/835662-1716260475/hls-2b08c0/1080p/master-8557820.925705805.m3u8"
+    },
+    {
+      "title": "Week 26.1 | Monitoring, Logging and Newrelic",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/853793-1716718218/hls-bba4e3/1080p/master-8671635.83873038.m3u8"
+    },
+    {
+      "title": "Week 26.2 | Prometheus and Grafana",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/854357-1716750257/hls-555705/1080p/master-4171662.593398786.m3u8"
+    },
+    {
+      "title": "Week 26.3 | Monitoring using Prometheus and Grafana - Part 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/870467-1717137456/hls-dffccc/1080p/master-2029732.7472980586.m3u8"
+    },
+    {
+      "title": "Week 26.4 | Monitoring using Prometheus and Grafana - Part 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/870466-1717137454/hls-48fa14/1080p/master-2741289.8158472497.m3u8"
+    },
+    {
+      "title": "27.1 | Kubernetes Part 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/875614-1717263797/hls-ba6648/1080p/master-8134999.4472287875.m3u8"
+    },
+    {
+      "title": "Week 27.2 | Kubernetes Part - 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/877695-1717421818/hls-9a0d4b/1080p/master-1107344.9204160068.m3u8"
+    },
+    {
+      "title": "28.1 | Kubernetes Part 3",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/897102-1717879759/hls-233aae/1080p/master-3901751.9528973275.m3u8"
+    },
+    {
+      "title": "Week 28.2 | Kubernetes Part 4",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/905417-1718118992/hls-2d141e/1080p/master-7177635.223319887.m3u8"
+    },
+    {
+      "title": "29.1 | Kubernetes Part 5 (Volumes, PV, PVCs)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/919344-1718481144/hls-4cfa1f/1080p/master-9235896.601715205.m3u8"
+    },
+    {
+      "title": "Week 29.2 | Kubernetes Part 6 (HPA, Node Autoscaling)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/924865-1718704169/hls-d36263/1080p/master-4937852.315827729.m3u8"
+    },
+    {
+      "title": "Week 30.1 | Exchange Project - Part 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/939787-1719102142/hls-24e2f4/1080p/master-5596434.927676898.m3u8"
+    },
+    {
+      "title": "Week 30.2 | Exchange Project Part 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/940975-1719187640/hls-9f69e3/1080p/master-2654478.026729665.m3u8"
+    },
+    {
+      "title": "31.1 | Exchange Part 3 (Backend)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/960731-1719718105/hls-e18d49/1080p/master-359620.75694717874.m3u8"
+    },
+    {
+      "title": "31.2 | Exchange Part 4 - Scalable Websocket app",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/963335-1719827927/hls-87546e/1080p/master-6473726.125404608.m3u8"
+    },
+    {
+      "title": "Week 32.1 | Kafka",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/73399-1720693530/hls-c2a5d4/1080p/master-4130280.6820878126.m3u8"
+    },
+    {
+      "title": "32.2 | Docker swarm, container orchestration",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/73479-1720698757/hls-d442fd/1080p/master-9215629.148880253.m3u8"
+    },
+    {
+      "title": "33.1 | Zapier part 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/74604-1720902512/hls-184e6b/1080p/master-5126631.112646565.m3u8"
+    },
+    {
+      "title": "33.2 | Zapier part 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/74724-1720993052/hls-c2e2f3/1080p/master-2384717.0976209342.m3u8"
+    },
+    {
+      "title": "33.3 | Zapier Part 3 (Primary Backend)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/77089-1721426494/hls-c2b140/1080p/master-2474558.2491047834.m3u8"
+    },
+    {
+      "title": "33.4 | Zapier frontend (Auth and landing page)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/77445-1721477425/hls-c03cc3/1080p/master-1553779.1899256215.m3u8"
+    },
+    {
+      "title": "33.5 | Zapier frontend Continued (Zaps and zap page)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/77524-1721488590/hls-79e63f/1080p/master-3156475.8792164316.m3u8"
+    },
+    {
+      "title": "34.1 | Zapier Setup, AMA (Live)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/77546-1721508032/hls-63dfb8/1080p/master-8826136.625947112.m3u8"
+    },
+    {
+      "title": "34.2 | Zapier finishing Frontend and Backend",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/77634-1721564553/hls-ff97d5/1080p/master-7518578.258660949.m3u8"
+    },
+    {
+      "title": "34.3 | Live Open source contributions",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/77721-1721589212/hls-b87797/1080p/master-3018623.9255323154.m3u8"
+    },
+    {
+      "title": "34.4 | Zapier - Sending emails and Solana via workers",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/79213-1721833477/hls-1ab534/1080p/master-132836.9198027568.m3u8"
+    },
+    {
+      "title": "35.1 | Adhoc coding - PayTM Merchant app",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/harkirat-data/82112-1722348994/hls-ddde3d/1080p/master-4528041.430262992.m3u8"
+    }
+  ],
+  "whatYouWillLearn": [
+    "Master full-stack web development from zero to advanced",
+    "Build real-world projects with React, Node.js, and databases",
+    "Learn modern development practices and deployment strategies",
+    "Understand system design and architecture principles",
+    "Master debugging, testing, and production optimization",
+    "Develop industry-ready skills and portfolio projects"
+  ],
+  "requirements": [
+    "Basic computer knowledge",
+    "Internet connection for video streaming",
+    "Code editor (VS Code recommended)",
+    "Motivation to learn and practice"
+  ],
+  "rating": {
+    "average": 4.7,
+    "count": 489,
+    "breakdown": {
+      "1": 2,
+      "2": 7,
+      "3": 18,
+      "4": 78,
+      "5": 233
+    }
+  },
+  "duration": "16h 37m",
+  "level": "Advanced",
+  "language": "Hindi",
+  "studentsEnrolled": 761,
+  "lastUpdated": "2025-10-20",
+  "features": [
+    "Lifetime Access",
+    "Certificate of Completion",
+    "Mobile and Desktop Access",
+    "Downloadable Resources",
+    "Community Support"
+  ],
+  "teacherId": "harkirat-singh"
+}

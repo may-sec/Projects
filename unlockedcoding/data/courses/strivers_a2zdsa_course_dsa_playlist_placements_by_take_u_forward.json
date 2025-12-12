@@ -1,0 +1,2265 @@
+{
+  "courseName": "Strivers-A2Z-DSA",
+  "coursecategory": "dsa",
+  "viewtype": "both",
+  "des": "Learn Strivers A2Z-DSA Course | DSA Playlist | Placements by take U forward with comprehensive video tutorials and hands-on projects.",
+  "imageofcourse": "https://i.ytimg.com/vi/0bHoB32fuj0/hqdefault.jpg",
+  "audio": "english",
+  "cost": 0,
+  "videoType": "youtube",
+  "redirecturl": "https://www.youtube.com/watch?v=0bHoB32fuj0",
+  "rank": "high",
+  "videos": [
+    {
+      "title": "Don't watch my A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=0bHoB32fuj0",
+      "videoId": "0bHoB32fuj0",
+      "thumbnail": "https://i.ytimg.com/vi/0bHoB32fuj0/mqdefault.jpg",
+      "publishedAt": "2024-02-29T03:32:07Z"
+    },
+    {
+      "title": "How to setup VS code for DSA and CP | Input / Output split format",
+      "url": "https://www.youtube.com/watch?v=h3uDCJ5mvgw",
+      "videoId": "h3uDCJ5mvgw",
+      "thumbnail": "https://i.ytimg.com/vi/h3uDCJ5mvgw/mqdefault.jpg",
+      "publishedAt": "2023-09-27T07:01:51Z"
+    },
+    {
+      "title": "C++ Basics in One Shot - Strivers A2Z DSA Course - L1",
+      "url": "https://www.youtube.com/watch?v=EAR7De6Goz4",
+      "videoId": "EAR7De6Goz4",
+      "thumbnail": "https://i.ytimg.com/vi/EAR7De6Goz4/mqdefault.jpg",
+      "publishedAt": "2022-12-19T06:28:57Z"
+    },
+    {
+      "title": "Time and Space Complexity - Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=FPu9Uld7W-E",
+      "videoId": "FPu9Uld7W-E",
+      "thumbnail": "https://i.ytimg.com/vi/FPu9Uld7W-E/mqdefault.jpg",
+      "publishedAt": "2022-12-31T18:09:07Z"
+    },
+    {
+      "title": "Solve any Pattern Question - Trick Explained | 22 Patterns in 1 Shot | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=tNm_NNSB3_w",
+      "videoId": "tNm_NNSB3_w",
+      "thumbnail": "https://i.ytimg.com/vi/tNm_NNSB3_w/mqdefault.jpg",
+      "publishedAt": "2023-01-02T16:49:46Z"
+    },
+    {
+      "title": "Complete C++ STL in 1 Video | Time Complexity and Notes",
+      "url": "https://www.youtube.com/watch?v=RRVYpIET_RU",
+      "videoId": "RRVYpIET_RU",
+      "thumbnail": "https://i.ytimg.com/vi/RRVYpIET_RU/mqdefault.jpg",
+      "publishedAt": "2023-01-03T20:21:07Z"
+    },
+    {
+      "title": "Basic Maths for DSA | Euclidean Algorithm | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=1xNbjMdbjug",
+      "videoId": "1xNbjMdbjug",
+      "thumbnail": "https://i.ytimg.com/vi/1xNbjMdbjug/mqdefault.jpg",
+      "publishedAt": "2023-01-08T15:44:34Z"
+    },
+    {
+      "title": "Re 1. Introduction to Recursion | Recursion Tree | Stack Space | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=yVdKa8dnKiE",
+      "videoId": "yVdKa8dnKiE",
+      "thumbnail": "https://i.ytimg.com/vi/yVdKa8dnKiE/mqdefault.jpg",
+      "publishedAt": "2023-01-08T16:13:27Z"
+    },
+    {
+      "title": "Re 2. Problems on Recursion | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=un6PLygfXrA",
+      "videoId": "un6PLygfXrA",
+      "thumbnail": "https://i.ytimg.com/vi/un6PLygfXrA/mqdefault.jpg",
+      "publishedAt": "2023-01-08T16:13:32Z"
+    },
+    {
+      "title": "Re 3. Parameterised and Functional Recursion | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=69ZCDFy-OUo",
+      "videoId": "69ZCDFy-OUo",
+      "thumbnail": "https://i.ytimg.com/vi/69ZCDFy-OUo/mqdefault.jpg",
+      "publishedAt": "2023-01-08T16:13:38Z"
+    },
+    {
+      "title": "Re 4. Problems on Functional Recursion | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=twuC1F6gLI8",
+      "videoId": "twuC1F6gLI8",
+      "thumbnail": "https://i.ytimg.com/vi/twuC1F6gLI8/mqdefault.jpg",
+      "publishedAt": "2023-01-08T16:13:45Z"
+    },
+    {
+      "title": "Re 5. Multiple Recursion Calls | Problems | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=kvRjNm4rVBE",
+      "videoId": "kvRjNm4rVBE",
+      "thumbnail": "https://i.ytimg.com/vi/kvRjNm4rVBE/mqdefault.jpg",
+      "publishedAt": "2023-01-08T16:13:49Z"
+    },
+    {
+      "title": "Hashing | Maps | Time Complexity | Collisions | Division Rule of Hashing | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=KEs5UyBJ39g",
+      "videoId": "KEs5UyBJ39g",
+      "thumbnail": "https://i.ytimg.com/vi/KEs5UyBJ39g/mqdefault.jpg",
+      "publishedAt": "2023-01-20T12:13:28Z"
+    },
+    {
+      "title": "Sorting - Part 1 | Selection Sort, Bubble Sort, Insertion Sort | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=HGk_ypEuS24",
+      "videoId": "HGk_ypEuS24",
+      "thumbnail": "https://i.ytimg.com/vi/HGk_ypEuS24/mqdefault.jpg",
+      "publishedAt": "2023-01-28T21:00:09Z"
+    },
+    {
+      "title": "Merge Sort | Algorithm | Pseudocode | Dry Run | Code | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=ogjf7ORKfd8",
+      "videoId": "ogjf7ORKfd8",
+      "thumbnail": "https://i.ytimg.com/vi/ogjf7ORKfd8/mqdefault.jpg",
+      "publishedAt": "2023-02-08T10:25:03Z"
+    },
+    {
+      "title": "Quick Sort For Beginners | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=WIrA4YexLRQ",
+      "videoId": "WIrA4YexLRQ",
+      "thumbnail": "https://i.ytimg.com/vi/WIrA4YexLRQ/mqdefault.jpg",
+      "publishedAt": "2023-03-04T11:23:01Z"
+    },
+    {
+      "title": "Find Second Largest Element in Array | Remove duplicates from Sorted Array | Arrays Intro Video",
+      "url": "https://www.youtube.com/watch?v=37E9ckMDdTk",
+      "videoId": "37E9ckMDdTk",
+      "thumbnail": "https://i.ytimg.com/vi/37E9ckMDdTk/mqdefault.jpg",
+      "publishedAt": "2023-03-01T14:49:19Z"
+    },
+    {
+      "title": "Rotate Array by K places | Union, Intersection of Sorted Arrays | Move Zeros to End | Arrays Part-2",
+      "url": "https://www.youtube.com/watch?v=wvcQg43_V8U",
+      "videoId": "wvcQg43_V8U",
+      "thumbnail": "https://i.ytimg.com/vi/wvcQg43_V8U/mqdefault.jpg",
+      "publishedAt": "2023-03-05T09:52:17Z"
+    },
+    {
+      "title": "Find element that appears once | Find missing number | Max Consecutive number of 1's | Arrays Part-3",
+      "url": "https://www.youtube.com/watch?v=bYWLJb3vCWY",
+      "videoId": "bYWLJb3vCWY",
+      "thumbnail": "https://i.ytimg.com/vi/bYWLJb3vCWY/mqdefault.jpg",
+      "publishedAt": "2023-03-10T20:59:50Z"
+    },
+    {
+      "title": "Longest Subarray with sum K | Brute - Better - Optimal | Generate Subarrays",
+      "url": "https://www.youtube.com/watch?v=frf7qxiN2qU",
+      "videoId": "frf7qxiN2qU",
+      "thumbnail": "https://i.ytimg.com/vi/frf7qxiN2qU/mqdefault.jpg",
+      "publishedAt": "2023-03-13T09:55:21Z"
+    },
+    {
+      "title": "2 Sum Problem | 2 types of the same problem for Interviews | Brute-Better-Optimal",
+      "url": "https://www.youtube.com/watch?v=UXDSeD9mN-k",
+      "videoId": "UXDSeD9mN-k",
+      "thumbnail": "https://i.ytimg.com/vi/UXDSeD9mN-k/mqdefault.jpg",
+      "publishedAt": "2023-03-14T08:06:04Z"
+    },
+    {
+      "title": "Sort an array of 0's 1's & 2's | Intuition of Algo🔥 | C++ Java Python | Brute-Better-Optimal",
+      "url": "https://www.youtube.com/watch?v=tp8JIuCXBaU",
+      "videoId": "tp8JIuCXBaU",
+      "thumbnail": "https://i.ytimg.com/vi/tp8JIuCXBaU/mqdefault.jpg",
+      "publishedAt": "2023-03-15T07:55:19Z"
+    },
+    {
+      "title": "Majority Element I | Brute-Better-Optimal | Moore's Voting Algorithm | Intuition 🔥|Brute to Optimal",
+      "url": "https://www.youtube.com/watch?v=nP_ns3uSh80",
+      "videoId": "nP_ns3uSh80",
+      "thumbnail": "https://i.ytimg.com/vi/nP_ns3uSh80/mqdefault.jpg",
+      "publishedAt": "2023-03-16T10:00:51Z"
+    },
+    {
+      "title": "Kadane's Algorithm | Maximum Subarray Sum | Finding and Printing",
+      "url": "https://www.youtube.com/watch?v=AHZpyENo7k4",
+      "videoId": "AHZpyENo7k4",
+      "thumbnail": "https://i.ytimg.com/vi/AHZpyENo7k4/mqdefault.jpg",
+      "publishedAt": "2023-03-17T20:43:02Z"
+    },
+    {
+      "title": "DP 35. Best Time to Buy and Sell Stock | DP on Stocks 🔥",
+      "url": "https://www.youtube.com/watch?v=excAOvwF_Wk",
+      "videoId": "excAOvwF_Wk",
+      "thumbnail": "https://i.ytimg.com/vi/excAOvwF_Wk/mqdefault.jpg",
+      "publishedAt": "2023-03-18T17:43:53Z"
+    },
+    {
+      "title": "Rearrange Array Elements by Sign | 2 Varieties of same Problem",
+      "url": "https://www.youtube.com/watch?v=h4aBagy4Uok",
+      "videoId": "h4aBagy4Uok",
+      "thumbnail": "https://i.ytimg.com/vi/h4aBagy4Uok/mqdefault.jpg",
+      "publishedAt": "2023-03-18T17:27:20Z"
+    },
+    {
+      "title": "Next Permutation - Intuition in Detail 🔥 | Brute to Optimal",
+      "url": "https://www.youtube.com/watch?v=JDOXKqF60RQ",
+      "videoId": "JDOXKqF60RQ",
+      "thumbnail": "https://i.ytimg.com/vi/JDOXKqF60RQ/mqdefault.jpg",
+      "publishedAt": "2023-03-23T07:52:54Z"
+    },
+    {
+      "title": "Leaders in an Array | Brute - Optimal | Strivers A2Z DSA Course",
+      "url": "https://www.youtube.com/watch?v=cHrH9CQ8pmY",
+      "videoId": "cHrH9CQ8pmY",
+      "thumbnail": "https://i.ytimg.com/vi/cHrH9CQ8pmY/mqdefault.jpg",
+      "publishedAt": "2023-03-24T21:46:13Z"
+    },
+    {
+      "title": "Longest Consecutive Sequence | Google Interview Question | Brute Better Optimal",
+      "url": "https://www.youtube.com/watch?v=oO5uLE7EUlM",
+      "videoId": "oO5uLE7EUlM",
+      "thumbnail": "https://i.ytimg.com/vi/oO5uLE7EUlM/mqdefault.jpg",
+      "publishedAt": "2023-03-27T00:39:41Z"
+    },
+    {
+      "title": "Set Matrix Zeroes | O(1) Space Approach | Brute - Better - Optimal",
+      "url": "https://www.youtube.com/watch?v=N0MgLvceX7M",
+      "videoId": "N0MgLvceX7M",
+      "thumbnail": "https://i.ytimg.com/vi/N0MgLvceX7M/mqdefault.jpg",
+      "publishedAt": "2023-03-28T09:22:56Z"
+    },
+    {
+      "title": "Rotate Matrix/Image by 90 Degrees | Brute - Optimal",
+      "url": "https://www.youtube.com/watch?v=Z0R2u6gd3GU",
+      "videoId": "Z0R2u6gd3GU",
+      "thumbnail": "https://i.ytimg.com/vi/Z0R2u6gd3GU/mqdefault.jpg",
+      "publishedAt": "2023-03-30T06:41:19Z"
+    },
+    {
+      "title": "Spiral Traversal of a Matrix | Spiral Matrix",
+      "url": "https://www.youtube.com/watch?v=3Zv-s9UUrFM",
+      "videoId": "3Zv-s9UUrFM",
+      "thumbnail": "https://i.ytimg.com/vi/3Zv-s9UUrFM/mqdefault.jpg",
+      "publishedAt": "2023-04-02T12:23:35Z"
+    },
+    {
+      "title": "Count Subarray sum Equals K | Brute - Better -Optimal",
+      "url": "https://www.youtube.com/watch?v=xvNwoz-ufXA",
+      "videoId": "xvNwoz-ufXA",
+      "thumbnail": "https://i.ytimg.com/vi/xvNwoz-ufXA/mqdefault.jpg",
+      "publishedAt": "2023-04-03T06:52:23Z"
+    },
+    {
+      "title": "Pascal Triangle | Finding nCr in minimal time",
+      "url": "https://www.youtube.com/watch?v=bR7mQgwQ_o8",
+      "videoId": "bR7mQgwQ_o8",
+      "thumbnail": "https://i.ytimg.com/vi/bR7mQgwQ_o8/mqdefault.jpg",
+      "publishedAt": "2023-04-05T06:50:43Z"
+    },
+    {
+      "title": "Majority Element II | Brute-Better-Optimal",
+      "url": "https://www.youtube.com/watch?v=vwZj1K0e9U8",
+      "videoId": "vwZj1K0e9U8",
+      "thumbnail": "https://i.ytimg.com/vi/vwZj1K0e9U8/mqdefault.jpg",
+      "publishedAt": "2023-04-14T07:09:04Z"
+    },
+    {
+      "title": "3 Sum | Brute -  Better - Optimal with Codes",
+      "url": "https://www.youtube.com/watch?v=DhFh8Kw7ymk",
+      "videoId": "DhFh8Kw7ymk",
+      "thumbnail": "https://i.ytimg.com/vi/DhFh8Kw7ymk/mqdefault.jpg",
+      "publishedAt": "2023-04-17T06:47:35Z"
+    },
+    {
+      "title": "4 Sum | Brute - Better - Optimal with Codes",
+      "url": "https://www.youtube.com/watch?v=eD95WRfh81c",
+      "videoId": "eD95WRfh81c",
+      "thumbnail": "https://i.ytimg.com/vi/eD95WRfh81c/mqdefault.jpg",
+      "publishedAt": "2023-04-18T15:10:34Z"
+    },
+    {
+      "title": "Number of Subarrays with xor K | Brute - Better - Optimal",
+      "url": "https://www.youtube.com/watch?v=eZr-6p0B7ME",
+      "videoId": "eZr-6p0B7ME",
+      "thumbnail": "https://i.ytimg.com/vi/eZr-6p0B7ME/mqdefault.jpg",
+      "publishedAt": "2023-04-25T06:38:59Z"
+    },
+    {
+      "title": "Merge Overlapping Intervals | Brute, Optimal with Precise TC analysis",
+      "url": "https://www.youtube.com/watch?v=IexN60k62jo",
+      "videoId": "IexN60k62jo",
+      "thumbnail": "https://i.ytimg.com/vi/IexN60k62jo/mqdefault.jpg",
+      "publishedAt": "2023-04-25T06:44:59Z"
+    },
+    {
+      "title": "Merge Sorted Arrays Without Extra Space | 2 Optimal Solution",
+      "url": "https://www.youtube.com/watch?v=n7uwj04E0I4",
+      "videoId": "n7uwj04E0I4",
+      "thumbnail": "https://i.ytimg.com/vi/n7uwj04E0I4/mqdefault.jpg",
+      "publishedAt": "2023-04-27T10:46:26Z"
+    },
+    {
+      "title": "Find the Missing and Repeating Number | 4 Approaches 🔥",
+      "url": "https://www.youtube.com/watch?v=2D0D8HE6uak",
+      "videoId": "2D0D8HE6uak",
+      "thumbnail": "https://i.ytimg.com/vi/2D0D8HE6uak/mqdefault.jpg",
+      "publishedAt": "2023-04-29T15:49:08Z"
+    },
+    {
+      "title": "Count Inversions in an Array | Brute and Optimal",
+      "url": "https://www.youtube.com/watch?v=AseUmwVNaoY",
+      "videoId": "AseUmwVNaoY",
+      "thumbnail": "https://i.ytimg.com/vi/AseUmwVNaoY/mqdefault.jpg",
+      "publishedAt": "2023-05-08T08:15:37Z"
+    },
+    {
+      "title": "Reverse Pairs | Hard Interview Question",
+      "url": "https://www.youtube.com/watch?v=0e4bZaP3MDI",
+      "videoId": "0e4bZaP3MDI",
+      "thumbnail": "https://i.ytimg.com/vi/0e4bZaP3MDI/mqdefault.jpg",
+      "publishedAt": "2023-05-08T08:22:10Z"
+    },
+    {
+      "title": "Maximum Product Subarray - Best Intuitive Approach Discussed",
+      "url": "https://www.youtube.com/watch?v=hnswaLJvr6g",
+      "videoId": "hnswaLJvr6g",
+      "thumbnail": "https://i.ytimg.com/vi/hnswaLJvr6g/mqdefault.jpg",
+      "publishedAt": "2023-05-10T07:15:05Z"
+    },
+    {
+      "title": "BS-1. Binary Search Introduction | Real Life Example | Iterative | Recursive | Overflow Cases",
+      "url": "https://www.youtube.com/watch?v=MHf6awe89xw",
+      "videoId": "MHf6awe89xw",
+      "thumbnail": "https://i.ytimg.com/vi/MHf6awe89xw/mqdefault.jpg",
+      "publishedAt": "2023-06-20T05:54:30Z"
+    },
+    {
+      "title": "BS-2. Implement Lower Bound and Upper Bound | Search Insert Position | Floor and Ceil",
+      "url": "https://www.youtube.com/watch?v=6zhGS79oQ4k",
+      "videoId": "6zhGS79oQ4k",
+      "thumbnail": "https://i.ytimg.com/vi/6zhGS79oQ4k/mqdefault.jpg",
+      "publishedAt": "2023-06-20T05:54:44Z"
+    },
+    {
+      "title": "BS-3. First and Last Occurrences in Array | Count occurrences in Array",
+      "url": "https://www.youtube.com/watch?v=hjR1IYVx9lY",
+      "videoId": "hjR1IYVx9lY",
+      "thumbnail": "https://i.ytimg.com/vi/hjR1IYVx9lY/mqdefault.jpg",
+      "publishedAt": "2023-06-20T06:00:41Z"
+    },
+    {
+      "title": "BS-4. Search Element in Rotated Sorted Array - I",
+      "url": "https://www.youtube.com/watch?v=5qGrJbHhqFs",
+      "videoId": "5qGrJbHhqFs",
+      "thumbnail": "https://i.ytimg.com/vi/5qGrJbHhqFs/mqdefault.jpg",
+      "publishedAt": "2023-06-20T06:01:13Z"
+    },
+    {
+      "title": "BS-5. Search Element in Rotated Sorted Array II",
+      "url": "https://www.youtube.com/watch?v=w2G2W8l__pc",
+      "videoId": "w2G2W8l__pc",
+      "thumbnail": "https://i.ytimg.com/vi/w2G2W8l__pc/mqdefault.jpg",
+      "publishedAt": "2023-06-20T06:02:22Z"
+    },
+    {
+      "title": "BS-6. Minimum in Rotated Sorted Array",
+      "url": "https://www.youtube.com/watch?v=nhEMDKMB44g",
+      "videoId": "nhEMDKMB44g",
+      "thumbnail": "https://i.ytimg.com/vi/nhEMDKMB44g/mqdefault.jpg",
+      "publishedAt": "2023-06-20T06:02:35Z"
+    },
+    {
+      "title": "BS-7. Find out how many times array has been rotated",
+      "url": "https://www.youtube.com/watch?v=jtSiWTPLwd0",
+      "videoId": "jtSiWTPLwd0",
+      "thumbnail": "https://i.ytimg.com/vi/jtSiWTPLwd0/mqdefault.jpg",
+      "publishedAt": "2023-06-20T06:02:56Z"
+    },
+    {
+      "title": "BS-8. Single Element in Sorted Array",
+      "url": "https://www.youtube.com/watch?v=AZOmHuHadxQ",
+      "videoId": "AZOmHuHadxQ",
+      "thumbnail": "https://i.ytimg.com/vi/AZOmHuHadxQ/mqdefault.jpg",
+      "publishedAt": "2023-06-20T06:03:57Z"
+    },
+    {
+      "title": "BS-9. Find Peak Element",
+      "url": "https://www.youtube.com/watch?v=cXxmbemS6XM",
+      "videoId": "cXxmbemS6XM",
+      "thumbnail": "https://i.ytimg.com/vi/cXxmbemS6XM/mqdefault.jpg",
+      "publishedAt": "2023-06-20T06:05:05Z"
+    },
+    {
+      "title": "BS-10. Finding Sqrt of a number using Binary Search",
+      "url": "https://www.youtube.com/watch?v=Bsv3FPUX_BA",
+      "videoId": "Bsv3FPUX_BA",
+      "thumbnail": "https://i.ytimg.com/vi/Bsv3FPUX_BA/mqdefault.jpg",
+      "publishedAt": "2023-06-20T06:05:26Z"
+    },
+    {
+      "title": "BS-11. Find the Nth root of an Integer",
+      "url": "https://www.youtube.com/watch?v=rjEJeYCasHs",
+      "videoId": "rjEJeYCasHs",
+      "thumbnail": "https://i.ytimg.com/vi/rjEJeYCasHs/mqdefault.jpg",
+      "publishedAt": "2023-06-21T10:24:57Z"
+    },
+    {
+      "title": "BS-12. Koko Eating Bananas",
+      "url": "https://www.youtube.com/watch?v=qyfekrNni90",
+      "videoId": "qyfekrNni90",
+      "thumbnail": "https://i.ytimg.com/vi/qyfekrNni90/mqdefault.jpg",
+      "publishedAt": "2023-06-21T10:27:25Z"
+    },
+    {
+      "title": "BS-13. Minimum days to make M bouquets | Binary Search",
+      "url": "https://www.youtube.com/watch?v=TXAuxeYBTdg",
+      "videoId": "TXAuxeYBTdg",
+      "thumbnail": "https://i.ytimg.com/vi/TXAuxeYBTdg/mqdefault.jpg",
+      "publishedAt": "2023-06-22T11:55:36Z"
+    },
+    {
+      "title": "BS-14. Find the Smallest Divisor Given a Threshold | Binary Search",
+      "url": "https://www.youtube.com/watch?v=UvBKTVaG6U8",
+      "videoId": "UvBKTVaG6U8",
+      "thumbnail": "https://i.ytimg.com/vi/UvBKTVaG6U8/mqdefault.jpg",
+      "publishedAt": "2023-06-22T11:58:16Z"
+    },
+    {
+      "title": "BS-15. Capacity to Ship Packages within D Days",
+      "url": "https://www.youtube.com/watch?v=MG-Ac4TAvTY",
+      "videoId": "MG-Ac4TAvTY",
+      "thumbnail": "https://i.ytimg.com/vi/MG-Ac4TAvTY/mqdefault.jpg",
+      "publishedAt": "2023-06-23T13:09:16Z"
+    },
+    {
+      "title": "BS-16. Kth Missing Positive Number | Maths + Binary Search",
+      "url": "https://www.youtube.com/watch?v=uZ0N_hZpyps",
+      "videoId": "uZ0N_hZpyps",
+      "thumbnail": "https://i.ytimg.com/vi/uZ0N_hZpyps/mqdefault.jpg",
+      "publishedAt": "2023-06-23T13:14:51Z"
+    },
+    {
+      "title": "BS-17. Aggressive Cows | Binary Search Hard",
+      "url": "https://www.youtube.com/watch?v=R_Mfw4ew-Vo",
+      "videoId": "R_Mfw4ew-Vo",
+      "thumbnail": "https://i.ytimg.com/vi/R_Mfw4ew-Vo/mqdefault.jpg",
+      "publishedAt": "2023-06-27T07:17:29Z"
+    },
+    {
+      "title": "BS-18. Allocate Books or Book Allocation | Hard Binary Search",
+      "url": "https://www.youtube.com/watch?v=Z0hwjftStI4",
+      "videoId": "Z0hwjftStI4",
+      "thumbnail": "https://i.ytimg.com/vi/Z0hwjftStI4/mqdefault.jpg",
+      "publishedAt": "2023-06-27T07:21:32Z"
+    },
+    {
+      "title": "BS 19. Painter's Partition and Split Array - Largest Sum",
+      "url": "https://www.youtube.com/watch?v=thUd_WJn6wk",
+      "videoId": "thUd_WJn6wk",
+      "thumbnail": "https://i.ytimg.com/vi/thUd_WJn6wk/mqdefault.jpg",
+      "publishedAt": "2023-07-12T13:58:17Z"
+    },
+    {
+      "title": "BS-20. Minimise Maximum Distance between Gas Stations | 3 Approaches | Heap | Binary Search",
+      "url": "https://www.youtube.com/watch?v=kMSBvlZ-_HA",
+      "videoId": "kMSBvlZ-_HA",
+      "thumbnail": "https://i.ytimg.com/vi/kMSBvlZ-_HA/mqdefault.jpg",
+      "publishedAt": "2023-07-16T15:29:08Z"
+    },
+    {
+      "title": "BS 21: Median of two Sorted Arrays of Different Sizes | Brute and Better Approach",
+      "url": "https://www.youtube.com/watch?v=C2rRzz-JDk8",
+      "videoId": "C2rRzz-JDk8",
+      "thumbnail": "https://i.ytimg.com/vi/C2rRzz-JDk8/mqdefault.jpg",
+      "publishedAt": "2023-08-13T08:03:09Z"
+    },
+    {
+      "title": "BS-21. Median of two Sorted Arrays of Different Sizes | Binary Search Approach With Intuition",
+      "url": "https://www.youtube.com/watch?v=F9c7LpRZWVQ",
+      "videoId": "F9c7LpRZWVQ",
+      "thumbnail": "https://i.ytimg.com/vi/F9c7LpRZWVQ/mqdefault.jpg",
+      "publishedAt": "2023-08-13T08:05:14Z"
+    },
+    {
+      "title": "Bs-22. K-th element of two sorted arrays | Binary Search Approach",
+      "url": "https://www.youtube.com/watch?v=D1oDwWCq50g",
+      "videoId": "D1oDwWCq50g",
+      "thumbnail": "https://i.ytimg.com/vi/D1oDwWCq50g/mqdefault.jpg",
+      "publishedAt": "2023-08-13T08:09:59Z"
+    },
+    {
+      "title": "BS 23. Row with maximum number of 1s | Binary Search on 2D Arrays",
+      "url": "https://www.youtube.com/watch?v=SCz-1TtYxDI",
+      "videoId": "SCz-1TtYxDI",
+      "thumbnail": "https://i.ytimg.com/vi/SCz-1TtYxDI/mqdefault.jpg",
+      "publishedAt": "2023-08-13T08:11:45Z"
+    },
+    {
+      "title": "BS-24. Search in a 2D Matrix - I | Binary Search of 2D",
+      "url": "https://www.youtube.com/watch?v=JXU4Akft7yk",
+      "videoId": "JXU4Akft7yk",
+      "thumbnail": "https://i.ytimg.com/vi/JXU4Akft7yk/mqdefault.jpg",
+      "publishedAt": "2023-08-13T08:18:16Z"
+    },
+    {
+      "title": "BS-25. Search in a 2D Matrix - II  |  Binary Search on 2D",
+      "url": "https://www.youtube.com/watch?v=9ZbB397jU4k",
+      "videoId": "9ZbB397jU4k",
+      "thumbnail": "https://i.ytimg.com/vi/9ZbB397jU4k/mqdefault.jpg",
+      "publishedAt": "2023-08-13T08:26:43Z"
+    },
+    {
+      "title": "BS-26. Find Peak Element-II | Binary Search",
+      "url": "https://www.youtube.com/watch?v=nGGp5XBzC4g",
+      "videoId": "nGGp5XBzC4g",
+      "thumbnail": "https://i.ytimg.com/vi/nGGp5XBzC4g/mqdefault.jpg",
+      "publishedAt": "2023-09-12T07:08:20Z"
+    },
+    {
+      "title": "BS-27. Median in a Row Wise Sorted Matrix",
+      "url": "https://www.youtube.com/watch?v=Q9wXgdxJq48",
+      "videoId": "Q9wXgdxJq48",
+      "thumbnail": "https://i.ytimg.com/vi/Q9wXgdxJq48/mqdefault.jpg",
+      "publishedAt": "2023-09-13T06:53:57Z"
+    },
+    {
+      "title": "L1. Introduction to Trees | Types of Trees",
+      "url": "https://www.youtube.com/watch?v=_ANrF3FJm7I",
+      "videoId": "_ANrF3FJm7I",
+      "thumbnail": "https://i.ytimg.com/vi/_ANrF3FJm7I/mqdefault.jpg",
+      "publishedAt": "2023-09-16T17:37:50Z"
+    },
+    {
+      "title": "L2. Binary Tree Representation in C++",
+      "url": "https://www.youtube.com/watch?v=ctCpP0RFDFc",
+      "videoId": "ctCpP0RFDFc",
+      "thumbnail": "https://i.ytimg.com/vi/ctCpP0RFDFc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T17:38:08Z"
+    },
+    {
+      "title": "L3. Binary Tree Representation in Java",
+      "url": "https://www.youtube.com/watch?v=hyLyW7rP24I",
+      "videoId": "hyLyW7rP24I",
+      "thumbnail": "https://i.ytimg.com/vi/hyLyW7rP24I/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:31:32Z"
+    },
+    {
+      "title": "L4. Binary Tree Traversals in Binary Tree | BFS | DFS",
+      "url": "https://www.youtube.com/watch?v=jmy0LaGET1I",
+      "videoId": "jmy0LaGET1I",
+      "thumbnail": "https://i.ytimg.com/vi/jmy0LaGET1I/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:32:45Z"
+    },
+    {
+      "title": "L5. Preorder Traversal of Binary Tree | C++ | Java | Code Explanation",
+      "url": "https://www.youtube.com/watch?v=RlUu72JrOCQ",
+      "videoId": "RlUu72JrOCQ",
+      "thumbnail": "https://i.ytimg.com/vi/RlUu72JrOCQ/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:33:40Z"
+    },
+    {
+      "title": "L6. Inorder Traversal of Binary Tree | C++ | Java | Code Explanation",
+      "url": "https://www.youtube.com/watch?v=Z_NEgBgbRVI",
+      "videoId": "Z_NEgBgbRVI",
+      "thumbnail": "https://i.ytimg.com/vi/Z_NEgBgbRVI/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:34:36Z"
+    },
+    {
+      "title": "L7. Postorder Traversal of Binary Tree | C++ | Java | Code Explanation",
+      "url": "https://www.youtube.com/watch?v=COQOU6klsBg",
+      "videoId": "COQOU6klsBg",
+      "thumbnail": "https://i.ytimg.com/vi/COQOU6klsBg/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:37:48Z"
+    },
+    {
+      "title": "L8. Level Order Traversal of Binary Tree | BFS | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=EoAsWbO7sqg",
+      "videoId": "EoAsWbO7sqg",
+      "thumbnail": "https://i.ytimg.com/vi/EoAsWbO7sqg/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:38:58Z"
+    },
+    {
+      "title": "L9. Iterative Preorder Traversal in Binary Tree | C++ | Java | Stack",
+      "url": "https://www.youtube.com/watch?v=Bfqd8BsPVuw",
+      "videoId": "Bfqd8BsPVuw",
+      "thumbnail": "https://i.ytimg.com/vi/Bfqd8BsPVuw/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:39:57Z"
+    },
+    {
+      "title": "L10. iterative Inorder Traversal in Binary Tree | C++ | Java | Stack",
+      "url": "https://www.youtube.com/watch?v=lxTGsVXjwvM",
+      "videoId": "lxTGsVXjwvM",
+      "thumbnail": "https://i.ytimg.com/vi/lxTGsVXjwvM/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:40:46Z"
+    },
+    {
+      "title": "L11. Iterative Postorder Traversal using 2 Stack | C++ | Java | Binary Tree",
+      "url": "https://www.youtube.com/watch?v=2YBhNLodD8Q",
+      "videoId": "2YBhNLodD8Q",
+      "thumbnail": "https://i.ytimg.com/vi/2YBhNLodD8Q/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:41:40Z"
+    },
+    {
+      "title": "L12. Iterative Postorder Traversal using 1 Stack | C++ | Java | Binary Trees",
+      "url": "https://www.youtube.com/watch?v=NzIGLLwZBS8",
+      "videoId": "NzIGLLwZBS8",
+      "thumbnail": "https://i.ytimg.com/vi/NzIGLLwZBS8/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:42:48Z"
+    },
+    {
+      "title": "L13. Preorder Inorder Postorder Traversals in One Traversal | C++ | Java | Stack | Binary Trees",
+      "url": "https://www.youtube.com/watch?v=ySp2epYvgTE",
+      "videoId": "ySp2epYvgTE",
+      "thumbnail": "https://i.ytimg.com/vi/ySp2epYvgTE/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:43:37Z"
+    },
+    {
+      "title": "L14. Maximum Depth in Binary Tree | Height of Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=eD3tmO66aBA",
+      "videoId": "eD3tmO66aBA",
+      "thumbnail": "https://i.ytimg.com/vi/eD3tmO66aBA/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:44:32Z"
+    },
+    {
+      "title": "L15. Check for Balanced Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=Yt50Jfbd8Po",
+      "videoId": "Yt50Jfbd8Po",
+      "thumbnail": "https://i.ytimg.com/vi/Yt50Jfbd8Po/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:45:17Z"
+    },
+    {
+      "title": "L16. Diameter of Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=Rezetez59Nk",
+      "videoId": "Rezetez59Nk",
+      "thumbnail": "https://i.ytimg.com/vi/Rezetez59Nk/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:48:00Z"
+    },
+    {
+      "title": "L17. Maximum Path Sum in Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=WszrfSwMz58",
+      "videoId": "WszrfSwMz58",
+      "thumbnail": "https://i.ytimg.com/vi/WszrfSwMz58/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:48:45Z"
+    },
+    {
+      "title": "L18. Check it two trees are Identical or Not | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=BhuvF_-PWS0",
+      "videoId": "BhuvF_-PWS0",
+      "thumbnail": "https://i.ytimg.com/vi/BhuvF_-PWS0/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:49:30Z"
+    },
+    {
+      "title": "L19. Zig-Zag or Spiral Traversal in Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=3OXWEdlIGl4",
+      "videoId": "3OXWEdlIGl4",
+      "thumbnail": "https://i.ytimg.com/vi/3OXWEdlIGl4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:50:41Z"
+    },
+    {
+      "title": "L20. Boundary Traversal in Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=0ca1nvR0be4",
+      "videoId": "0ca1nvR0be4",
+      "thumbnail": "https://i.ytimg.com/vi/0ca1nvR0be4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:51:32Z"
+    },
+    {
+      "title": "L21. Vertical Order Traversal of Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=q_a6lpbKJdw",
+      "videoId": "q_a6lpbKJdw",
+      "thumbnail": "https://i.ytimg.com/vi/q_a6lpbKJdw/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:52:09Z"
+    },
+    {
+      "title": "L22. Top View of Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=Et9OCDNvJ78",
+      "videoId": "Et9OCDNvJ78",
+      "thumbnail": "https://i.ytimg.com/vi/Et9OCDNvJ78/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:52:48Z"
+    },
+    {
+      "title": "L23. Bottom View of Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=0FtVY6I4pB8",
+      "videoId": "0FtVY6I4pB8",
+      "thumbnail": "https://i.ytimg.com/vi/0FtVY6I4pB8/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:53:22Z"
+    },
+    {
+      "title": "L24. Right/Left View of Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=KV4mRzTjlAk",
+      "videoId": "KV4mRzTjlAk",
+      "thumbnail": "https://i.ytimg.com/vi/KV4mRzTjlAk/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:54:26Z"
+    },
+    {
+      "title": "L25. Check for Symmetrical Binary Trees | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=nKggNAiEpBE",
+      "videoId": "nKggNAiEpBE",
+      "thumbnail": "https://i.ytimg.com/vi/nKggNAiEpBE/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:55:00Z"
+    },
+    {
+      "title": "L26. Print Root to Node Path in Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=fmflMqVOC7k",
+      "videoId": "fmflMqVOC7k",
+      "thumbnail": "https://i.ytimg.com/vi/fmflMqVOC7k/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:55:51Z"
+    },
+    {
+      "title": "L27. Lowest Common Ancestor in Binary Tree | LCA | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=_-QHfMDde90",
+      "videoId": "_-QHfMDde90",
+      "thumbnail": "https://i.ytimg.com/vi/_-QHfMDde90/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:56:28Z"
+    },
+    {
+      "title": "L28. Maximum Width of Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=ZbybYvcVLks",
+      "videoId": "ZbybYvcVLks",
+      "thumbnail": "https://i.ytimg.com/vi/ZbybYvcVLks/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:57:04Z"
+    },
+    {
+      "title": "L29. Children Sum Property in Binary Tree | O(N) Approach | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=fnmisPM6cVo",
+      "videoId": "fnmisPM6cVo",
+      "thumbnail": "https://i.ytimg.com/vi/fnmisPM6cVo/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:57:38Z"
+    },
+    {
+      "title": "L30. Print all the Nodes at a distance of K in Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=i9ORlEy6EsI",
+      "videoId": "i9ORlEy6EsI",
+      "thumbnail": "https://i.ytimg.com/vi/i9ORlEy6EsI/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:58:15Z"
+    },
+    {
+      "title": "L31. Minimum time taken to BURN the Binary Tree from a Node | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=2r5wLmQfD6g",
+      "videoId": "2r5wLmQfD6g",
+      "thumbnail": "https://i.ytimg.com/vi/2r5wLmQfD6g/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:58:58Z"
+    },
+    {
+      "title": "L32. Count total Nodes in a COMPLETE Binary Tree | O(Log^2 N) Approach | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=u-yWemKGWO0",
+      "videoId": "u-yWemKGWO0",
+      "thumbnail": "https://i.ytimg.com/vi/u-yWemKGWO0/mqdefault.jpg",
+      "publishedAt": "2023-09-16T18:59:31Z"
+    },
+    {
+      "title": "L33. Requirements needed to construct a Unique Binary Tree | Theory",
+      "url": "https://www.youtube.com/watch?v=9GMECGQgWrQ",
+      "videoId": "9GMECGQgWrQ",
+      "thumbnail": "https://i.ytimg.com/vi/9GMECGQgWrQ/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:00:10Z"
+    },
+    {
+      "title": "L34. Construct a Binary Tree from Preorder and Inorder Traversal | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=aZNaLrVebKQ",
+      "videoId": "aZNaLrVebKQ",
+      "thumbnail": "https://i.ytimg.com/vi/aZNaLrVebKQ/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:00:53Z"
+    },
+    {
+      "title": "L35. Construct the Binary Tree from Postorder and Inorder Traversal | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=LgLRTaEMRVc",
+      "videoId": "LgLRTaEMRVc",
+      "thumbnail": "https://i.ytimg.com/vi/LgLRTaEMRVc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:01:34Z"
+    },
+    {
+      "title": "L36. Serialize and De-serialize Binary Tree | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=-YbXySKJsX8",
+      "videoId": "-YbXySKJsX8",
+      "thumbnail": "https://i.ytimg.com/vi/-YbXySKJsX8/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:02:09Z"
+    },
+    {
+      "title": "L37. Morris Traversal | Preorder | Inorder | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=80Zug6D1_r4",
+      "videoId": "80Zug6D1_r4",
+      "thumbnail": "https://i.ytimg.com/vi/80Zug6D1_r4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:02:42Z"
+    },
+    {
+      "title": "L38. Flatten a Binary Tree to Linked List | 3 Approaches | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=sWf7k1x9XR4",
+      "videoId": "sWf7k1x9XR4",
+      "thumbnail": "https://i.ytimg.com/vi/sWf7k1x9XR4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:03:17Z"
+    },
+    {
+      "title": "L39. Introduction to Binary Search Tree | BST",
+      "url": "https://www.youtube.com/watch?v=p7-9UvDQZ3w",
+      "videoId": "p7-9UvDQZ3w",
+      "thumbnail": "https://i.ytimg.com/vi/p7-9UvDQZ3w/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:03:51Z"
+    },
+    {
+      "title": "L40. Search in a Binary Search Tree | BST | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=KcNt6v_56cc",
+      "videoId": "KcNt6v_56cc",
+      "thumbnail": "https://i.ytimg.com/vi/KcNt6v_56cc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:04:25Z"
+    },
+    {
+      "title": "L41. Ceil in a Binary Search Tree | BST | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=KSsk8AhdOZA",
+      "videoId": "KSsk8AhdOZA",
+      "thumbnail": "https://i.ytimg.com/vi/KSsk8AhdOZA/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:05:01Z"
+    },
+    {
+      "title": "L42. Floor in a Binary Search Tree | BST | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=xm_W1ub-K-w",
+      "videoId": "xm_W1ub-K-w",
+      "thumbnail": "https://i.ytimg.com/vi/xm_W1ub-K-w/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:05:39Z"
+    },
+    {
+      "title": "L43. Insert a given Node in Binary Search Tree | BST | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=FiFiNvM29ps",
+      "videoId": "FiFiNvM29ps",
+      "thumbnail": "https://i.ytimg.com/vi/FiFiNvM29ps/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:06:23Z"
+    },
+    {
+      "title": "L44. Delete a Node in Binary Search Tree | BST | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=kouxiP_H5WE",
+      "videoId": "kouxiP_H5WE",
+      "thumbnail": "https://i.ytimg.com/vi/kouxiP_H5WE/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:06:56Z"
+    },
+    {
+      "title": "L45. K-th Smallest/Largest Element in BST",
+      "url": "https://www.youtube.com/watch?v=9TJYWh0adfk",
+      "videoId": "9TJYWh0adfk",
+      "thumbnail": "https://i.ytimg.com/vi/9TJYWh0adfk/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:07:35Z"
+    },
+    {
+      "title": "L46. Check if a tree is a BST or BT | Validate a BST",
+      "url": "https://www.youtube.com/watch?v=f-sj7I5oXEI",
+      "videoId": "f-sj7I5oXEI",
+      "thumbnail": "https://i.ytimg.com/vi/f-sj7I5oXEI/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:08:06Z"
+    },
+    {
+      "title": "L47. LCA in Binary Search Tree",
+      "url": "https://www.youtube.com/watch?v=cX_kPV_foZc",
+      "videoId": "cX_kPV_foZc",
+      "thumbnail": "https://i.ytimg.com/vi/cX_kPV_foZc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:08:36Z"
+    },
+    {
+      "title": "L48. Construct a BST from a preorder traversal | 3 Methods",
+      "url": "https://www.youtube.com/watch?v=UmJT3j26t1I",
+      "videoId": "UmJT3j26t1I",
+      "thumbnail": "https://i.ytimg.com/vi/UmJT3j26t1I/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:09:09Z"
+    },
+    {
+      "title": "L49. Inorder Successor/Predecessor in BST | 3 Methods",
+      "url": "https://www.youtube.com/watch?v=SXKAD2svfmI",
+      "videoId": "SXKAD2svfmI",
+      "thumbnail": "https://i.ytimg.com/vi/SXKAD2svfmI/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:09:42Z"
+    },
+    {
+      "title": "L50. Binary Search Tree Iterator | BST | O(H) Space",
+      "url": "https://www.youtube.com/watch?v=D2jMcmxU4bs",
+      "videoId": "D2jMcmxU4bs",
+      "thumbnail": "https://i.ytimg.com/vi/D2jMcmxU4bs/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:10:14Z"
+    },
+    {
+      "title": "L51. Two Sum In BST | Check if there exists a pair with Sum K",
+      "url": "https://www.youtube.com/watch?v=ssL3sHwPeb4",
+      "videoId": "ssL3sHwPeb4",
+      "thumbnail": "https://i.ytimg.com/vi/ssL3sHwPeb4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:10:38Z"
+    },
+    {
+      "title": "L52. Recover BST | Correct BST with two nodes swapped",
+      "url": "https://www.youtube.com/watch?v=ZWGW7FminDM",
+      "videoId": "ZWGW7FminDM",
+      "thumbnail": "https://i.ytimg.com/vi/ZWGW7FminDM/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:11:05Z"
+    },
+    {
+      "title": "L53. Largest BST in Binary Tree",
+      "url": "https://www.youtube.com/watch?v=X0oXMdtUDwo",
+      "videoId": "X0oXMdtUDwo",
+      "thumbnail": "https://i.ytimg.com/vi/X0oXMdtUDwo/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:11:46Z"
+    },
+    {
+      "title": "G-1. Introduction to Graph | Types | Different Conventions Used",
+      "url": "https://www.youtube.com/watch?v=M3_pLsDdeuU",
+      "videoId": "M3_pLsDdeuU",
+      "thumbnail": "https://i.ytimg.com/vi/M3_pLsDdeuU/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:27:07Z"
+    },
+    {
+      "title": "G-2. Graph Representation in C++ | Two Ways to Represent",
+      "url": "https://www.youtube.com/watch?v=3oI-34aPMWM",
+      "videoId": "3oI-34aPMWM",
+      "thumbnail": "https://i.ytimg.com/vi/3oI-34aPMWM/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:15:27Z"
+    },
+    {
+      "title": "G-3. Graph Representation in Java | Two Ways to Represent",
+      "url": "https://www.youtube.com/watch?v=OsNklbh9gYI",
+      "videoId": "OsNklbh9gYI",
+      "thumbnail": "https://i.ytimg.com/vi/OsNklbh9gYI/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:16:53Z"
+    },
+    {
+      "title": "G-4. What are Connected Components ?",
+      "url": "https://www.youtube.com/watch?v=lea-Wl_uWXY",
+      "videoId": "lea-Wl_uWXY",
+      "thumbnail": "https://i.ytimg.com/vi/lea-Wl_uWXY/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:17:23Z"
+    },
+    {
+      "title": "G-5. Breadth-First Search (BFS) | C++ and Java | Traversal Technique in Graphs",
+      "url": "https://www.youtube.com/watch?v=-tgVpUgsQ5k",
+      "videoId": "-tgVpUgsQ5k",
+      "thumbnail": "https://i.ytimg.com/vi/-tgVpUgsQ5k/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:17:58Z"
+    },
+    {
+      "title": "G-6. Depth-First Search (DFS) | C++ and Java | Traversal Technique in Graphs",
+      "url": "https://www.youtube.com/watch?v=Qzf1a--rhp8",
+      "videoId": "Qzf1a--rhp8",
+      "thumbnail": "https://i.ytimg.com/vi/Qzf1a--rhp8/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:18:33Z"
+    },
+    {
+      "title": "G-7. Number of Provinces | C++ | Java | Connected Components",
+      "url": "https://www.youtube.com/watch?v=ACzkVtewUYA",
+      "videoId": "ACzkVtewUYA",
+      "thumbnail": "https://i.ytimg.com/vi/ACzkVtewUYA/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:18:57Z"
+    },
+    {
+      "title": "G-8. Number of Islands | Number of Connected Components in Matrix | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=muncqlKJrH0",
+      "videoId": "muncqlKJrH0",
+      "thumbnail": "https://i.ytimg.com/vi/muncqlKJrH0/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:19:25Z"
+    },
+    {
+      "title": "G-9. Flood Fill Algorithm | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=C-2_uSRli8o",
+      "videoId": "C-2_uSRli8o",
+      "thumbnail": "https://i.ytimg.com/vi/C-2_uSRli8o/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:19:53Z"
+    },
+    {
+      "title": "G-10. Rotten Oranges | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=yf3oUhkvqA0",
+      "videoId": "yf3oUhkvqA0",
+      "thumbnail": "https://i.ytimg.com/vi/yf3oUhkvqA0/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:20:27Z"
+    },
+    {
+      "title": "G-11. Detect a Cycle in an Undirected Graph using BFS | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=BPlrALf1LDU",
+      "videoId": "BPlrALf1LDU",
+      "thumbnail": "https://i.ytimg.com/vi/BPlrALf1LDU/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:20:58Z"
+    },
+    {
+      "title": "G-12. Detect a Cycle in an Undirected Graph using DFS | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=zQ3zgFypzX4",
+      "videoId": "zQ3zgFypzX4",
+      "thumbnail": "https://i.ytimg.com/vi/zQ3zgFypzX4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:21:33Z"
+    },
+    {
+      "title": "G-13. Distance of nearest cell having 1 | 0/1 Matrix | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=edXdVwkYHF8",
+      "videoId": "edXdVwkYHF8",
+      "thumbnail": "https://i.ytimg.com/vi/edXdVwkYHF8/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:22:10Z"
+    },
+    {
+      "title": "G-14. Surrounded Regions | Replace O's with X's | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=BtdgAys4yMk",
+      "videoId": "BtdgAys4yMk",
+      "thumbnail": "https://i.ytimg.com/vi/BtdgAys4yMk/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:22:44Z"
+    },
+    {
+      "title": "G-15. Number of Enclaves | Multi-source BFS | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=rxKcepXQgU4",
+      "videoId": "rxKcepXQgU4",
+      "thumbnail": "https://i.ytimg.com/vi/rxKcepXQgU4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:23:15Z"
+    },
+    {
+      "title": "G-16. Number of Distinct Islands | Constructive Thinking + DFS | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=7zmgQSJghpo",
+      "videoId": "7zmgQSJghpo",
+      "thumbnail": "https://i.ytimg.com/vi/7zmgQSJghpo/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:23:43Z"
+    },
+    {
+      "title": "G-17. Bipartite Graph | BFS | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=-vu34sct1g8",
+      "videoId": "-vu34sct1g8",
+      "thumbnail": "https://i.ytimg.com/vi/-vu34sct1g8/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:24:13Z"
+    },
+    {
+      "title": "G-18. Bipartite Graph | DFS | C++ | Java",
+      "url": "https://www.youtube.com/watch?v=KG5YFfR0j8A",
+      "videoId": "KG5YFfR0j8A",
+      "thumbnail": "https://i.ytimg.com/vi/KG5YFfR0j8A/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:25:01Z"
+    },
+    {
+      "title": "G-19. Detect cycle in a directed graph using DFS | Java | C++",
+      "url": "https://www.youtube.com/watch?v=9twcmtQj4DU",
+      "videoId": "9twcmtQj4DU",
+      "thumbnail": "https://i.ytimg.com/vi/9twcmtQj4DU/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:25:28Z"
+    },
+    {
+      "title": "G-20. Find Eventual Safe States - DFS",
+      "url": "https://www.youtube.com/watch?v=uRbJ1OF9aYM",
+      "videoId": "uRbJ1OF9aYM",
+      "thumbnail": "https://i.ytimg.com/vi/uRbJ1OF9aYM/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:25:58Z"
+    },
+    {
+      "title": "G-21. Topological Sort Algorithm | DFS",
+      "url": "https://www.youtube.com/watch?v=5lZ0iJMrUMk",
+      "videoId": "5lZ0iJMrUMk",
+      "thumbnail": "https://i.ytimg.com/vi/5lZ0iJMrUMk/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:26:28Z"
+    },
+    {
+      "title": "G-22. Kahn's Algorithm | Topological Sort Algorithm | BFS",
+      "url": "https://www.youtube.com/watch?v=73sneFXuTEg",
+      "videoId": "73sneFXuTEg",
+      "thumbnail": "https://i.ytimg.com/vi/73sneFXuTEg/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:26:57Z"
+    },
+    {
+      "title": "G-23. Detect a Cycle in Directed Graph | Topological Sort | Kahn's Algorithm | BFS",
+      "url": "https://www.youtube.com/watch?v=iTBaI90lpDQ",
+      "videoId": "iTBaI90lpDQ",
+      "thumbnail": "https://i.ytimg.com/vi/iTBaI90lpDQ/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:27:26Z"
+    },
+    {
+      "title": "G-24. Course Schedule I and II | Pre-requisite Tasks | Topological Sort",
+      "url": "https://www.youtube.com/watch?v=WAOfKpxYHR8",
+      "videoId": "WAOfKpxYHR8",
+      "thumbnail": "https://i.ytimg.com/vi/WAOfKpxYHR8/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:27:58Z"
+    },
+    {
+      "title": "G-25. Find Eventual Safe States - BFS - Topological Sort",
+      "url": "https://www.youtube.com/watch?v=2gtg3VsDGyc",
+      "videoId": "2gtg3VsDGyc",
+      "thumbnail": "https://i.ytimg.com/vi/2gtg3VsDGyc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:28:30Z"
+    },
+    {
+      "title": "G-26. Alien Dictionary - Topological Sort",
+      "url": "https://www.youtube.com/watch?v=U3N_je7tWAs",
+      "videoId": "U3N_je7tWAs",
+      "thumbnail": "https://i.ytimg.com/vi/U3N_je7tWAs/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:28:57Z"
+    },
+    {
+      "title": "G-27. Shortest Path in Directed Acyclic Graph - Topological Sort",
+      "url": "https://www.youtube.com/watch?v=ZUFQfFaU-8U",
+      "videoId": "ZUFQfFaU-8U",
+      "thumbnail": "https://i.ytimg.com/vi/ZUFQfFaU-8U/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:29:28Z"
+    },
+    {
+      "title": "G-28. Shortest Path in Undirected Graph with Unit Weights",
+      "url": "https://www.youtube.com/watch?v=C4gxoTaI71U",
+      "videoId": "C4gxoTaI71U",
+      "thumbnail": "https://i.ytimg.com/vi/C4gxoTaI71U/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:29:58Z"
+    },
+    {
+      "title": "G-29. Word Ladder - I | Shortest Paths",
+      "url": "https://www.youtube.com/watch?v=tRPda0rcf8E",
+      "videoId": "tRPda0rcf8E",
+      "thumbnail": "https://i.ytimg.com/vi/tRPda0rcf8E/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:30:27Z"
+    },
+    {
+      "title": "G-30. Word Ladder - 2 | Shortest Paths",
+      "url": "https://www.youtube.com/watch?v=DREutrv2XD0",
+      "videoId": "DREutrv2XD0",
+      "thumbnail": "https://i.ytimg.com/vi/DREutrv2XD0/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:30:55Z"
+    },
+    {
+      "title": "G-31. Word Ladder - 2 | Optimised Approach for Leetcode",
+      "url": "https://www.youtube.com/watch?v=AD4SFl7tu7I",
+      "videoId": "AD4SFl7tu7I",
+      "thumbnail": "https://i.ytimg.com/vi/AD4SFl7tu7I/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:31:25Z"
+    },
+    {
+      "title": "G-32. Dijkstra's Algorithm - Using Priority Queue - C++ and Java - Part 1",
+      "url": "https://www.youtube.com/watch?v=V6H1qAeB-l4",
+      "videoId": "V6H1qAeB-l4",
+      "thumbnail": "https://i.ytimg.com/vi/V6H1qAeB-l4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:31:52Z"
+    },
+    {
+      "title": "G-33. Dijkstra's Algorithm - Using Set - Part 2",
+      "url": "https://www.youtube.com/watch?v=PATgNiuTP20",
+      "videoId": "PATgNiuTP20",
+      "thumbnail": "https://i.ytimg.com/vi/PATgNiuTP20/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:32:19Z"
+    },
+    {
+      "title": "G-34. Dijkstra's Algorithm - Why PQ and not Q, Intuition, Time Complexity Derivation - Part 3",
+      "url": "https://www.youtube.com/watch?v=3dINsjyfooY",
+      "videoId": "3dINsjyfooY",
+      "thumbnail": "https://i.ytimg.com/vi/3dINsjyfooY/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:32:51Z"
+    },
+    {
+      "title": "G-35. Print Shortest Path - Dijkstra's Algorithm",
+      "url": "https://www.youtube.com/watch?v=rp1SMw7HSO8",
+      "videoId": "rp1SMw7HSO8",
+      "thumbnail": "https://i.ytimg.com/vi/rp1SMw7HSO8/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:33:22Z"
+    },
+    {
+      "title": "G-36. Shortest Distance in a Binary Maze",
+      "url": "https://www.youtube.com/watch?v=U5Mw4eyUmw4",
+      "videoId": "U5Mw4eyUmw4",
+      "thumbnail": "https://i.ytimg.com/vi/U5Mw4eyUmw4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:33:51Z"
+    },
+    {
+      "title": "G-37. Path With Minimum Effort",
+      "url": "https://www.youtube.com/watch?v=0ytpZyiZFhA",
+      "videoId": "0ytpZyiZFhA",
+      "thumbnail": "https://i.ytimg.com/vi/0ytpZyiZFhA/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:34:20Z"
+    },
+    {
+      "title": "G-38. Cheapest Flights Within K Stops",
+      "url": "https://www.youtube.com/watch?v=9XybHVqTHcQ",
+      "videoId": "9XybHVqTHcQ",
+      "thumbnail": "https://i.ytimg.com/vi/9XybHVqTHcQ/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:34:51Z"
+    },
+    {
+      "title": "G-39. Minimum Multiplications to Reach End",
+      "url": "https://www.youtube.com/watch?v=_BvEJ3VIDWw",
+      "videoId": "_BvEJ3VIDWw",
+      "thumbnail": "https://i.ytimg.com/vi/_BvEJ3VIDWw/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:35:27Z"
+    },
+    {
+      "title": "G-40. Number of Ways to Arrive at Destination",
+      "url": "https://www.youtube.com/watch?v=_-0mx0SmYxA",
+      "videoId": "_-0mx0SmYxA",
+      "thumbnail": "https://i.ytimg.com/vi/_-0mx0SmYxA/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:36:00Z"
+    },
+    {
+      "title": "G-41. Bellman Ford Algorithm",
+      "url": "https://www.youtube.com/watch?v=0vVofAhAYjc",
+      "videoId": "0vVofAhAYjc",
+      "thumbnail": "https://i.ytimg.com/vi/0vVofAhAYjc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:36:33Z"
+    },
+    {
+      "title": "G-42. Floyd Warshall Algorithm",
+      "url": "https://www.youtube.com/watch?v=YbY8cVwWAvw",
+      "videoId": "YbY8cVwWAvw",
+      "thumbnail": "https://i.ytimg.com/vi/YbY8cVwWAvw/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:37:02Z"
+    },
+    {
+      "title": "G-43. Find the City With the Smallest Number of Neighbours at a Threshold Distance",
+      "url": "https://www.youtube.com/watch?v=PwMVNSJ5SLI",
+      "videoId": "PwMVNSJ5SLI",
+      "thumbnail": "https://i.ytimg.com/vi/PwMVNSJ5SLI/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:37:30Z"
+    },
+    {
+      "title": "G-44. Minimum Spanning Tree - Theory",
+      "url": "https://www.youtube.com/watch?v=ZSPjZuZWCME",
+      "videoId": "ZSPjZuZWCME",
+      "thumbnail": "https://i.ytimg.com/vi/ZSPjZuZWCME/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:37:58Z"
+    },
+    {
+      "title": "G-45. Prim's Algorithm - Minimum Spanning Tree - C++ and Java",
+      "url": "https://www.youtube.com/watch?v=mJcZjjKzeqk",
+      "videoId": "mJcZjjKzeqk",
+      "thumbnail": "https://i.ytimg.com/vi/mJcZjjKzeqk/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:38:28Z"
+    },
+    {
+      "title": "G-46. Disjoint Set | Union by Rank | Union by Size | Path Compression",
+      "url": "https://www.youtube.com/watch?v=aBxjDBC4M1U",
+      "videoId": "aBxjDBC4M1U",
+      "thumbnail": "https://i.ytimg.com/vi/aBxjDBC4M1U/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:39:43Z"
+    },
+    {
+      "title": "G-47. Kruskal's Algorithm - Minimum Spanning Tree - C++ and Java",
+      "url": "https://www.youtube.com/watch?v=DMnDM_sxVig",
+      "videoId": "DMnDM_sxVig",
+      "thumbnail": "https://i.ytimg.com/vi/DMnDM_sxVig/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:40:16Z"
+    },
+    {
+      "title": "G-48. Number of Provinces - Disjoint Set",
+      "url": "https://www.youtube.com/watch?v=ZGr5nX-Gi6Y",
+      "videoId": "ZGr5nX-Gi6Y",
+      "thumbnail": "https://i.ytimg.com/vi/ZGr5nX-Gi6Y/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:40:45Z"
+    },
+    {
+      "title": "G-49. Number of Operations to Make Network Connected - DSU",
+      "url": "https://www.youtube.com/watch?v=FYrl7iz9_ZU",
+      "videoId": "FYrl7iz9_ZU",
+      "thumbnail": "https://i.ytimg.com/vi/FYrl7iz9_ZU/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:41:17Z"
+    },
+    {
+      "title": "G-50. Accounts Merge - DSU",
+      "url": "https://www.youtube.com/watch?v=FMwpt_aQOGw",
+      "videoId": "FMwpt_aQOGw",
+      "thumbnail": "https://i.ytimg.com/vi/FMwpt_aQOGw/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:41:47Z"
+    },
+    {
+      "title": "G-51. Number of Islands - II - Online Queries - DSU",
+      "url": "https://www.youtube.com/watch?v=Rn6B-Q4SNyA",
+      "videoId": "Rn6B-Q4SNyA",
+      "thumbnail": "https://i.ytimg.com/vi/Rn6B-Q4SNyA/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:42:15Z"
+    },
+    {
+      "title": "G-52. Making a Large Island - DSU",
+      "url": "https://www.youtube.com/watch?v=lgiz0Oup6gM",
+      "videoId": "lgiz0Oup6gM",
+      "thumbnail": "https://i.ytimg.com/vi/lgiz0Oup6gM/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:42:43Z"
+    },
+    {
+      "title": "G-53. Most Stones Removed with Same Row or Column - DSU",
+      "url": "https://www.youtube.com/watch?v=OwMNX8SPavM",
+      "videoId": "OwMNX8SPavM",
+      "thumbnail": "https://i.ytimg.com/vi/OwMNX8SPavM/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:43:15Z"
+    },
+    {
+      "title": "G-54. Strongly Connected Components - Kosaraju's Algorithm",
+      "url": "https://www.youtube.com/watch?v=R6uoSjZ2imo",
+      "videoId": "R6uoSjZ2imo",
+      "thumbnail": "https://i.ytimg.com/vi/R6uoSjZ2imo/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:43:46Z"
+    },
+    {
+      "title": "G-55. Bridges in Graph - Using Tarjan's Algorithm of time in and low time",
+      "url": "https://www.youtube.com/watch?v=qrAub5z8FeA",
+      "videoId": "qrAub5z8FeA",
+      "thumbnail": "https://i.ytimg.com/vi/qrAub5z8FeA/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:44:16Z"
+    },
+    {
+      "title": "G-56. Articulation Point in Graph",
+      "url": "https://www.youtube.com/watch?v=j1QDfU21iZk",
+      "videoId": "j1QDfU21iZk",
+      "thumbnail": "https://i.ytimg.com/vi/j1QDfU21iZk/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:44:44Z"
+    },
+    {
+      "title": "DP 1. Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimization Techniques",
+      "url": "https://www.youtube.com/watch?v=tyB0ztf0DNY",
+      "videoId": "tyB0ztf0DNY",
+      "thumbnail": "https://i.ytimg.com/vi/tyB0ztf0DNY/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:25:08Z"
+    },
+    {
+      "title": "DP 2. Climbing Stairs | Learn How to Write 1D Recurrence Relations",
+      "url": "https://www.youtube.com/watch?v=mLfjzJsN8us",
+      "videoId": "mLfjzJsN8us",
+      "thumbnail": "https://i.ytimg.com/vi/mLfjzJsN8us/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:46:59Z"
+    },
+    {
+      "title": "DP 3. Frog Jump | Dynamic Programming | Learn to write 1D DP",
+      "url": "https://www.youtube.com/watch?v=EgG3jsGoPvQ",
+      "videoId": "EgG3jsGoPvQ",
+      "thumbnail": "https://i.ytimg.com/vi/EgG3jsGoPvQ/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:47:35Z"
+    },
+    {
+      "title": "DP 4. Frog Jump with K Distance | Lecture 3 Follow Up Question",
+      "url": "https://www.youtube.com/watch?v=Kmh3rhyEtB8",
+      "videoId": "Kmh3rhyEtB8",
+      "thumbnail": "https://i.ytimg.com/vi/Kmh3rhyEtB8/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:48:13Z"
+    },
+    {
+      "title": "DP 5. Maximum Sum of Non-Adjacent Elements | House Robber | 1-D | DP on Subsequences",
+      "url": "https://www.youtube.com/watch?v=GrMBfJNk_NY",
+      "videoId": "GrMBfJNk_NY",
+      "thumbnail": "https://i.ytimg.com/vi/GrMBfJNk_NY/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:48:51Z"
+    },
+    {
+      "title": "DP 6. House Robber 2 | 1D DP | DP on Subsequences",
+      "url": "https://www.youtube.com/watch?v=3WaxQMELSkw",
+      "videoId": "3WaxQMELSkw",
+      "thumbnail": "https://i.ytimg.com/vi/3WaxQMELSkw/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:49:28Z"
+    },
+    {
+      "title": "DP 7. Ninja's Training | MUST WATCH for 2D CONCEPTS 🔥 | Vacation | Atcoder | 2D DP |",
+      "url": "https://www.youtube.com/watch?v=AE39gJYuRog",
+      "videoId": "AE39gJYuRog",
+      "thumbnail": "https://i.ytimg.com/vi/AE39gJYuRog/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:50:11Z"
+    },
+    {
+      "title": "DP 8. Grid Unique Paths | Learn Everything about DP on Grids | ALL TECHNIQUES 🔥",
+      "url": "https://www.youtube.com/watch?v=sdE0A2Oxofw",
+      "videoId": "sdE0A2Oxofw",
+      "thumbnail": "https://i.ytimg.com/vi/sdE0A2Oxofw/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:50:46Z"
+    },
+    {
+      "title": "DP 9. Unique Paths 2 | DP on Grid with Maze Obstacles",
+      "url": "https://www.youtube.com/watch?v=TmhpgXScLyY",
+      "videoId": "TmhpgXScLyY",
+      "thumbnail": "https://i.ytimg.com/vi/TmhpgXScLyY/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:51:38Z"
+    },
+    {
+      "title": "DP 10. Minimum Path Sum in Grid | Asked to me In Microsoft Internship Interview | DP on GRIDS",
+      "url": "https://www.youtube.com/watch?v=_rgTlyky1uQ",
+      "videoId": "_rgTlyky1uQ",
+      "thumbnail": "https://i.ytimg.com/vi/_rgTlyky1uQ/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:52:14Z"
+    },
+    {
+      "title": "DP 11. Triangle | Fixed Starting Point and Variable Ending Point | DP on GRIDS",
+      "url": "https://www.youtube.com/watch?v=SrP-PiLSYC0",
+      "videoId": "SrP-PiLSYC0",
+      "thumbnail": "https://i.ytimg.com/vi/SrP-PiLSYC0/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:52:48Z"
+    },
+    {
+      "title": "DP 12. Minimum/Maximum Falling Path Sum | Variable Starting and Ending Points | DP on Grids",
+      "url": "https://www.youtube.com/watch?v=N_aJ5qQbYA0",
+      "videoId": "N_aJ5qQbYA0",
+      "thumbnail": "https://i.ytimg.com/vi/N_aJ5qQbYA0/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:53:26Z"
+    },
+    {
+      "title": "DP 13. Cherry Pickup II | 3D DP Made Easy | DP On Grids",
+      "url": "https://www.youtube.com/watch?v=QGfn7JeXK54",
+      "videoId": "QGfn7JeXK54",
+      "thumbnail": "https://i.ytimg.com/vi/QGfn7JeXK54/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:54:03Z"
+    },
+    {
+      "title": "DP 14. Subset Sum Equals to Target | Identify DP on Subsequences and Ways to Solve them",
+      "url": "https://www.youtube.com/watch?v=fWX9xDmIzRI",
+      "videoId": "fWX9xDmIzRI",
+      "thumbnail": "https://i.ytimg.com/vi/fWX9xDmIzRI/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:54:40Z"
+    },
+    {
+      "title": "DP 15. Partition Equal Subset Sum | DP on Subsequences",
+      "url": "https://www.youtube.com/watch?v=7win3dcgo3k",
+      "videoId": "7win3dcgo3k",
+      "thumbnail": "https://i.ytimg.com/vi/7win3dcgo3k/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:55:13Z"
+    },
+    {
+      "title": "Dp 16. Partition A Set Into Two Subsets With Minimum Absolute Sum Difference | DP on Subsequences",
+      "url": "https://www.youtube.com/watch?v=GS_OqZb2CWc",
+      "videoId": "GS_OqZb2CWc",
+      "thumbnail": "https://i.ytimg.com/vi/GS_OqZb2CWc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:56:00Z"
+    },
+    {
+      "title": "DP 17. Counts Subsets with Sum K | Dp on Subsequences",
+      "url": "https://www.youtube.com/watch?v=ZHyb-A2Mte4",
+      "videoId": "ZHyb-A2Mte4",
+      "thumbnail": "https://i.ytimg.com/vi/ZHyb-A2Mte4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:56:33Z"
+    },
+    {
+      "title": "DP 18. Count Partitions With Given Difference | Dp on Subsequences",
+      "url": "https://www.youtube.com/watch?v=zoilQD1kYSg",
+      "videoId": "zoilQD1kYSg",
+      "thumbnail": "https://i.ytimg.com/vi/zoilQD1kYSg/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:57:06Z"
+    },
+    {
+      "title": "DP 19. 0/1 Knapsack | Recursion to Single Array Space Optimised Approach | DP on Subsequences",
+      "url": "https://www.youtube.com/watch?v=GqOmJHQZivw",
+      "videoId": "GqOmJHQZivw",
+      "thumbnail": "https://i.ytimg.com/vi/GqOmJHQZivw/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:57:39Z"
+    },
+    {
+      "title": "DP 20. Minimum Coins | DP on Subsequences | Infinite Supplies Pattern",
+      "url": "https://www.youtube.com/watch?v=myPeWb3Y68A",
+      "videoId": "myPeWb3Y68A",
+      "thumbnail": "https://i.ytimg.com/vi/myPeWb3Y68A/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:58:15Z"
+    },
+    {
+      "title": "DP 21. Target Sum | DP on Subsequences",
+      "url": "https://www.youtube.com/watch?v=b3GD8263-PQ",
+      "videoId": "b3GD8263-PQ",
+      "thumbnail": "https://i.ytimg.com/vi/b3GD8263-PQ/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:58:48Z"
+    },
+    {
+      "title": "DP 22. Coin Change 2 | Infinite Supply Problems  | DP on Subsequences",
+      "url": "https://www.youtube.com/watch?v=HgyouUi11zk",
+      "videoId": "HgyouUi11zk",
+      "thumbnail": "https://i.ytimg.com/vi/HgyouUi11zk/mqdefault.jpg",
+      "publishedAt": "2023-09-16T19:59:26Z"
+    },
+    {
+      "title": "DP 23. Unbounded Knapsack | 1-D Array Space Optimised Approach",
+      "url": "https://www.youtube.com/watch?v=OgvOZ6OrJoY",
+      "videoId": "OgvOZ6OrJoY",
+      "thumbnail": "https://i.ytimg.com/vi/OgvOZ6OrJoY/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:00:06Z"
+    },
+    {
+      "title": "DP 24. Rod Cutting Problem | 1D Array Space Optimised Approach",
+      "url": "https://www.youtube.com/watch?v=mO8XpGoJwuo",
+      "videoId": "mO8XpGoJwuo",
+      "thumbnail": "https://i.ytimg.com/vi/mO8XpGoJwuo/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:00:44Z"
+    },
+    {
+      "title": "Dp 25. Longest Common Subsequence | Top Down | Bottom-Up | Space Optimised | DP on Strings",
+      "url": "https://www.youtube.com/watch?v=NPZn9jBrX8U",
+      "videoId": "NPZn9jBrX8U",
+      "thumbnail": "https://i.ytimg.com/vi/NPZn9jBrX8U/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:01:20Z"
+    },
+    {
+      "title": "DP 26. Print Longest Common Subsequence | Dp on Strings",
+      "url": "https://www.youtube.com/watch?v=-zI4mrF2Pb4",
+      "videoId": "-zI4mrF2Pb4",
+      "thumbnail": "https://i.ytimg.com/vi/-zI4mrF2Pb4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:01:56Z"
+    },
+    {
+      "title": "DP 27. Longest Common Substring | DP on Strings 🔥",
+      "url": "https://www.youtube.com/watch?v=_wP9mWNPL5w",
+      "videoId": "_wP9mWNPL5w",
+      "thumbnail": "https://i.ytimg.com/vi/_wP9mWNPL5w/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:02:30Z"
+    },
+    {
+      "title": "DP 28. Longest Palindromic Subsequence",
+      "url": "https://www.youtube.com/watch?v=6i_T5kkfv4A",
+      "videoId": "6i_T5kkfv4A",
+      "thumbnail": "https://i.ytimg.com/vi/6i_T5kkfv4A/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:03:12Z"
+    },
+    {
+      "title": "DP 29. Minimum Insertions to Make String Palindrome",
+      "url": "https://www.youtube.com/watch?v=xPBLEj41rFU",
+      "videoId": "xPBLEj41rFU",
+      "thumbnail": "https://i.ytimg.com/vi/xPBLEj41rFU/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:03:47Z"
+    },
+    {
+      "title": "DP 30. Minimum Insertions/Deletions to Convert String A to String B",
+      "url": "https://www.youtube.com/watch?v=yMnH0jrir0Q",
+      "videoId": "yMnH0jrir0Q",
+      "thumbnail": "https://i.ytimg.com/vi/yMnH0jrir0Q/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:04:24Z"
+    },
+    {
+      "title": "DP 31. Shortest Common Supersequence | DP on Strings",
+      "url": "https://www.youtube.com/watch?v=xElxAuBcvsU",
+      "videoId": "xElxAuBcvsU",
+      "thumbnail": "https://i.ytimg.com/vi/xElxAuBcvsU/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:05:00Z"
+    },
+    {
+      "title": "DP 32. Distinct Subsequences | 1D Array Optimisation Technique 🔥",
+      "url": "https://www.youtube.com/watch?v=nVG7eTiD2bY",
+      "videoId": "nVG7eTiD2bY",
+      "thumbnail": "https://i.ytimg.com/vi/nVG7eTiD2bY/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:05:48Z"
+    },
+    {
+      "title": "DP 33. Edit Distance | Recursive to 1D Array Optimised Solution 🔥",
+      "url": "https://www.youtube.com/watch?v=fJaKO8FbDdo",
+      "videoId": "fJaKO8FbDdo",
+      "thumbnail": "https://i.ytimg.com/vi/fJaKO8FbDdo/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:06:27Z"
+    },
+    {
+      "title": "DP 34. Wildcard Matching | Recursive to 1D Array Optimisation 🔥",
+      "url": "https://www.youtube.com/watch?v=ZmlQ3vgAOMo",
+      "videoId": "ZmlQ3vgAOMo",
+      "thumbnail": "https://i.ytimg.com/vi/ZmlQ3vgAOMo/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:07:06Z"
+    },
+    {
+      "title": "DP 36. Buy and Sell Stock - II | Recursion to Space Optimisation",
+      "url": "https://www.youtube.com/watch?v=nGJmxkUJQGs",
+      "videoId": "nGJmxkUJQGs",
+      "thumbnail": "https://i.ytimg.com/vi/nGJmxkUJQGs/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:08:21Z"
+    },
+    {
+      "title": "DP 37. Buy and Sell Stocks III | Recursion to Space Optimisation",
+      "url": "https://www.youtube.com/watch?v=-uQGzhYj8BQ",
+      "videoId": "-uQGzhYj8BQ",
+      "thumbnail": "https://i.ytimg.com/vi/-uQGzhYj8BQ/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:08:58Z"
+    },
+    {
+      "title": "DP 38. Buy and Stock Sell IV | Recursion to Space Optimisation",
+      "url": "https://www.youtube.com/watch?v=IV1dHbk5CDc",
+      "videoId": "IV1dHbk5CDc",
+      "thumbnail": "https://i.ytimg.com/vi/IV1dHbk5CDc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:09:36Z"
+    },
+    {
+      "title": "DP 39. Buy and Sell Stocks With Cooldown | Recursion to Space Optimisation",
+      "url": "https://www.youtube.com/watch?v=IGIe46xw3YY",
+      "videoId": "IGIe46xw3YY",
+      "thumbnail": "https://i.ytimg.com/vi/IGIe46xw3YY/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:10:13Z"
+    },
+    {
+      "title": "DP 40. Buy and Sell Stocks With Transaction Fee | Recursion to Space Optimisation",
+      "url": "https://www.youtube.com/watch?v=k4eK-vEmnKg",
+      "videoId": "k4eK-vEmnKg",
+      "thumbnail": "https://i.ytimg.com/vi/k4eK-vEmnKg/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:10:47Z"
+    },
+    {
+      "title": "DP 41. Longest Increasing Subsequence | Memoization",
+      "url": "https://www.youtube.com/watch?v=ekcwMsSIzVc",
+      "videoId": "ekcwMsSIzVc",
+      "thumbnail": "https://i.ytimg.com/vi/ekcwMsSIzVc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:11:30Z"
+    },
+    {
+      "title": "DP 42. Printing Longest Increasing Subsequence | Tabulation | Algorithm",
+      "url": "https://www.youtube.com/watch?v=IFfYfonAFGc",
+      "videoId": "IFfYfonAFGc",
+      "thumbnail": "https://i.ytimg.com/vi/IFfYfonAFGc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:12:07Z"
+    },
+    {
+      "title": "DP 43. Longest Increasing Subsequence | Binary Search | Intuition",
+      "url": "https://www.youtube.com/watch?v=on2hvxBXJH4",
+      "videoId": "on2hvxBXJH4",
+      "thumbnail": "https://i.ytimg.com/vi/on2hvxBXJH4/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:12:41Z"
+    },
+    {
+      "title": "DP 44. Largest Divisible Subset | Longest Increasing Subsequence",
+      "url": "https://www.youtube.com/watch?v=gDuZwBW9VvM",
+      "videoId": "gDuZwBW9VvM",
+      "thumbnail": "https://i.ytimg.com/vi/gDuZwBW9VvM/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:13:19Z"
+    },
+    {
+      "title": "DP 45. Longest String Chain | Longest Increasing Subsequence | LIS",
+      "url": "https://www.youtube.com/watch?v=YY8iBaYcc4g",
+      "videoId": "YY8iBaYcc4g",
+      "thumbnail": "https://i.ytimg.com/vi/YY8iBaYcc4g/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:13:59Z"
+    },
+    {
+      "title": "DP 46. Longest Bitonic Subsequence | LIS",
+      "url": "https://www.youtube.com/watch?v=y4vN0WNdrlg",
+      "videoId": "y4vN0WNdrlg",
+      "thumbnail": "https://i.ytimg.com/vi/y4vN0WNdrlg/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:14:36Z"
+    },
+    {
+      "title": "DP 47. Number of Longest Increasing Subsequences",
+      "url": "https://www.youtube.com/watch?v=cKVl1TFdNXg",
+      "videoId": "cKVl1TFdNXg",
+      "thumbnail": "https://i.ytimg.com/vi/cKVl1TFdNXg/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:15:11Z"
+    },
+    {
+      "title": "DP 48. Matrix Chain Multiplication | MCM | Partition DP Starts 🔥",
+      "url": "https://www.youtube.com/watch?v=vRVfmbCFW7Y",
+      "videoId": "vRVfmbCFW7Y",
+      "thumbnail": "https://i.ytimg.com/vi/vRVfmbCFW7Y/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:15:50Z"
+    },
+    {
+      "title": "DP 49. Matrix Chain Multiplication | Bottom-Up | Tabulation",
+      "url": "https://www.youtube.com/watch?v=pDCXsbAw5Cg",
+      "videoId": "pDCXsbAw5Cg",
+      "thumbnail": "https://i.ytimg.com/vi/pDCXsbAw5Cg/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:16:39Z"
+    },
+    {
+      "title": "DP 50. Minimum Cost to Cut the Stick",
+      "url": "https://www.youtube.com/watch?v=xwomavsC86c",
+      "videoId": "xwomavsC86c",
+      "thumbnail": "https://i.ytimg.com/vi/xwomavsC86c/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:17:20Z"
+    },
+    {
+      "title": "DP 51. Burst Balloons | Partition DP | Interactive G-Meet Session Update",
+      "url": "https://www.youtube.com/watch?v=Yz4LlDSlkns",
+      "videoId": "Yz4LlDSlkns",
+      "thumbnail": "https://i.ytimg.com/vi/Yz4LlDSlkns/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:17:52Z"
+    },
+    {
+      "title": "DP 52. Evaluate Boolean Expression to True | Partition DP",
+      "url": "https://www.youtube.com/watch?v=MM7fXopgyjw",
+      "videoId": "MM7fXopgyjw",
+      "thumbnail": "https://i.ytimg.com/vi/MM7fXopgyjw/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:18:24Z"
+    },
+    {
+      "title": "DP 53. Palindrome Partitioning - II | Front Partition 🔥",
+      "url": "https://www.youtube.com/watch?v=_H8V5hJUGd0",
+      "videoId": "_H8V5hJUGd0",
+      "thumbnail": "https://i.ytimg.com/vi/_H8V5hJUGd0/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:19:01Z"
+    },
+    {
+      "title": "DP 54. Partition Array for Maximum Sum | Front Partition 🔥",
+      "url": "https://www.youtube.com/watch?v=PhWWJmaKfMc",
+      "videoId": "PhWWJmaKfMc",
+      "thumbnail": "https://i.ytimg.com/vi/PhWWJmaKfMc/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:19:37Z"
+    },
+    {
+      "title": "DP 55. Maximum Rectangle Area with all 1's | DP on Rectangles",
+      "url": "https://www.youtube.com/watch?v=tOylVCugy9k",
+      "videoId": "tOylVCugy9k",
+      "thumbnail": "https://i.ytimg.com/vi/tOylVCugy9k/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:20:14Z"
+    },
+    {
+      "title": "DP 56. Count Square Submatrices with All Ones | DP on Rectangles 🔥",
+      "url": "https://www.youtube.com/watch?v=auS1fynpnjo",
+      "videoId": "auS1fynpnjo",
+      "thumbnail": "https://i.ytimg.com/vi/auS1fynpnjo/mqdefault.jpg",
+      "publishedAt": "2023-09-16T20:21:19Z"
+    },
+    {
+      "title": "L1. Introduction to LinkedList | Traversal | Length | Search an Element",
+      "url": "https://www.youtube.com/watch?v=Nq7ok-OyEpg",
+      "videoId": "Nq7ok-OyEpg",
+      "thumbnail": "https://i.ytimg.com/vi/Nq7ok-OyEpg/mqdefault.jpg",
+      "publishedAt": "2023-11-25T18:41:00Z"
+    },
+    {
+      "title": "L2. Deletion and Insertion in LL | 8 Problems",
+      "url": "https://www.youtube.com/watch?v=VaECK03Dz-g",
+      "videoId": "VaECK03Dz-g",
+      "thumbnail": "https://i.ytimg.com/vi/VaECK03Dz-g/mqdefault.jpg",
+      "publishedAt": "2023-11-26T06:22:18Z"
+    },
+    {
+      "title": "L3. Introduction to Doubly LinkedList | Insertions and Deletions",
+      "url": "https://www.youtube.com/watch?v=0eKMU10uEDI",
+      "videoId": "0eKMU10uEDI",
+      "thumbnail": "https://i.ytimg.com/vi/0eKMU10uEDI/mqdefault.jpg",
+      "publishedAt": "2023-11-26T06:31:00Z"
+    },
+    {
+      "title": "L4. Reverse a DLL | Multiple Approaches",
+      "url": "https://www.youtube.com/watch?v=u3WUW2qe6ww",
+      "videoId": "u3WUW2qe6ww",
+      "thumbnail": "https://i.ytimg.com/vi/u3WUW2qe6ww/mqdefault.jpg",
+      "publishedAt": "2023-11-26T14:59:56Z"
+    },
+    {
+      "title": "L5. Add 2 numbers in LinkedList | Dummy Node Approach",
+      "url": "https://www.youtube.com/watch?v=XmRrGzR6udg",
+      "videoId": "XmRrGzR6udg",
+      "thumbnail": "https://i.ytimg.com/vi/XmRrGzR6udg/mqdefault.jpg",
+      "publishedAt": "2023-11-26T16:25:28Z"
+    },
+    {
+      "title": "L6. Odd Even Linked List | Multiple Approaches",
+      "url": "https://www.youtube.com/watch?v=qf6qp7GzD5Q",
+      "videoId": "qf6qp7GzD5Q",
+      "thumbnail": "https://i.ytimg.com/vi/qf6qp7GzD5Q/mqdefault.jpg",
+      "publishedAt": "2023-11-26T16:34:52Z"
+    },
+    {
+      "title": "L7. Sort a LinkedList of 0's, 1's and 2's | Multiple Approaches",
+      "url": "https://www.youtube.com/watch?v=gRII7LhdJWc",
+      "videoId": "gRII7LhdJWc",
+      "thumbnail": "https://i.ytimg.com/vi/gRII7LhdJWc/mqdefault.jpg",
+      "publishedAt": "2023-11-26T16:36:52Z"
+    },
+    {
+      "title": "L8. Remove Nth Node from the end of the LinkedList | Multiple Approaches",
+      "url": "https://www.youtube.com/watch?v=3kMKYQ2wNIU",
+      "videoId": "3kMKYQ2wNIU",
+      "thumbnail": "https://i.ytimg.com/vi/3kMKYQ2wNIU/mqdefault.jpg",
+      "publishedAt": "2023-11-26T17:05:00Z"
+    },
+    {
+      "title": "L9. Reverse a LinkedList | Iterative and Recursive",
+      "url": "https://www.youtube.com/watch?v=D2vI2DNJGd8",
+      "videoId": "D2vI2DNJGd8",
+      "thumbnail": "https://i.ytimg.com/vi/D2vI2DNJGd8/mqdefault.jpg",
+      "publishedAt": "2023-11-26T17:18:59Z"
+    },
+    {
+      "title": "L10. Check if a LinkedList is Palindrome or Not | Multiple Approaches",
+      "url": "https://www.youtube.com/watch?v=lRY_G-u_8jk",
+      "videoId": "lRY_G-u_8jk",
+      "thumbnail": "https://i.ytimg.com/vi/lRY_G-u_8jk/mqdefault.jpg",
+      "publishedAt": "2023-11-26T17:22:39Z"
+    },
+    {
+      "title": "L11. Add 1 to a number represented by LinkedList",
+      "url": "https://www.youtube.com/watch?v=aXQWhbvT3w0",
+      "videoId": "aXQWhbvT3w0",
+      "thumbnail": "https://i.ytimg.com/vi/aXQWhbvT3w0/mqdefault.jpg",
+      "publishedAt": "2023-11-29T13:22:57Z"
+    },
+    {
+      "title": "L12. Find the intersection point of Y LinkedList",
+      "url": "https://www.youtube.com/watch?v=0DYoPz2Tpt4",
+      "videoId": "0DYoPz2Tpt4",
+      "thumbnail": "https://i.ytimg.com/vi/0DYoPz2Tpt4/mqdefault.jpg",
+      "publishedAt": "2023-11-29T13:24:59Z"
+    },
+    {
+      "title": "L13. Find the middle element of the LinkedList | Multiple Approaches",
+      "url": "https://www.youtube.com/watch?v=7LjQ57RqgEc",
+      "videoId": "7LjQ57RqgEc",
+      "thumbnail": "https://i.ytimg.com/vi/7LjQ57RqgEc/mqdefault.jpg",
+      "publishedAt": "2023-11-29T13:49:09Z"
+    },
+    {
+      "title": "L14. Detect a loop or cycle in LinkedList | With proof and Intuition",
+      "url": "https://www.youtube.com/watch?v=wiOo4DC5GGA",
+      "videoId": "wiOo4DC5GGA",
+      "thumbnail": "https://i.ytimg.com/vi/wiOo4DC5GGA/mqdefault.jpg",
+      "publishedAt": "2023-11-29T13:52:56Z"
+    },
+    {
+      "title": "L15. Find the length of the Loop in LinkedList",
+      "url": "https://www.youtube.com/watch?v=I4g1qbkTPus",
+      "videoId": "I4g1qbkTPus",
+      "thumbnail": "https://i.ytimg.com/vi/I4g1qbkTPus/mqdefault.jpg",
+      "publishedAt": "2023-11-29T14:03:33Z"
+    },
+    {
+      "title": "L16. Delete the middle node of the LinkedList",
+      "url": "https://www.youtube.com/watch?v=ePpV-_pfOeI",
+      "videoId": "ePpV-_pfOeI",
+      "thumbnail": "https://i.ytimg.com/vi/ePpV-_pfOeI/mqdefault.jpg",
+      "publishedAt": "2023-11-29T14:31:45Z"
+    },
+    {
+      "title": "L17. Find the starting point of the Loop/Cycle in LinkedList | Multiple Approaches",
+      "url": "https://www.youtube.com/watch?v=2Kd0KKmmHFc",
+      "videoId": "2Kd0KKmmHFc",
+      "thumbnail": "https://i.ytimg.com/vi/2Kd0KKmmHFc/mqdefault.jpg",
+      "publishedAt": "2023-11-29T15:24:04Z"
+    },
+    {
+      "title": "L18. Delete all occurrences of a Key in DLL",
+      "url": "https://www.youtube.com/watch?v=Mh0NH_SD92k",
+      "videoId": "Mh0NH_SD92k",
+      "thumbnail": "https://i.ytimg.com/vi/Mh0NH_SD92k/mqdefault.jpg",
+      "publishedAt": "2023-11-30T07:30:51Z"
+    },
+    {
+      "title": "L19. Find all Pairs with given Sum in DLL",
+      "url": "https://www.youtube.com/watch?v=YitR4dQsddE",
+      "videoId": "YitR4dQsddE",
+      "thumbnail": "https://i.ytimg.com/vi/YitR4dQsddE/mqdefault.jpg",
+      "publishedAt": "2023-11-30T07:33:20Z"
+    },
+    {
+      "title": "L20. Remove duplicates from sorted DLL",
+      "url": "https://www.youtube.com/watch?v=YJKVTnOJXSY",
+      "videoId": "YJKVTnOJXSY",
+      "thumbnail": "https://i.ytimg.com/vi/YJKVTnOJXSY/mqdefault.jpg",
+      "publishedAt": "2023-11-30T07:35:06Z"
+    },
+    {
+      "title": "L21. Reverse Nodes in K Group Size of LinkedList",
+      "url": "https://www.youtube.com/watch?v=lIar1skcQYI",
+      "videoId": "lIar1skcQYI",
+      "thumbnail": "https://i.ytimg.com/vi/lIar1skcQYI/mqdefault.jpg",
+      "publishedAt": "2023-11-30T07:37:45Z"
+    },
+    {
+      "title": "L22. Rotate a LinkedList",
+      "url": "https://www.youtube.com/watch?v=uT7YI7XbTY8",
+      "videoId": "uT7YI7XbTY8",
+      "thumbnail": "https://i.ytimg.com/vi/uT7YI7XbTY8/mqdefault.jpg",
+      "publishedAt": "2023-11-30T07:40:53Z"
+    },
+    {
+      "title": "L23. Merge two sorted Linked Lists",
+      "url": "https://www.youtube.com/watch?v=jXu-H7XuClE",
+      "videoId": "jXu-H7XuClE",
+      "thumbnail": "https://i.ytimg.com/vi/jXu-H7XuClE/mqdefault.jpg",
+      "publishedAt": "2023-12-31T06:24:10Z"
+    },
+    {
+      "title": "L24. Flattening a LinkedList | Multiple Approaches with Dry Run",
+      "url": "https://www.youtube.com/watch?v=ykelywHJWLg",
+      "videoId": "ykelywHJWLg",
+      "thumbnail": "https://i.ytimg.com/vi/ykelywHJWLg/mqdefault.jpg",
+      "publishedAt": "2023-12-31T06:28:54Z"
+    },
+    {
+      "title": "L25. Merge K Sorted Lists | Multiple Approaches",
+      "url": "https://www.youtube.com/watch?v=1zktEppsdig",
+      "videoId": "1zktEppsdig",
+      "thumbnail": "https://i.ytimg.com/vi/1zktEppsdig/mqdefault.jpg",
+      "publishedAt": "2023-12-31T06:31:24Z"
+    },
+    {
+      "title": "L26. Sort a Linked List | Merge Sort and Brute Force",
+      "url": "https://www.youtube.com/watch?v=8ocB7a_c-Cc",
+      "videoId": "8ocB7a_c-Cc",
+      "thumbnail": "https://i.ytimg.com/vi/8ocB7a_c-Cc/mqdefault.jpg",
+      "publishedAt": "2023-12-31T06:33:55Z"
+    },
+    {
+      "title": "L27. Clone a LinkedList with Next and Random Pointers | Copy List with Random Pointers",
+      "url": "https://www.youtube.com/watch?v=q570bKdrnlw",
+      "videoId": "q570bKdrnlw",
+      "thumbnail": "https://i.ytimg.com/vi/q570bKdrnlw/mqdefault.jpg",
+      "publishedAt": "2023-12-31T06:35:43Z"
+    },
+    {
+      "title": "L28. Design a Browser History | LinkedList Implementation",
+      "url": "https://www.youtube.com/watch?v=mG3KLugbOdc",
+      "videoId": "mG3KLugbOdc",
+      "thumbnail": "https://i.ytimg.com/vi/mG3KLugbOdc/mqdefault.jpg",
+      "publishedAt": "2023-12-31T06:37:44Z"
+    },
+    {
+      "title": "L2. Print all Divisors of a Number | Maths Playlist",
+      "url": "https://www.youtube.com/watch?v=Ae_Ag_saG9s",
+      "videoId": "Ae_Ag_saG9s",
+      "thumbnail": "https://i.ytimg.com/vi/Ae_Ag_saG9s/mqdefault.jpg",
+      "publishedAt": "2024-03-17T17:39:07Z"
+    },
+    {
+      "title": "L3. Check if a Number if Prime or not | Maths Playlist",
+      "url": "https://www.youtube.com/watch?v=MJcckSfoYdI",
+      "videoId": "MJcckSfoYdI",
+      "thumbnail": "https://i.ytimg.com/vi/MJcckSfoYdI/mqdefault.jpg",
+      "publishedAt": "2024-03-17T17:42:48Z"
+    },
+    {
+      "title": "L4. Print all prime factors of a Number | Maths Playlist",
+      "url": "https://www.youtube.com/watch?v=LT7XhVdeRyg",
+      "videoId": "LT7XhVdeRyg",
+      "thumbnail": "https://i.ytimg.com/vi/LT7XhVdeRyg/mqdefault.jpg",
+      "publishedAt": "2024-03-17T17:44:52Z"
+    },
+    {
+      "title": "L5. Power Exponentiation | Maths Playlist",
+      "url": "https://www.youtube.com/watch?v=hFWckDXE-K8",
+      "videoId": "hFWckDXE-K8",
+      "thumbnail": "https://i.ytimg.com/vi/hFWckDXE-K8/mqdefault.jpg",
+      "publishedAt": "2024-03-17T17:47:50Z"
+    },
+    {
+      "title": "L6. Sieve of Eratosthenes | Maths Playlist",
+      "url": "https://www.youtube.com/watch?v=g5Fuxn_AvSk",
+      "videoId": "g5Fuxn_AvSk",
+      "thumbnail": "https://i.ytimg.com/vi/g5Fuxn_AvSk/mqdefault.jpg",
+      "publishedAt": "2024-03-17T17:51:37Z"
+    },
+    {
+      "title": "L7. Count Prime in a range L-R | Maths Playlist",
+      "url": "https://www.youtube.com/watch?v=os82DjD2-MA",
+      "videoId": "os82DjD2-MA",
+      "thumbnail": "https://i.ytimg.com/vi/os82DjD2-MA/mqdefault.jpg",
+      "publishedAt": "2024-03-17T17:54:22Z"
+    },
+    {
+      "title": "L8. Smallest Prime Factor (SPF) | Prime Factorisation | Query Based Problem | Maths Playlist",
+      "url": "https://www.youtube.com/watch?v=glKWkmKFlMw",
+      "videoId": "glKWkmKFlMw",
+      "thumbnail": "https://i.ytimg.com/vi/glKWkmKFlMw/mqdefault.jpg",
+      "publishedAt": "2024-03-17T17:58:04Z"
+    },
+    {
+      "title": "L1. Introduction to Sliding Window and 2 Pointers | Templates | Patterns",
+      "url": "https://www.youtube.com/watch?v=9kdHxplyl5I",
+      "videoId": "9kdHxplyl5I",
+      "thumbnail": "https://i.ytimg.com/vi/9kdHxplyl5I/mqdefault.jpg",
+      "publishedAt": "2024-03-26T17:58:26Z"
+    },
+    {
+      "title": "L2. Maximum Points You Can Obtain from Cards | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=pBWCOCS636U",
+      "videoId": "pBWCOCS636U",
+      "thumbnail": "https://i.ytimg.com/vi/pBWCOCS636U/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:03:41Z"
+    },
+    {
+      "title": "L3. Longest Substring Without Repeating Characters | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=-zSxTJkcdAo",
+      "videoId": "-zSxTJkcdAo",
+      "thumbnail": "https://i.ytimg.com/vi/-zSxTJkcdAo/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:08:42Z"
+    },
+    {
+      "title": "L4. Max Consecutive Ones III | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=3E4JBHSLpYk",
+      "videoId": "3E4JBHSLpYk",
+      "thumbnail": "https://i.ytimg.com/vi/3E4JBHSLpYk/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:10:10Z"
+    },
+    {
+      "title": "L5. Fruit Into Baskets | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=e3bs0uA1NhQ",
+      "videoId": "e3bs0uA1NhQ",
+      "thumbnail": "https://i.ytimg.com/vi/e3bs0uA1NhQ/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:11:44Z"
+    },
+    {
+      "title": "L6. Longest Substring With At Most K Distinct Characters | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=teM9ZsVRQyc",
+      "videoId": "teM9ZsVRQyc",
+      "thumbnail": "https://i.ytimg.com/vi/teM9ZsVRQyc/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:14:38Z"
+    },
+    {
+      "title": "L7. Number of Substrings Containing All Three Characters | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=xtqN4qlgr8s",
+      "videoId": "xtqN4qlgr8s",
+      "thumbnail": "https://i.ytimg.com/vi/xtqN4qlgr8s/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:17:35Z"
+    },
+    {
+      "title": "L8. Longest Repeating Character Replacement | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=_eNhaDCr6P0",
+      "videoId": "_eNhaDCr6P0",
+      "thumbnail": "https://i.ytimg.com/vi/_eNhaDCr6P0/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:19:42Z"
+    },
+    {
+      "title": "L9. Binary Subarrays With Sum | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=XnMdNUkX6VM",
+      "videoId": "XnMdNUkX6VM",
+      "thumbnail": "https://i.ytimg.com/vi/XnMdNUkX6VM/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:21:55Z"
+    },
+    {
+      "title": "L10. Count number of Nice subarrays | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=j_QOv9OT9Og",
+      "videoId": "j_QOv9OT9Og",
+      "thumbnail": "https://i.ytimg.com/vi/j_QOv9OT9Og/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:23:38Z"
+    },
+    {
+      "title": "L11. Subarray with k different integers | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=7wYGbV_LsX4",
+      "videoId": "7wYGbV_LsX4",
+      "thumbnail": "https://i.ytimg.com/vi/7wYGbV_LsX4/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:25:12Z"
+    },
+    {
+      "title": "L12. Minimum Window Substring | 2 Pointers and Sliding Window Playlist",
+      "url": "https://www.youtube.com/watch?v=WJaij9ffOIY",
+      "videoId": "WJaij9ffOIY",
+      "thumbnail": "https://i.ytimg.com/vi/WJaij9ffOIY/mqdefault.jpg",
+      "publishedAt": "2024-03-26T18:26:48Z"
+    },
+    {
+      "title": "L1. Assign Cookies | Greedy Algorithm Playlist",
+      "url": "https://www.youtube.com/watch?v=DIX2p7vb9co",
+      "videoId": "DIX2p7vb9co",
+      "thumbnail": "https://i.ytimg.com/vi/DIX2p7vb9co/mqdefault.jpg",
+      "publishedAt": "2024-05-22T02:40:46Z"
+    },
+    {
+      "title": "L3. Shortest Job First (or SJF) CPU Scheduling",
+      "url": "https://www.youtube.com/watch?v=3-QbX1iDbXs",
+      "videoId": "3-QbX1iDbXs",
+      "thumbnail": "https://i.ytimg.com/vi/3-QbX1iDbXs/mqdefault.jpg",
+      "publishedAt": "2024-05-22T02:45:59Z"
+    },
+    {
+      "title": "L2. Lemonade Change | Greedy Algorithm Playlist",
+      "url": "https://www.youtube.com/watch?v=n_tmibEhO6Q",
+      "videoId": "n_tmibEhO6Q",
+      "thumbnail": "https://i.ytimg.com/vi/n_tmibEhO6Q/mqdefault.jpg",
+      "publishedAt": "2024-05-22T02:46:10Z"
+    },
+    {
+      "title": "L4. Jump Game - I | Greedy Algorithm Playlist",
+      "url": "https://www.youtube.com/watch?v=tZAa_jJ3SwQ",
+      "videoId": "tZAa_jJ3SwQ",
+      "thumbnail": "https://i.ytimg.com/vi/tZAa_jJ3SwQ/mqdefault.jpg",
+      "publishedAt": "2024-05-22T02:48:14Z"
+    },
+    {
+      "title": "L5. Jump Game - II | Greedy Algorithm Playlist",
+      "url": "https://www.youtube.com/watch?v=7SBVnw7GSTk",
+      "videoId": "7SBVnw7GSTk",
+      "thumbnail": "https://i.ytimg.com/vi/7SBVnw7GSTk/mqdefault.jpg",
+      "publishedAt": "2024-05-22T02:49:31Z"
+    },
+    {
+      "title": "L6. Job Sequencing Problem | Greedy Algorithm Playlist",
+      "url": "https://www.youtube.com/watch?v=QbwltemZbRg",
+      "videoId": "QbwltemZbRg",
+      "thumbnail": "https://i.ytimg.com/vi/QbwltemZbRg/mqdefault.jpg",
+      "publishedAt": "2024-05-27T04:32:50Z"
+    },
+    {
+      "title": "L7. N Meeting in One Room | Greedy Algorithms Playlist",
+      "url": "https://www.youtube.com/watch?v=mKfhTotEguk",
+      "videoId": "mKfhTotEguk",
+      "thumbnail": "https://i.ytimg.com/vi/mKfhTotEguk/mqdefault.jpg",
+      "publishedAt": "2024-05-27T04:35:45Z"
+    },
+    {
+      "title": "L8. Non Overlapping Intervals | Greedy Algorithms Playlist",
+      "url": "https://www.youtube.com/watch?v=HDHQ8lAWakY",
+      "videoId": "HDHQ8lAWakY",
+      "thumbnail": "https://i.ytimg.com/vi/HDHQ8lAWakY/mqdefault.jpg",
+      "publishedAt": "2024-05-27T04:38:35Z"
+    },
+    {
+      "title": "L9. Insert Intervals | Greedy Algorithms Playlist",
+      "url": "https://www.youtube.com/watch?v=xxRE-46OCC8",
+      "videoId": "xxRE-46OCC8",
+      "thumbnail": "https://i.ytimg.com/vi/xxRE-46OCC8/mqdefault.jpg",
+      "publishedAt": "2024-05-27T04:44:57Z"
+    },
+    {
+      "title": "L10. Minimum number of platforms required in a railway station",
+      "url": "https://www.youtube.com/watch?v=AsGzwR_FWok",
+      "videoId": "AsGzwR_FWok",
+      "thumbnail": "https://i.ytimg.com/vi/AsGzwR_FWok/mqdefault.jpg",
+      "publishedAt": "2024-05-27T04:46:48Z"
+    },
+    {
+      "title": "L11. Valid Parenthesis String | Multiple Approaches",
+      "url": "https://www.youtube.com/watch?v=cHT6sG_hUZI",
+      "videoId": "cHT6sG_hUZI",
+      "thumbnail": "https://i.ytimg.com/vi/cHT6sG_hUZI/mqdefault.jpg",
+      "publishedAt": "2024-05-27T04:49:34Z"
+    },
+    {
+      "title": "L13. Fractional Knapsack Algorithm",
+      "url": "https://www.youtube.com/watch?v=1ibsQrnuEEg",
+      "videoId": "1ibsQrnuEEg",
+      "thumbnail": "https://i.ytimg.com/vi/1ibsQrnuEEg/mqdefault.jpg",
+      "publishedAt": "2024-05-27T04:54:33Z"
+    },
+    {
+      "title": "L12. Candy | Slope Approach Intuition Based",
+      "url": "https://www.youtube.com/watch?v=IIqVFvKE6RY",
+      "videoId": "IIqVFvKE6RY",
+      "thumbnail": "https://i.ytimg.com/vi/IIqVFvKE6RY/mqdefault.jpg",
+      "publishedAt": "2024-05-27T04:56:58Z"
+    },
+    {
+      "title": "L1. Introduction to Stack and Queue | Implementation using Data Structures",
+      "url": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+      "videoId": "tqQ5fTamIN4",
+      "thumbnail": "https://i.ytimg.com/vi/tqQ5fTamIN4/mqdefault.jpg",
+      "publishedAt": "2024-07-16T16:45:05Z"
+    },
+    {
+      "title": "L2. Check for Balanced Parentheses | Stack and Queue",
+      "url": "https://www.youtube.com/watch?v=xwjS0iZhw4I",
+      "videoId": "xwjS0iZhw4I",
+      "thumbnail": "https://i.ytimg.com/vi/xwjS0iZhw4I/mqdefault.jpg",
+      "publishedAt": "2024-07-16T16:53:42Z"
+    },
+    {
+      "title": "L3. Prefix, Infix, and Postfix Conversion | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=4pIc9UBHJtk",
+      "videoId": "4pIc9UBHJtk",
+      "thumbnail": "https://i.ytimg.com/vi/4pIc9UBHJtk/mqdefault.jpg",
+      "publishedAt": "2024-07-16T16:48:30Z"
+    },
+    {
+      "title": "L4. Implement Min Stack | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=NdDIaH91P0g",
+      "videoId": "NdDIaH91P0g",
+      "thumbnail": "https://i.ytimg.com/vi/NdDIaH91P0g/mqdefault.jpg",
+      "publishedAt": "2024-07-16T16:59:41Z"
+    },
+    {
+      "title": "L5. Next Greater Element | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=e7XQLtOQM3I",
+      "videoId": "e7XQLtOQM3I",
+      "thumbnail": "https://i.ytimg.com/vi/e7XQLtOQM3I/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:00:35Z"
+    },
+    {
+      "title": "L6. Next Greater Element - II | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=7PrncD7v9YQ",
+      "videoId": "7PrncD7v9YQ",
+      "thumbnail": "https://i.ytimg.com/vi/7PrncD7v9YQ/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:01:11Z"
+    },
+    {
+      "title": "L7. Previous Smaller Element | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=zMdbdGJNlh4",
+      "videoId": "zMdbdGJNlh4",
+      "thumbnail": "https://i.ytimg.com/vi/zMdbdGJNlh4/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:03:54Z"
+    },
+    {
+      "title": "L8. Trapping Rainwater | 2 Approaches | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=1_5VuquLbXg",
+      "videoId": "1_5VuquLbXg",
+      "thumbnail": "https://i.ytimg.com/vi/1_5VuquLbXg/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:07:01Z"
+    },
+    {
+      "title": "L9. Sum of Subarray Minimum | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=v0e8p9JCgRc",
+      "videoId": "v0e8p9JCgRc",
+      "thumbnail": "https://i.ytimg.com/vi/v0e8p9JCgRc/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:09:47Z"
+    },
+    {
+      "title": "L10. Sum of subarray ranges | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=gIrMptNPf5M",
+      "videoId": "gIrMptNPf5M",
+      "thumbnail": "https://i.ytimg.com/vi/gIrMptNPf5M/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:11:20Z"
+    },
+    {
+      "title": "L11. Aestroid Collisions | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=_eYGqw_VDR4",
+      "videoId": "_eYGqw_VDR4",
+      "thumbnail": "https://i.ytimg.com/vi/_eYGqw_VDR4/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:13:16Z"
+    },
+    {
+      "title": "L12. Largest Rectangle in Histogram | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=Bzat9vgD0fs",
+      "videoId": "Bzat9vgD0fs",
+      "thumbnail": "https://i.ytimg.com/vi/Bzat9vgD0fs/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:15:15Z"
+    },
+    {
+      "title": "L13. Maximal Rectangle | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=ttVu6G7Ayik",
+      "videoId": "ttVu6G7Ayik",
+      "thumbnail": "https://i.ytimg.com/vi/ttVu6G7Ayik/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:16:03Z"
+    },
+    {
+      "title": "L14. Remove K Digits | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=jmbuRzYPGrg",
+      "videoId": "jmbuRzYPGrg",
+      "thumbnail": "https://i.ytimg.com/vi/jmbuRzYPGrg/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:18:00Z"
+    },
+    {
+      "title": "L15. Stock Span Problem | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=eay-zoSRkVc",
+      "videoId": "eay-zoSRkVc",
+      "thumbnail": "https://i.ytimg.com/vi/eay-zoSRkVc/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:19:49Z"
+    },
+    {
+      "title": "L16. Sliding Window Maximum | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=NwBvene4Imo",
+      "videoId": "NwBvene4Imo",
+      "thumbnail": "https://i.ytimg.com/vi/NwBvene4Imo/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:23:14Z"
+    },
+    {
+      "title": "L17. The Celebrity Problem | Stack and Queue Playlist",
+      "url": "https://www.youtube.com/watch?v=cEadsbTeze4",
+      "videoId": "cEadsbTeze4",
+      "thumbnail": "https://i.ytimg.com/vi/cEadsbTeze4/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:26:11Z"
+    },
+    {
+      "title": "L18. Implement LRU Cache",
+      "url": "https://www.youtube.com/watch?v=z9bJUPxzFOw",
+      "videoId": "z9bJUPxzFOw",
+      "thumbnail": "https://i.ytimg.com/vi/z9bJUPxzFOw/mqdefault.jpg",
+      "publishedAt": "2024-07-16T17:27:04Z"
+    },
+    {
+      "title": "Implement LFU cache in C++/Java  | Leetcode(Hard)",
+      "url": "https://www.youtube.com/watch?v=mzqHlAW7jeE",
+      "videoId": "mzqHlAW7jeE",
+      "thumbnail": "https://i.ytimg.com/vi/mzqHlAW7jeE/mqdefault.jpg",
+      "publishedAt": "2024-07-17T11:13:38Z"
+    },
+    {
+      "title": "Major Announcement | TUF+ V2 and System Design Playlist 🔥",
+      "url": "https://www.youtube.com/watch?v=M4IHWsk-EAM",
+      "videoId": "M4IHWsk-EAM",
+      "thumbnail": "https://i.ytimg.com/vi/M4IHWsk-EAM/mqdefault.jpg",
+      "publishedAt": "2025-01-26T04:51:16Z"
+    }
+  ],
+  "whatYouWillLearn": [
+    "Master A-Z data structures and algorithms for placements",
+    "Solve 450+ coding problems from basic to advanced level",
+    "Learn optimal approaches and time-space complexity analysis",
+    "Master competitive programming and interview preparation",
+    "Understand problem-solving patterns and techniques",
+    "Build strong foundation for technical interviews"
+  ],
+  "requirements": [
+    "Basic programming knowledge in C++/Java/Python",
+    "Understanding of basic data structures (arrays, strings)",
+    "Internet connection for video streaming",
+    "Code editor (VS Code recommended) for practice",
+    "Commitment to solve 450+ coding problems systematically"
+  ],
+  "rating": {
+    "average": 4.9,
+    "count": 413,
+    "breakdown": {
+      "1": 2,
+      "2": 9,
+      "3": 25,
+      "4": 56,
+      "5": 259
+    }
+  },
+  "duration": "13h 1m",
+  "level": "Intermediate",
+  "language": "Hindi",
+  "studentsEnrolled": 863,
+  "lastUpdated": "2025-10-20",
+  "features": [
+    "Lifetime Access",
+    "Certificate of Completion",
+    "Mobile and Desktop Access",
+    "Downloadable Resources",
+    "Community Support"
+  ],
+  "teacherId": "take-u-forward"
+}

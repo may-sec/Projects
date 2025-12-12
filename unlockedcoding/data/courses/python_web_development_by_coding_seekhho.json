@@ -1,0 +1,473 @@
+{
+  "courseName": "CodingSeekhho-python-web-development",
+  "coursecategory": "web-development",
+  "viewtype": "both",
+  "des": "Learn PYTHON Web Development BY Coding Seekhho with comprehensive video tutorials and hands-on projects.",
+  "imageofcourse": "https://appxcontent.kaxa.in/subject/2024-10-23-0.5523212172513641.jpg",
+  "audio": "english",
+  "cost": 0,
+  "videoType": "hls",
+  "redirecturl": "",
+  "rank": "medium",
+  "videos": [
+    {
+      "title": "Python Session 1 Introduction",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/75141-1721101232/hls-2a2169/1080p/master-6941289.572483478.m3u8"
+    },
+    {
+      "title": "Python Session 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/75630-1721187453/hls-505a19/1080p/master-1230578.9786744192.m3u8"
+    },
+    {
+      "title": "Python Session 3 Flow control",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/76104-1721273849/hls-e5af5f/1080p/master-4157523.0124080577.m3u8"
+    },
+    {
+      "title": "Python Session 4 Flow Control",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/76604-1721360252/hls-611d95/1080p/master-3484001.642641701.m3u8"
+    },
+    {
+      "title": "Python Session 5 String",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/77748-1721620001/hls-7bf95c/1080p/master-8338606.125298776.m3u8"
+    },
+    {
+      "title": "Python Session 6 String | Function",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/78179-1721705857/hls-a009e6/1080p/master-4989328.043831529.m3u8"
+    },
+    {
+      "title": "Python Session 7  User | Function",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/78691-1721792283/hls-695b8d/1080p/master-8196025.022348124.m3u8"
+    },
+    {
+      "title": "Python Session 8 List",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/79305-1721879731/hls-c11486/1080p/master-4870955.288172309.m3u8"
+    },
+    {
+      "title": "Python Session 9 Tuple | Set | Dictionary",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/79756-1721966848/hls-c077ca/1080p/master-1871713.7207025525.m3u8"
+    },
+    {
+      "title": "Python Session 10 File",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/80830-1722225148/hls-dbf5b3/1080p/master-1354346.5257933773.m3u8"
+    },
+    {
+      "title": "Python Session 11 Class and Object",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/83406-1722484534/hls-bfe63b/1080p/master-1750558.985489259.m3u8"
+    },
+    {
+      "title": "Python Session 12 Inheritance",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/84294-1722571830/hls-bb65dc/1080p/master-238907.66080203242.m3u8"
+    },
+    {
+      "title": "PYTHON SESSION 13 CONTRUSTOR",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/85588-1722830130/hls-1e2a7f/1080p/master-6651040.24669958.m3u8"
+    },
+    {
+      "title": "PYTHON SESSION 14 TKINTER GUI",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/86124-1722916360/hls-0ebeee/1080p/master-704563.6442268477.m3u8"
+    },
+    {
+      "title": "PYTHON SESSION 15 GUI TKINTER 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/86714-1723002577/hls-54e914/1080p/master-2784816.175507325.m3u8"
+    },
+    {
+      "title": "Python  Session 16 PASS | BREAK | CONTINUE",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/87415-1723089691/hls-60a244/1080p/master-376415.27157800336.m3u8"
+    },
+    {
+      "title": "Python Session 18  PNADAS | MATPLOT",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/91178-1723607735/hls-7d5b54/1080p/master-60280.95206382256.m3u8"
+    },
+    {
+      "title": "Python Session 19 Problem Solving 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/93442-1724126134/hls-6e3be6/1080p/master-6755571.165023748.m3u8"
+    },
+    {
+      "title": "Python Session 20 Problem Solving 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/93913-1724212717/hls-768ee7/1080p/master-9951062.186637241.m3u8"
+    },
+    {
+      "title": "python Session 21 Problem solving 3",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/94750-1724298758/hls-1728f5/1080p/master-8314706.880304306.m3u8"
+    },
+    {
+      "title": "Python Session 22 REVISION",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/95788-1724384975/hls-f3d3a5/1080p/master-7169786.341001165.m3u8"
+    },
+    {
+      "title": "Lecture 7 Python: List | Tuple | Predefined Functions",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/133076-1728705356/hls-5318f4/1080p/master-6608452.91118771.m3u8"
+    },
+    {
+      "title": "Lecture 1: Introduction",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/98026-1724731298/hls-204af8/1080p/master-1565888.5380215626.m3u8"
+    },
+    {
+      "title": "Lecture 2: Img tag, Attributes, Anchor tag",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/98652-1724818599/hls-fae26d/1080p/master-380822.698316925.m3u8"
+    },
+    {
+      "title": "Lecture 3: Anchor tag, Video Tag, Table Tag",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/99303-1724904999/hls-379e8d/1080p/master-971324.9557250126.m3u8"
+    },
+    {
+      "title": "Lecture 4: List tag, Form Tag",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/99973-1724989780/hls-7b991e/1080p/master-3081676.3018795014.m3u8"
+    },
+    {
+      "title": "Lecture 5: Form Tag, Entities",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/100641-1725077797/hls-4ca1d0/1080p/master-3649873.5640917392.m3u8"
+    },
+    {
+      "title": "Lecture 1: CSS Introduction",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/101381-1725250959/hls-fbebcc/1080p/master-8097474.801387763.m3u8"
+    },
+    {
+      "title": "Lecture 2: Background, Border, Height, Width",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/103084-1725422679/hls-d1f1d0/1080p/master-2197687.5303541664.m3u8"
+    },
+    {
+      "title": "Lecture 3: Border Radius, Height, Width, Padding, Margin",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/103823-1725509795/hls-b9084e/1080p/master-9291775.810923316.m3u8"
+    },
+    {
+      "title": "Lecture 4: Text style",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/104410-1725595301/hls-d058ba/1080p/master-5412795.426985047.m3u8"
+    },
+    {
+      "title": "Lecture 5: Font Style, Hover, float",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/105891-1725855220/hls-c539eb/1080p/master-9658909.781973135.m3u8"
+    },
+    {
+      "title": "Lecture 6: Hover, Display, Position",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/106762-1725944801/hls-15dcd1/1080p/master-6766751.181887174.m3u8"
+    },
+    {
+      "title": "Lecture:7 Navbar",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/107617-1726028017/hls-d1b9c1/1080p/master-5195434.181145495.m3u8"
+    },
+    {
+      "title": "Lecture 8: Drop Down Navbar, Transition",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/108357-1726114058/hls-ff96a7/1080p/master-822804.412210092.m3u8"
+    },
+    {
+      "title": "Lecture 9: Transform, Animation",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/109132-1726200277/hls-82237f/1080p/master-6307633.61856141.m3u8"
+    },
+    {
+      "title": "JS SESSION 1 Introdunction",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/113268-1726719216/hls-c74831/1080p/master-425260.0589988686.m3u8"
+    },
+    {
+      "title": "JS SESSION 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/114128-1726805626/hls-d00d41/1080p/master-6605231.844131569.m3u8"
+    },
+    {
+      "title": "JS SESSION 3 Flow Control",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/115043-1726892019/hls-e322b3/1080p/master-6028818.687930446.m3u8"
+    },
+    {
+      "title": "JS SESSION 4 Functions",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/116079-1727064820/hls-141402/1080p/master-5078038.432156228.m3u8"
+    },
+    {
+      "title": "JS SESSION 5 DOM",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/117804-1727151218/hls-3681b7/1080p/master-2177290.3781189458.m3u8"
+    },
+    {
+      "title": "JS SESSION 6 DOM 2 EVNETS",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/118726-1727237982/hls-cc2079/1080p/master-7998503.283270213.m3u8"
+    },
+    {
+      "title": "JS SESSION 7 DOM 2 | EVENTS",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/119847-1727323665/hls-5bd97e/1080p/master-3706041.149358292.m3u8"
+    },
+    {
+      "title": "JS SESSION 8 ARRAY",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/120695-1727410605/hls-38eb61/1080p/master-7265718.070127691.m3u8"
+    },
+    {
+      "title": "JS API CALL USING AXIOS",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/121479-1727497005/hls-c708be/1080p/master-4262863.354905375.m3u8"
+    },
+    {
+      "title": "JS API CALL USING AXIOS 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/132147-1728620033/hls-3b9d3f/1080p/master-2849329.120548414.m3u8"
+    },
+    {
+      "title": "JS Local Storage",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/136808-1729138424/hls-1667be/1080p/master-9383585.741754416.m3u8"
+    },
+    {
+      "title": "SQL Session 1 Introduction",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/137878-1729224828/hls-a9644d/1080p/master-5951273.80955123.m3u8"
+    },
+    {
+      "title": "SQL Session 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/138842-1729310868/hls-5079a3/1080p/master-7450331.340883549.m3u8"
+    },
+    {
+      "title": "SQL SESSION 3 | SELECT | AND | OR | IN | NOT IN | BETWEEN",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/140314-1729483483/hls-94ca1b/1080p/master-9857024.165451476.m3u8"
+    },
+    {
+      "title": "SQL SESSION 4 | ORDER BY | LIMIT | LIKE PATERN",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/141407-1729570244/hls-95c60f/1080p/master-3763269.918705472.m3u8"
+    },
+    {
+      "title": "SQL SESSION 5 | AGGREGATE FUNCTIONS|",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1324355-1729656279/hls-7bd1a5/1080p/master-6954370.339955518.m3u8"
+    },
+    {
+      "title": "SQL SESSION 6 | FORGIN KEY | JOIN |",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1334065-1729829615/hls-062aaf/1080p/master-1787912.8092734243.m3u8"
+    },
+    {
+      "title": "SQL SESSION 8 TYPS OF JOIN |INNER | LEFT | RIGHT | OUTER",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1341917-1729946258/hls-1af678/1080p/master-6532282.719671623.m3u8"
+    },
+    {
+      "title": "SQL PROCEDUTE | TRIGGER",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1350189-1730265401/hls-085ae4/1080p/master-3235320.705230602.m3u8"
+    },
+    {
+      "title": "SQL SESSION 11 TRIGGER",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1354983-1730696863/hls-faabfe/1080p/master-7427906.471749219.m3u8"
+    },
+    {
+      "title": "SQL  | CASE | STUDY | Project Structure |",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1359776-1730810809/hls-492293/1080p/master-6654593.005952955.m3u8"
+    },
+    {
+      "title": "SQL PROJECT SESSION 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1376412-1731298604/hls-37e54d/1080p/master-5211523.711661057.m3u8"
+    },
+    {
+      "title": "SQL PROJECT CASE STUDY 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1380201-1731385003/hls-623986/1080p/master-6682969.928406352.m3u8"
+    },
+    {
+      "title": "SQL PROJECT CASE STUDY [BANK]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1384019-1731471407/hls-e95cf4/1080p/master-3358047.856498274.m3u8"
+    },
+    {
+      "title": "SQL CASE STUDY [BANK ] 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1388190-1731557803/hls-93603d/1080p/master-241490.43934343252.m3u8"
+    },
+    {
+      "title": "SQL CASE STUDY INVENTORY",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1392309-1731643489/hls-f670dc/1080p/master-6943781.782330696.m3u8"
+    },
+    {
+      "title": "SQL SESSION 7 | Normalization",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1338038-1729862780/hls-7dd5fa/1080p/master-7477585.163612879.m3u8"
+    },
+    {
+      "title": "Session 1 Django Framework [Introduction]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1401614-1731903584/hls-0c5cec/1080p/master-4925559.269073596.m3u8"
+    },
+    {
+      "title": "Django Session 2 [Templates]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1405762-1731989980/hls-0217fe/1080p/master-911407.9313567624.m3u8"
+    },
+    {
+      "title": "Django Session 3 [HTML FORM DATA]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1413909-1732165311/hls-23c516/1080p/master-5685577.686351091.m3u8"
+    },
+    {
+      "title": "Django Session 3 [Calculator App]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1417874-1732246852/hls-0b8b42/1080p/master-4249944.187093757.m3u8"
+    },
+    {
+      "title": "Django Static Template Bootstrap",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1422092-1732339438/hls-03659c/1080p/master-2923235.5035140077.m3u8"
+    },
+    {
+      "title": "Django Session 6 API CALL",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1426656-1732512601/hls-d76a4c/1080p/master-913657.6382707173.m3u8"
+    },
+    {
+      "title": "DJANGO REVISION 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/179886-1733982679/hls-9e587d/1080p/master-1965073.9683149944.m3u8"
+    },
+    {
+      "title": "Session 1 Django Framework [Introduction]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/1401614-1731903584/hls-0c5cec/1080p/master-4925559.269073596.m3u8"
+    },
+    {
+      "title": "DJANGO REVISION",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/178652-1733895571/hls-c034ba/1080p/master-1129753.3880668608.m3u8"
+    },
+    {
+      "title": "DJANGO API CALLING",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/182812-1734327181/hls-4491b1/1080p/master-3568882.0539456545.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT SESSION 1",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/183759-1734413028/hls-95a575/1080p/master-7076827.87355075.m3u8"
+    },
+    {
+      "title": "Django Project Session 2",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/184893-1734499253/hls-21000a/1080p/master-6606998.093346135.m3u8"
+    },
+    {
+      "title": "Node JS Introduction",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/208217-1736769695/hls-26fe57/1080p/master-9456538.830969224.m3u8"
+    },
+    {
+      "title": "Node Session 2 Staring with node | FS MODULE|",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/209795-1736942313/hls-258057/1080p/master-6942559.6423905445.m3u8"
+    },
+    {
+      "title": "Node JS HTML FILE",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/210811-1737028896/hls-acbcc9/1080p/master-607847.0133096059.m3u8"
+    },
+    {
+      "title": "Node Express JS Introduction",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/211859-1737115476/hls-e622ed/1080p/master-2044894.9279967255.m3u8"
+    },
+    {
+      "title": "Node Express JS | REST API | Part 1",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/212947-1737201694/hls-4b6343/1080p/master-8124859.829763786.m3u8"
+    },
+    {
+      "title": "Node Routing",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/214170-1737369996/hls-7dea73/1080p/master-5255403.170576185.m3u8"
+    },
+    {
+      "title": "Node Express JS | REST API | Part 2",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/214254-1737373955/hls-63fd02/1080p/master-2707813.1067102463.m3u8"
+    },
+    {
+      "title": "Node Express JS | REST API | Part 3",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/215358-1737460175/hls-d10b8d/1080p/master-9787116.88768802.m3u8"
+    },
+    {
+      "title": "Node Express JS | REST API | Part 4",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/216452-1737546930/hls-1f2187/1080p/master-7682076.366058008.m3u8"
+    },
+    {
+      "title": "Node Express JS | REST API | REVISION",
+      "url": "https://transcoded-videos-v2.classx.co.in/videos/codingseekho-data/219546-1737805418/hls-e1c699/1080p/master-9604870.20880198.m3u8"
+    },
+    {
+      "title": "DJANGO SESSION 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/757265-1714108761/hls-809397/1080p/master-615812.1212965217.m3u8"
+    },
+    {
+      "title": "DJANGO SESSION 2[HTML DATA TEMPLATE]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/763814-1714365447/hls-8e8fbe/1080p/master-2307695.391697975.m3u8"
+    },
+    {
+      "title": "DJANGO SESSION 3[READ HTML DATA TEMPLATE]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/763922-1714366518/hls-d28977/1080p/master-2681830.5694073485.m3u8"
+    },
+    {
+      "title": "DJANGO SESSION 3[ STATIC FILE(DESIGN) TEMPLATE]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/767321-1714453994/hls-84b1e9/1080p/master-7951017.007429812.m3u8"
+    },
+    {
+      "title": "DJANGO SESSION 4[ API CALLING PART-1]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/771305-1714540032/hls-0a6b88/1080p/master-4017996.972397697.m3u8"
+    },
+    {
+      "title": "DJANGO SESSION 4[API CALLING PART-2]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/775484-1714626794/hls-24c439/1080p/master-1277874.8753187319.m3u8"
+    },
+    {
+      "title": "DJANGO SESSION 4[API CALLING PART-3]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/779300-1714713021/hls-013859/1080p/master-7190145.0458463365.m3u8"
+    },
+    {
+      "title": "DJANGO SESSION 4[API CALLING PART-4]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/783000-1714798872/hls-04661f/1080p/master-3471019.8011607574.m3u8"
+    },
+    {
+      "title": "DJANGO SESSION 9[API CALLING PART-5]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/786934-1714972042/hls-4b1f75/1080p/master-9822826.221678125.m3u8"
+    },
+    {
+      "title": "DJANGO SESSION 10[API CALLING PART-6]",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/790483-1715058794/hls-054043/1080p/master-2016956.4825141162.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT SESSION 1",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/809957-1715577209/hls-2d2816/1080p/master-9567242.194672154.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT SESSION 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/813289-1715663952/hls-b97ea3/1080p/master-4830105.640296658.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT SESSION 3",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/817020-1715750358/hls-528f72/1080p/master-4259224.880241748.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT SESSION 4",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/820710-1715836400/hls-87a1b9/1080p/master-9402165.748469872.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT SESSION 5",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/824423-1715922250/hls-9ffb6f/1080p/master-2306692.8666084306.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT SESSION 6",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/843644-1716440847/hls-21c2db/1080p/master-4501751.013562334.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT SESSION 7",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/847181-1716525622/hls-194ef5/1080p/master-551088.2342163126.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT SESSION 8",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/858697-1716872842/hls-bd5697/1080p/master-9481579.770509195.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT DOUBT SESSION SOLVE SESSION",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/862699-1716960856/hls-8f44ea/1080p/master-1137002.211216791.m3u8"
+    },
+    {
+      "title": "DJANGO PROJECT DOUBT SESSION SOLVE SESSION 2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/codingseekho-data/866465-1717045459/hls-ff66e5/1080p/master-6052512.133699493.m3u8"
+    }
+  ],
+  "whatYouWillLearn": [
+    "Master Python web development with Django/FastAPI",
+    "Build scalable web applications and APIs",
+    "Learn database integration with PostgreSQL/MySQL",
+    "Understand frontend integration with React/Vue.js",
+    "Deploy applications using Docker and cloud services",
+    "Master Python best practices and testing frameworks"
+  ],
+  "requirements": [
+    "Basic understanding of HTML, CSS, and JavaScript",
+    "Python 3.x installed on your system",
+    "Internet connection for video streaming",
+    "Code editor (VS Code recommended) with Python extensions",
+    "PostgreSQL or MySQL database installed locally"
+  ],
+  "rating": {
+    "average": 4.3,
+    "count": 260,
+    "breakdown": {
+      "1": 3,
+      "2": 1,
+      "3": 26,
+      "4": 51,
+      "5": 318
+    }
+  },
+  "duration": "15h 6m",
+  "level": "Advanced",
+  "language": "Hinglish",
+  "studentsEnrolled": 522,
+  "lastUpdated": "2025-10-20",
+  "features": [
+    "Lifetime Access",
+    "Certificate of Completion",
+    "Mobile and Desktop Access",
+    "Downloadable Resources",
+    "Community Support"
+  ],
+  "teacherId": "coding-seekhho"
+}

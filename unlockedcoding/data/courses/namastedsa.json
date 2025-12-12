@@ -1,0 +1,81 @@
+{
+    "courseName": "Namaste-DSA",
+    "coursecategory": "DSA",
+    "viewtype": "both",
+    "des": "From zero to hero in Data Structures & Algorithms. Structured, hands-on, problem-solving heavy course which aims at giving you huge conceptual clarity and interview-readiness. :contentReference[oaicite:2]{index=2}",
+    "imageofcourse": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-dsa-banner.webp",
+    "audio": "English",
+    "cost": 5999,
+    "videoType": "redirect",
+    "subsection": [
+     "namastedev"
+    ],
+    "redirecturl": "https://t.me/Haki_Un_Bot?start=BQADAQADzgsAAr0SOEc3jjFA7lj-BxYE",
+    "redirectsyllabus": [
+      "Introduction – Course Overview & Language Choice :contentReference[oaicite:3]{index=3}",
+      "Warm Up – Programming 101, Loops, Star Patterns etc. :contentReference[oaicite:4]{index=4}",
+      "Time & Space Complexity – Analyse your code performance :contentReference[oaicite:5]{index=5}",
+      "Arrays - Easy/Medium – Remove Duplicates, Missing Number etc. :contentReference[oaicite:6]{index=6}",
+      "Recursion – Easy/Medium – Basics, Sum of array etc. :contentReference[oaicite:7]{index=7}",
+      "Searching & Sorting – Easy/Medium – Linear Search, Merge Sort etc. :contentReference[oaicite:8]{index=8}",
+      "Linked List – Easy/Medium – Introduce, Reverse, Cycle Detection etc. :contentReference[oaicite:9]{index=9}",
+      "Strings – Easy/Medium – Anagrams, Palindromes etc. :contentReference[oaicite:10]{index=10}",
+      "Stack & Queues – Implementation & Problem Solving :contentReference[oaicite:11]{index=11}",
+      "Binary Search Algorithm – Square Root, Rotated Arrays etc. :contentReference[oaicite:12]{index=12}",
+      "Two Pointers & Sliding Window – Two Sum, Longest Substring etc. :contentReference[oaicite:13]{index=13}",
+      "Binary Tree – Traversals, Depth, Path Sum etc. :contentReference[oaicite:14]{index=14}",
+      "Binary Search Tree – Introduction, Insert, Search etc. :contentReference[oaicite:15]{index=15}",
+      "Heap / Priority Queue – Heap Sort, Kth Largest, Streams etc. :contentReference[oaicite:16]{index=16}",
+      "Backtracking – Subsets, Permutations, N Queens etc. :contentReference[oaicite:17]{index=17}",
+      "Greedy Algorithm – Two City Scheduling, Task Scheduler etc. :contentReference[oaicite:18]{index=18}",
+      "Dynamic Programming – LIS, Coin Change, Word Break etc. :contentReference[oaicite:19]{index=19}",
+      "Graphs – BFS, DFS, Topological Sort etc. :contentReference[oaicite:20]{index=20}",
+      "Tries – Introduction and application in strings & searching :contentReference[oaicite:21]{index=21}",
+      "Searching & Sorting – Advanced topics revisited :contentReference[oaicite:22]{index=22}",
+      "Arrays – Advanced topics revisited :contentReference[oaicite:23]{index=23}",
+      "Strings – Advanced topics revisited :contentReference[oaicite:24]{index=24}",
+      "Bonus – Salary Negotiation, Resume Masterclass, Personal Branding, LinkedIn Masterclass :contentReference[oaicite:25]{index=25}"
+    ],
+    "rank": "high",
+    "whatYouWillLearn": [
+      "Master arrays, strings, data structures, algorithms from scratch",
+      "Analyse time & space complexity of your solutions",
+      "Solve real-world coding problems from easy to hard" ,
+      "Be interview-ready for DSA rounds at top tech companies",
+      "Use pattern-based problem solving methodology for efficiency",
+      "Build confidence in tackling complex algorithmic challenges"
+    ],
+    "requirements": [
+      "Basic programming knowledge recommended",
+      "Laptop/desktop with internet connection",
+      "Willingness to practice 100s of coding problems",
+      "Open mind and consistency to learn rigorous concepts"
+    ],
+    "rating": {
+      "average": 4.9,
+      "count": 1000,
+      "breakdown": {
+        "1": 5,
+        "2": 8,
+        "3": 20,
+        "4": 60,
+        "5": 907
+      }
+    },
+    "duration": "TBA",
+    "level": "Beginner to Advanced",
+    "language": "English",
+    "studentsEnrolled": "",
+    "lastUpdated": "2025-06-01",
+    "features": [
+      "Lifetime access to course videos & future updates",
+      "Detailed cheat sheets & notes",
+      "Interview-style problems & pattern recognition",
+      "Private premium community (Discord) for peer learning",
+      "Certificate of completion",
+      "7-day no-questions-asked refund policy"
+    ],
+    "teacherId": "akshay-saini",
+    "videos": []
+  }
+  

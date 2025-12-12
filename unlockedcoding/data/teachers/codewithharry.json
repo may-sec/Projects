@@ -1,0 +1,32 @@
+{
+    "id": "codewithharry",
+    "name": "Haris Ali Khan",
+    "displayName": "CodeWithHarry",
+    "bio": "Haris Ali Khan, widely recognized as CodeWithHarry, stands as one of India's most beloved and influential programming educators, having simplified coding for millions of learners worldwide. As a software engineer, educator, and content creator with an extensive YouTube following, Harry has revolutionized the way programming is taught in India by creating practical, beginner-friendly tutorials that focus on building real-world coding skills. His teaching philosophy centers on making complex programming concepts accessible to everyone, regardless of their technical background. From Python fundamentals to advanced web development, data science, and machine learning, CodeWithHarry's comprehensive course library covers the entire spectrum of programming education, empowering countless students to kickstart their careers in technology. Harry's journey as an educator began with a simple yet powerful mission: to make programming education accessible, affordable, and enjoyable for everyone. Recognizing that many aspiring programmers struggle with complex technical jargon and intimidating learning resources, Harry set out to create content that breaks down barriers and makes coding approachable for absolute beginners. His unique ability to explain complex concepts in simple, relatable language has made him a household name in the Indian programming community. The CodeWithHarry platform offers an extensive library of courses covering everything from basic programming concepts to advanced topics in web development, data science, machine learning, and software engineering. Harry's Python course is particularly renowned for its comprehensive coverage, starting from the very basics and progressing to advanced topics like web scraping, GUI development, and data analysis. His teaching style emphasizes hands-on practice, with numerous coding exercises and projects that help students reinforce their learning through practical application. Beyond Python, Harry's web development courses cover the complete MERN stack (MongoDB, Express.js, React, Node.js), teaching students how to build modern, full-stack web applications from scratch. His tutorials include step-by-step guidance on setting up development environments, understanding frameworks and libraries, implementing authentication, working with databases, and deploying applications to production. Harry's data science and machine learning courses introduce students to the fascinating world of artificial intelligence, covering topics like data preprocessing, exploratory data analysis, model training, and deployment. He makes these advanced concepts accessible by using real-world datasets and practical examples that students can relate to and learn from. What sets CodeWithHarry apart is Harry's commitment to creating high-quality, free educational content that rivals paid courses. He believes that quality education should be accessible to everyone, regardless of their financial situation. This philosophy has earned him the respect and gratitude of millions of students who have benefited from his free tutorials and courses. Harry's teaching methodology is characterized by clear explanations, practical examples, and a focus on building complete projects rather than isolated code snippets. He understands that learning to code is not just about memorizing syntax, but about developing problem-solving skills and understanding how to think like a programmer. His courses are designed to build this mindset gradually, starting with simple concepts and progressively introducing more complex topics. The CodeWithHarry community is one of the largest and most active programming communities in India, with students from all walks of life sharing their projects, asking questions, and helping each other learn. Harry actively engages with his community, responding to comments, addressing doubts, and continuously improving his content based on student feedback. Harry's impact on the Indian tech education landscape cannot be overstated. He has inspired countless individuals to pursue careers in technology, helped students land their dream jobs, and contributed significantly to building India's developer ecosystem. His dedication to making programming education accessible, combined with his exceptional teaching skills and genuine care for his students' success, makes CodeWithHarry one of the most trusted and beloved programming educators in India and beyond. Harry's courses also cover important topics like C and C++ programming, which are fundamental for understanding computer science concepts and systems programming. His comprehensive approach ensures that students have a well-rounded education that prepares them for various career paths in technology. Additionally, Harry provides career guidance, resume tips, and interview preparation resources, helping students not just learn to code, but also succeed in their job search and career development.",
+    "expertise": [
+      "Python",
+      "Web Development",
+      "Data Science",
+      "Machine Learning",
+      "Programming Fundamentals"
+    ],
+    "experience": "8+ years",
+    "studentsHelped": "4,000,000+",
+    "specialization": "Full-Stack Development & Data Science Education",
+    "teachingStyle": "Project-based learning with beginner-friendly explanations, emphasis on hands-on coding practice, and focus on real-world applications",
+    "achievements": [
+      "Recognized as the top educator and content creator in the Indian programming community with millions of followers",
+      "Founded and built the CodeWithHarry YouTube channel into one of India's largest programming education resources",
+      "Created multiple highly popular coding courses covering Python, Web Development, Data Science, and Machine Learning",
+      "Known worldwide for simplifying complex programming topics into clear, step-by-step tutorials that anyone can follow",
+      "Helped millions of students learn programming and build successful careers in technology"
+    ],
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s900-c-k-c0x00ffffff-no-rj",
+    "socialLinks": {
+      "youtube": "https://www.youtube.com/@CodeWithHarry",
+      "website": "https://www.codewithharry.com",
+      "linkedin": "https://www.linkedin.com/in/codewithharry/",
+      "github": "https://github.com/CodeWithHarry"
+    }
+  }
+  

@@ -1,0 +1,67 @@
+{
+    "courseName": "Hands-On-Generative-AI-Course",
+    "coursecategory": "Artificial Intelligence / Generative AI",
+    "viewtype": "both",
+    "des": "7-week immersive live & hands-on program to build, deploy and apply Generative AI models and agent-based systems, from fundamentals to advanced workflows.",
+    "imageofcourse": "https://www.educosys.com/assets/images/courses/genai.webp",
+    "audio": "English",
+    "cost": 11999,
+    "videoType": "redirect",
+    "subsection": [
+    "keertipurswani",
+    "educosys",
+    "keerti"
+    ],
+    "redirecturl": "https://www.educosys.com/assets/images/courses/genai.webp",
+    "redirectsyllabus": [
+      "Week 1: Foundations of Generative AI – Introduction to AI; Mathematical Foundations; Probability, Statistics & Linear Algebra; Basics of Neural Networks; Gradient Descent & Optimization; Architectures: Feedforward, RNN, CNN; Mini Project: Build a Simple Neural Network; Mini Project: Train an Autoencoder on the MNIST Dataset",
+      "Week 2: Deep Generative Models – Discriminative & Generative Models; GANs; VAEs; Probabilistic Data Generation using VAEs; Four Mini Projects using TensorFlow; Metrics Visualization with TensorBoard; Mini Project: Implement a GAN to Generate Handwritten Digits; Mini Project: Train a VAE to Generate Faces Using the CelebA Dataset",
+      "Week 3: Transformers & Large Language Models – RNN, LSTM; Transformer Architecture; Attention Mechanism: Self-Attention & Positional Encoding; Major Project: Code a Transformer from Scratch; Encoder-Decoder Framework; Pretraining Objectives: MLM, CLM; GPT, BERT",
+      "Week 4: Fine-Tuning, LangChain, LangGraph – Pretraining & Fine-Tuning; LoRA, QLoRA; Hugging Face; Fine-Tuning for Tasks like Summarization & QA; LangChain Installation & Basic Setup; Overview of LangChain: Prompts, Memory, Chains, Agents; LangGraph: Nodes, State, StateGraph, Workflows; AI Agents; Mini Project: Simple Q&A App Using LangChain",
+      "Week 5: Vector Databases & RAG – Vector Databases; ChromaDB; Applications of RAG; Building RAG Pipelines with LangChain; Building Front-end using Streamlit; Major Project: Build End-to-End Chatbot like ChatGPT using Streamlit, LangGraph, ChromaDB, WebSearch Tools, Memory with LLMs; Project: Build App using Streamlit for Image Generation, Image Caption Generation, Video Caption Generation",
+      "Week 6: Trending Topics – MCP (Model Context Protocol); Ollama; Projects – Fine-Tuning using Unsloth; Mixture of Experts; Chain of Thoughts; Deepseek Architecture",
+      "Week 7: Projects & Advanced Topics – Distillation; Diffusion Models; Vision Transformers; Multimodal Models; CLIP; Prompt Engineering"
+    ],
+    "rank": "high",
+    "whatYouWillLearn": [
+      "Master generative model architectures like GANs, VAEs, Transformers",
+      "Build large language model applications and fine-tune pre-trained models",
+      "Design and deploy retrieval-augmented generation (RAG) systems using vector databases",
+      "Work with cutting-edge AI tooling (LangChain, LangGraph, Streamlit, ChromaDB)",
+      "Tackle advanced topics such as multimodal AI, diffusion models, prompt engineering and agentic systems",
+      "Add 10+ hands-on projects to your resume"
+    ],
+    "requirements": [
+      "Basics of Python (NumPy & Pandas recommended)",
+      "Willingness to code and build projects",
+      "Internet access for live classes and hands-on sessions",
+      "Laptop or desktop for coding (phone alone possible but not ideal)"
+    ],
+    "rating": {
+      "average": 0,
+      "count": 0,
+      "breakdown": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "duration": "7 weeks",
+    "level": "Beginner to Intermediate",
+    "language": "English",
+    "studentsEnrolled": "",
+    "lastUpdated": "2025-10-26",
+    "features": [
+      "Live sessions + recordings",
+      "Lifetime access to recordings",
+      "Access to upcoming live batches",
+      "Hands-on projects & code provided",
+      "Community support (Discord) & certificate of completion",
+      "Invoice & GST compliant for reimbursement"
+    ],
+    "teacherId": "keertipurswani",
+    "videos": []
+  }
+  

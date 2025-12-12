@@ -1,0 +1,69 @@
+{
+    "courseName": "Namaste-Frontend-System-Design",
+    "coursecategory": "system-design",
+    "viewtype": "both",
+    "des": "From Zero to Hero in Frontend System Design. Dive deep into how large-scale frontend applications are architected, designed and built — real-world industry examples + advanced topics. ([namastedev.com](https://namastedev.com/learn/namaste-frontend-system-design))",
+    "imageofcourse": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-fsd-banner.webp",
+    "audio": "English",
+    "cost": 0,
+    "videoType": "redirect",
+    "subsection": [
+     "namastedev"
+    ],
+    "redirecturl": "https://t.me/Haki_Un_Bot?start=BQADAQAD3RUAAvk7eUaKmNoCwCKkixYE",
+    "redirectsyllabus": [
+      "Networking • How the Web Works • Communication Protocols • REST APIs • GraphQL • gRPC",  
+      "Communication • Short Polling • Long Polling • WebSockets • Server-Sent Events • WebHooks",
+      "Security • XSS • CSRF • iFrame Protection • Secure Communication • Dependency Security • CORS",
+      "Testing • Unit Testing • Integration Testing • E2E Testing • A/B Testing • Performance Testing • TDD Overview",
+      "Performance • Asset Optimization • Network Optimization • Build Optimization • React Optimization • JavaScript Optimization • Performance Tools",
+      "Database & Caching • LocalStorage • SessionStorage • Cookie Storage • IndexedDB • HTTP Caching • Service Worker Caching • API Caching",
+      "Low-Level Design • Design Patterns • Component Design • State Management • Routing • SOLID Principles • Live Streaming UI • Autocomplete/Search Bar LLD",
+      "High-Level Design • Social Media Feed Design • Video Streaming App Design • E-Commerce App Design • Analytics Dashboard Design • Cab Service App Design",
+      "Offline Support & PWAs • Service Workers • IndexedDB Offline First • Cache Strategies • Offline UI/UX",
+      "Accessibility • Keyboard Accessibility • Screen Reader Support • Color Contrasts • Design Systems • Polyfills",
+      "Logging & Monitoring • Telemetry • Error Logging • Feature Usage Tracking • Alerting • Performance Monitoring",
+      "BONUS • 100+ Popular Interview Questions • Real-World Industry Examples • Case Studies from Paytm/Flipkart/Microsoft/Uber"
+    ],
+    "rank": "high",
+    "whatYouWillLearn": [
+      "How the web really works (network, protocols, browser internals)",
+      "Design scalable, high-performance frontend architectures",
+      "Master frontend security, caching, persistence, offline and accessibility",
+      "Be interview-ready for Frontend System Design at senior roles",
+      "Work with real industry case-studies and apply them to your projects",
+      "Optimize frontend apps for real users — performance, monitoring & design systems"
+    ],
+    "requirements": [
+      "Comfortable with JavaScript and basic frontend (HTML/CSS/JS)",
+      "Some experience with React (or another modern frontend library) helpful",
+      "Laptop/desktop with internet access for videos and coding",
+      "Willingness to deep dive into architecture and design patterns"
+    ],
+    "rating": {
+      "average": 4.8,
+      "count": 2000,
+      "breakdown": {
+        "1": 20,
+        "2": 30,
+        "3": 100,
+        "4": 350,
+        "5": 1500
+      }
+    },
+    "duration": "TBA",
+    "level": "Intermediate to Advanced",
+    "language": "English",
+    "studentsEnrolled": "",
+    "lastUpdated": "2025-10-26",
+    "features": [
+      "Lifetime access to course content",
+      "Industry-expert instructors (Akshay Saini & Chirag Goel)",
+      "Private expert community for frontend engineers",
+      "Structured, in-depth curriculum for frontend system design",
+      "Certificate of completion"
+    ],
+    "teacherId": "akshay-saini",
+    "videos": []
+  }
+  

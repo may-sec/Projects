@@ -1,0 +1,81 @@
+{
+    "courseName": "Ultimate-Job-Ready-Data-Science",
+    "coursecategory": "ai-ml-ds",
+    "viewtype": "both",
+    "des": "This all-in-one Job-Ready Data Science Course designed for beginners and intermediate learners to master data science skills and become industry-ready with hands-on experience.",
+    "imageofcourse": "https://codewithharry.nyc3.cdn.digitaloceanspaces.com/dashboard/course/the-ultimate-job-ready-data-science-course/1744053514275-TempThumb.png",  
+    "audio": "Hindi",  
+    "cost": 2899,
+    "videoType": "redirect",
+    "subsection": [
+      "CodeWithHarry",
+      "cwh"
+    ],
+    "redirecturl": "https://t.me/codewithharry_datascience",
+    "redirectsyllabus": [
+      "Introduction to Data Science",
+      "Understanding the Conda Environment",
+      "Python Refresher (For Data Science)",
+      "Project 1  Coders of Delhi",
+      "Data analysis using NumPy",
+      "Data Analysis using Pandas",
+      "Data Visualization using Matplotlib and Seaborn",
+      "Data Collection Techniques",
+      "SQL for Data Science",
+      "Probability",
+      "Probability Distributions and Central Limit Theorem",
+      "Machine Learning for Data Scientists",
+      "Types of ML Algorithms",
+      "Practical ML using Scikit-learn",
+      "Deep Learning & Neural Networks",
+      "Web Development for Data Scientists",
+      "Large Language Models",
+      "Leveraging AI as a Data Scientist",
+      "Git for Data Scientists",
+      "Project 2 RAG based AI Teaching Assistant",
+      "Conclusion",
+      "Bonus Videos"
+    ],
+    "rank": "high",
+    "whatYouWillLearn": [
+      "Master Python programming from a data science perspective",
+      "Perform powerful data analysis using Pandas and NumPy",
+      "Create stunning data visualizations with Matplotlib and Seaborn",
+      "Understand and apply core statistics and probability concepts",
+      "Clean and preprocess real-world datasets for accurate insights",
+      "Work on real-life projects",
+      "Use Jupyter Notebooks for data-driven development"
+    ],
+    "requirements": [
+      "No prior experience in data science is needed",
+      "Basic computer skills and internet access",
+      "Willingness to learn and solve real-world problems",
+      "Curiosity and consistency",
+      "Stable internet connection for accessing course content",
+      "Basic familiarity with using the terminal/command line (helpful but not required)"
+    ],
+    "rating": {
+      "average": 0,
+      "count": 0,
+      "breakdown": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "duration": "31h 37m",
+    "level": "Beginner to Intermediate",
+    "language": "Hindi",
+    "studentsEnrolled": "",
+    "lastUpdated": "2025-10-26",
+    "features": [
+      "2-Year Access",
+      "Certificate of Completion",
+      "Mobile and Desktop Access"
+    ],
+    "teacherId": "CodeWithHarry",
+    "videos": []
+  }
+  

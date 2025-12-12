@@ -1,0 +1,153 @@
+{
+  "courseName": "keerti-hhld",
+  "coursecategory": "system-design",
+  "viewtype": "both",
+  "des": "Learn HHLD Hands On High Level System Design Implementation by keertipurswani with comprehensive video tutorials and hands-on projects.",
+  "imageofcourse": "https://appx-content-v2.classx.co.in/paid_course3/2025-04-04-0.22335640900944154.png",
+  "audio": "english",
+  "cost": 0,
+  "videoType": "hls",
+  "redirecturl": "",
+  "rank": "medium",
+  "homepage": true,
+  "subsection": [
+    "keertipurswani",
+    "educosys",
+    "keerti"
+  ],
+  "videos": [
+    {
+      "title": "Day 1 - Intro to AWS - Regions, AZs, VPCs, Subnets, EC2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/701968-1713179806/hls-6921fa/1080p/master-338556.38816910674.m3u8"
+    },
+    {
+      "title": "Day 2 - Intro to NodeJS, Express, Load Balancers, Docker",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/703847-1712432953/hls-55324c/720p/master-9611449.1508627.m3u8"
+    },
+    {
+      "title": "Day 3 - Docker, Kubernetes, ECS, S3",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/376854-1713179953/hls-3f3397/1080p/master-7484850.198562291.m3u8"
+    },
+    {
+      "title": "Day 4 - Chat App Project Basic Functionality using Websockets",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/377443-1713179956/hls-ed3aab/1080p/master-2259535.5105765336.m3u8"
+    },
+    {
+      "title": "Day5 - MongoDB, Auth, JWT",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/377706-1713179957/hls-5446d5/1080p/master-1332666.7237874323.m3u8"
+    },
+    {
+      "title": "Day 6 - Login, Routing and more",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/377747-1713179960/hls-726ce1/1080p/master-7425192.43373575.m3u8"
+    },
+    {
+      "title": "Day 7 - Zustand, Socket Map, Msgs in MongoDB",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/378734-1713555796/hls-a9467d/1080p/master-9641732.257355817.m3u8"
+    },
+    {
+      "title": "Day 8 - API Gateway, 1:1 msging, Containerization, Redis",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/378928-1713640935/hls-c991dc/1080p/master-652555.99071669.m3u8"
+    },
+    {
+      "title": "Day 9 - DockerHub, PubSub, ECS",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/378983-1713727695/hls-f5e802/1080p/master-8664620.16841656.m3u8"
+    },
+    {
+      "title": "Day 10 - ECS, CICD, GitHub Actions, NextJS CSR, SSR",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/379695-1714160233/hls-206268/1080p/master-8722175.724742705.m3u8"
+    },
+    {
+      "title": "Day 11 - YouTube Project Basic Flow, Intro to ABS, OAuth",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/379841-1714249519/hls-00a87a/1080p/master-10861.69533437209.m3u8"
+    },
+    {
+      "title": "Day 12 - NextAuth, SSO, Kafka",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/845228-1716460994/hls-fb6e27/720p/master-2755944.344973409.m3u8"
+    },
+    {
+      "title": "Day 13 - Chunking, Multipart upload",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/380786-1714767558/hls-d70cd5/1080p/master-8407895.953264555.m3u8"
+    },
+    {
+      "title": "Day 14 - DB Discussion, VideoMetaData in Postgres, Prisma",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/380988-1714855034/hls-5e46ab/1080p/master-5738044.207696247.m3u8"
+    },
+    {
+      "title": "Day 15 - Transcoding, CDN, Project HLD Dicussion",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/380998-1715816957/hls-a92306/1080p/master-6233498.324758977.m3u8"
+    },
+    {
+      "title": "Day 16 - ELK Stack, OpenSearch & Lambda in YouTube Project",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/381879-1715816958/hls-96e44d/1080p/master-3523412.8551606527.m3u8"
+    },
+    {
+      "title": "Day 17 - Search in YouTube FE, Intro to Stock Broker, gRPC",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/382005-1715816958/hls-438c5f/1080p/master-2719237.7471922715.m3u8"
+    },
+    {
+      "title": "Day 18 - GraphQL, Upstox API, WebHooks",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/845345-1716461564/hls-3b4b09/720p/master-5761227.14299007.m3u8"
+    },
+    {
+      "title": "Day 19 - Watchlists Flow, Search Stocks - OpenSearch &. Lambda",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/829466-1716035112/hls-b27970/1080p/master-4377260.222394157.m3u8"
+    },
+    {
+      "title": "Day 20 - Upstox API, gRPC",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/830185-1716076873/hls-93c8ca/1080p/master-3013254.250323978.m3u8"
+    },
+    {
+      "title": "Day 21 - Stock Broker Project Completion, HLD Discussion",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/383137-1716198749/hls-7c7104/1080p/master-7551755.930214501.m3u8"
+    },
+    {
+      "title": "Day 22 - CAP Theorem, Capacity Estimation, Interview Prep Tips",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/383935-1716668001/hls-7c5cdc/1080p/master-5728524.418610517.m3u8"
+    },
+    {
+      "title": "Day 23 - Notifications, Kubernetes, EKS, Prometheus",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/383973-1716757459/hls-fbcef9/1080p/master-4226614.3931293.m3u8"
+    },
+    {
+      "title": "May 15 MeetUp",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/keertipurswani-data/384752-1717225821/hls-5f7f36/1080p/master-5350290.176349852.m3u8"
+    }
+  ],
+  "whatYouWillLearn": [
+    "Master the fundamentals and core concepts",
+    "Build real-world projects and applications",
+    "Understand best practices and industry standards",
+    "Develop problem-solving skills",
+    "Learn debugging and testing techniques"
+  ],
+  "requirements": [
+    "Basic computer knowledge",
+    "Internet connection for video streaming",
+    "Code editor (VS Code recommended)",
+    "Motivation to learn and practice"
+  ],
+  "rating": {
+    "average": 4.9,
+    "count": 550,
+    "breakdown": {
+      "1": 2,
+      "2": 6,
+      "3": 13,
+      "4": 145,
+      "5": 309
+    }
+  },
+  "duration": "14h 24m",
+  "level": "Intermediate",
+  "language": "Hindi",
+  "studentsEnrolled": 689,
+  "lastUpdated": "2025-10-20",
+  "features": [
+    "Lifetime Access",
+    "Certificate of Completion",
+    "Mobile and Desktop Access",
+    "Downloadable Resources",
+    "Community Support"
+  ],
+  "teacherId": "keertipurswani"
+}

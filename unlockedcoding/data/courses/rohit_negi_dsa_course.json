@@ -1,0 +1,377 @@
+{
+  "courseName": "Rohit-Negi-DSA",
+  "coursecategory": "dsa",
+  "viewtype": "both",
+  "des": "Learn Rohit Negi DSA Course with comprehensive video tutorials and hands-on projects.",
+  "imageofcourse": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMPNGo2d4bBYfc6VbsrT4UY4E5V0SWPMfuUA&s",
+  "audio": "english",
+  "cost": 0,
+  "videoType": "hls",
+  "redirecturl": "",
+  "rank": "medium",
+  "videos": [
+    {
+      "title": "Lecture 01 : Introduction To Programming",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265855-1722239379/hls-eda81c/720p/master-8483289.988068523.m3u8"
+    },
+    {
+      "title": "Lecture 02: Introduction to C++ and Write First Code",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265854-1722239378/hls-f806d0/720p/master-8082035.960793714.m3u8"
+    },
+    {
+      "title": "Lecture 03:If-Else Condition, Operators and Basic of Loops",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265853-1722239378/hls-f47c28/720p/master-5909787.537593907.m3u8"
+    },
+    {
+      "title": "Lecture 04:For Loop + While Loop + Pattern Printing",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265852-1722239378/hls-cb99e8/720p/master-7402391.109579414.m3u8"
+    },
+    {
+      "title": "Lecture 05:Pattern Printing+WhileLoop+Basic Maths",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265851-1722239377/hls-ff07ea/720p/master-8419357.921580022.m3u8"
+    },
+    {
+      "title": "Lecture 06:Decimal to Binary + Functions",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265850-1722239377/hls-f761b2/720p/master-2938532.7359569203.m3u8"
+    },
+    {
+      "title": "Lecture 07:Function + Array",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265849-1722239377/hls-185099/720p/master-8199302.574591134.m3u8"
+    },
+    {
+      "title": "Lecture 08:Basic Questions on Array",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265848-1722239376/hls-d95462/720p/master-4086331.389192521.m3u8"
+    },
+    {
+      "title": "Lecture 09:Print array Element + Sorting Algorithm",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265847-1722239375/hls-c39b34/720p/master-7649402.454661461.m3u8"
+    },
+    {
+      "title": "Lecture 10:Sorting Algorithm( Selection, Bubble, Insertion)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265846-1722239375/hls-283765/720p/master-3301369.8792548096.m3u8"
+    },
+    {
+      "title": "Lecture 11:Time and Space Complexity",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265845-1722239374/hls-547e3c/720p/master-3872644.9501410774.m3u8"
+    },
+    {
+      "title": "Lecture 12:Time And Space Complexity Part2",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265844-1722239373/hls-4f71de/720p/master-2213731.369765999.m3u8"
+    },
+    {
+      "title": "Lecture 13:Binary Search",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265843-1722239373/hls-21b923/720p/master-608388.2468887025.m3u8"
+    },
+    {
+      "title": "Lecture 14:Binary Search in Detail",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265842-1722239373/hls-fccd40/720p/master-2559225.536542877.m3u8"
+    },
+    {
+      "title": "Lecture 15:Data Structure And Algorithm",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265841-1722239372/hls-6f8e56/720p/master-5525004.871862187.m3u8"
+    },
+    {
+      "title": "Lecture 16:Two Pointer",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265840-1722239372/hls-7680c9/720p/master-6445801.892162289.m3u8"
+    },
+    {
+      "title": "Lecture 17:2-D Array in detail",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265839-1722239371/hls-22c669/720p/master-8569522.319745049.m3u8"
+    },
+    {
+      "title": "Lecture 18:2D Array+ Vector",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265838-1722239370/hls-b4c18f/720p/master-8824548.605086543.m3u8"
+    },
+    {
+      "title": "Lecture 19:Data Structure And Algorithm",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265837-1722239369/hls-f99071/720p/master-4568053.688444622.m3u8"
+    },
+    {
+      "title": "Lecture 20:String (Hard Questions)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265836-1722239369/hls-eb14b5/720p/master-5279504.16960528.m3u8"
+    },
+    {
+      "title": "Lecture 21:String (KMP Algorithm)",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265835-1722239369/hls-169263/720p/master-8982132.410124753.m3u8"
+    },
+    {
+      "title": "Lecture 22:Pointer in C++",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265834-1722239369/hls-c821d0/720p/master-8458303.843288036.m3u8"
+    },
+    {
+      "title": "Lecture 23:Pointer in Advance",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265833-1722239369/hls-fccace/720p/master-4721509.593783901.m3u8"
+    },
+    {
+      "title": "Lecture 24 :2D array + Recursion",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265832-1722239368/hls-b646e3/720p/master-1238566.9316369775.m3u8"
+    },
+    {
+      "title": "Lecture 25:Recursion",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265831-1722239367/hls-353a5a/720p/master-4982127.57606056.m3u8"
+    },
+    {
+      "title": "Lecture 26:Merge Sort+ Quick Sort",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265829-1722239366/hls-8338ee/720p/master-834360.8225679366.m3u8"
+    },
+    {
+      "title": "Lecture 27:Quick sort + Recursion",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265828-1722239366/hls-d200a3/720p/master-9956169.243710952.m3u8"
+    },
+    {
+      "title": "Lecture 28:Recursion + Robber House",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265827-1722239366/hls-c6fdf0/720p/master-4289700.870159654.m3u8"
+    },
+    {
+      "title": "Lecture 29:Recursion + Pallindrome+Permutation",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265826-1722239366/hls-f07e0d/720p/master-1622363.2689602962.m3u8"
+    },
+    {
+      "title": "Lecture 30:Object Oriented Programming",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265825-1722239366/hls-424a39/720p/master-1425357.7328290755.m3u8"
+    },
+    {
+      "title": "Lecture 31:Linked List",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265824-1722239366/hls-a88a87/720p/master-9238870.464785697.m3u8"
+    },
+    {
+      "title": "Lecture 32:Linked List",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265823-1722239366/hls-b85c5b/720p/master-8504886.483082442.m3u8"
+    },
+    {
+      "title": "Lecture 33:Linked List Advance",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265822-1722239365/hls-10c5b0/720p/master-6250047.913279282.m3u8"
+    },
+    {
+      "title": "Lecture 34:Linked List Advance",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265821-1722239365/hls-38023f/720p/master-9318351.436357379.m3u8"
+    },
+    {
+      "title": "Lecture 35:Stack and its implementation",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265819-1722239218/hls-551c4b/720p/master-4004782.475730839.m3u8"
+    },
+    {
+      "title": "Lecture 36:Stack Medium level",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265818-1722239217/hls-74fc2e/720p/master-9916499.214333257.m3u8"
+    },
+    {
+      "title": "Lecture 37:Stack Hard Question",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265817-1722239216/hls-4ff3d8/720p/master-3023401.224391873.m3u8"
+    },
+    {
+      "title": "Lecture 38:Queue",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265816-1722239216/hls-13783d/720p/master-4050831.046612735.m3u8"
+    },
+    {
+      "title": "Lecture 39:Queue Advance",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265815-1722239211/hls-5b41db/720p/master-6225896.623279475.m3u8"
+    },
+    {
+      "title": "Lecture 40:Trees",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265814-1722239211/hls-0fa1c7/720p/master-855991.6902002285.m3u8"
+    },
+    {
+      "title": "Lecture 41: Tree Traversal + View",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265813-1722239211/hls-e80659/720p/master-7672668.802876623.m3u8"
+    },
+    {
+      "title": "Lecture 42: Tree traversal",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265812-1722239211/hls-c183f3/720p/master-1371784.476261062.m3u8"
+    },
+    {
+      "title": "Lecture 43: Tree More question",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265811-1722239211/hls-98702c/720p/master-9590085.00433141.m3u8"
+    },
+    {
+      "title": "Lecture 44: Tree Hard",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265810-1722239210/hls-b0a88f/720p/master-9156067.894469524.m3u8"
+    },
+    {
+      "title": "Lecture 45: Binary Search Tree",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265809-1722239210/hls-963dd0/720p/master-8896258.479865031.m3u8"
+    },
+    {
+      "title": "Lecture 46: Binary search Tree",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265808-1722239210/hls-b29cff/720p/master-5123786.2598809.m3u8"
+    },
+    {
+      "title": "Lecture 47: BST Hard",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265807-1722239210/hls-3627fd/720p/master-6459096.846570234.m3u8"
+    },
+    {
+      "title": "Lecture 48: Balance Binary Search Tree",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265805-1722239206/hls-cda104/720p/master-1748370.2117015976.m3u8"
+    },
+    {
+      "title": "Lecture 49: AVL and Heap",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265804-1722239205/hls-d464de/720p/master-6517517.251253458.m3u8"
+    },
+    {
+      "title": "Lecture 50: Heap",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265803-1722239205/hls-aa9686/720p/master-7736270.374444514.m3u8"
+    },
+    {
+      "title": "Lecture 51: Heap",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265802-1722239205/hls-83e3fd/720p/master-499440.9218515594.m3u8"
+    },
+    {
+      "title": "Lecture 52: Heap Hard",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265801-1722239205/hls-96fb79/720p/master-5190134.0827631075.m3u8"
+    },
+    {
+      "title": "Lecture 53: Heap hard Question",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265800-1722239205/hls-fe91ad/720p/master-5001195.331560344.m3u8"
+    },
+    {
+      "title": "Lecture 54: Hashing",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265799-1722239204/hls-ca0dcf/720p/master-6366829.561341583.m3u8"
+    },
+    {
+      "title": "Lecture 55: Hashing and maps",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265798-1722239204/hls-145804/720p/master-9861782.083616128.m3u8"
+    },
+    {
+      "title": "Lecture 56: Hashing and Maps",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265797-1722239204/hls-68deb9/720p/master-8632671.675127603.m3u8"
+    },
+    {
+      "title": "Lecture 57: Graphs",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265795-1722239203/hls-8ae01f/720p/master-9841750.403238272.m3u8"
+    },
+    {
+      "title": "Lecture 58: Graphs",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265794-1722239202/hls-1b3e5b/720p/master-1558768.831674997.m3u8"
+    },
+    {
+      "title": "Lecture 59: Detect Cycle in Graphs",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265793-1722239201/hls-a45fab/720p/master-1750095.2067951325.m3u8"
+    },
+    {
+      "title": "Lecture 60: BFS in Advance",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265791-1722239201/hls-ebf688/720p/master-6513944.688902844.m3u8"
+    },
+    {
+      "title": "Lecture 61: Directed Graph Cycle + Topological sort",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265790-1722239200/hls-b22ffa/720p/master-5269567.60982044.m3u8"
+    },
+    {
+      "title": "Lecture 62: Shortest Distance + Spanning Tree",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265788-1722239200/hls-fff478/720p/master-852992.3552258101.m3u8"
+    },
+    {
+      "title": "Lecture 63: Graphs Advanced",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265785-1722239197/hls-c4a028/720p/master-2444581.2785613085.m3u8"
+    },
+    {
+      "title": "Lecture 64: Prims and Kruskal Algorithm",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265784-1722239196/hls-984f7b/720p/master-5668032.898224622.m3u8"
+    },
+    {
+      "title": "Lecture 65: Strongly Connected component + Bellmonford",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265782-1722239195/hls-66f252/720p/master-1578733.4945368748.m3u8"
+    },
+    {
+      "title": "Lecture 66: Bellman Ford + floyd WaRSHAL",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265781-1722239195/hls-7f90b9/720p/master-7396593.872342985.m3u8"
+    },
+    {
+      "title": "Lecture 67: Graph Advance Euler",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265780-1722239195/hls-580a31/720p/master-1849636.0842974924.m3u8"
+    },
+    {
+      "title": "Lecture 68: Articulation Point",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265778-1722239195/hls-a0b80a/720p/master-2588099.385906013.m3u8"
+    },
+    {
+      "title": "Lecture 69: Dynamic Programming",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265777-1722239194/hls-31cf5d/720p/master-1808518.3411587025.m3u8"
+    },
+    {
+      "title": "Lecture 70: House Robber Coin change",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265775-1722239192/hls-62c570/720p/master-3780290.117925964.m3u8"
+    },
+    {
+      "title": "Lecture 71: Knapsack problem",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265774-1722239191/hls-2e64a8/720p/master-2764868.3841131018.m3u8"
+    },
+    {
+      "title": "Lecture 72: Knapsack full",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265773-1722239191/hls-cfdb64/720p/master-6662913.709402267.m3u8"
+    },
+    {
+      "title": "Lecture 73: LCS + Pallindrome",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265771-1722239191/hls-697cea/720p/master-4103779.7194165625.m3u8"
+    },
+    {
+      "title": "Lecture 74: DP Longest Increasing Subsequence || LCS || LAP",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265770-1722239190/hls-8287a2/720p/master-8048139.401746952.m3u8"
+    },
+    {
+      "title": "Lecture 75: Grid + Stock",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265769-1722239190/hls-41b08b/720p/master-1193958.2046687524.m3u8"
+    },
+    {
+      "title": "Lecture 76: Stock+How to define row and column in dp",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265767-1722239189/hls-72f1bc/720p/master-18267.870317127956.m3u8"
+    },
+    {
+      "title": "Lecture 77: Stock and player game",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265764-1722239187/hls-38d180/720p/master-9626985.10461513.m3u8"
+    },
+    {
+      "title": "Lecture 78: DP Advance Question",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265763-1722239187/hls-3eba5d/720p/master-6159073.434947029.m3u8"
+    },
+    {
+      "title": "Lecture 79: Trie and it's Implementation",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265761-1722239186/hls-b579bd/720p/master-7699304.648754088.m3u8"
+    },
+    {
+      "title": "Lecture 80: Segment Tree",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265759-1722239185/hls-035a26/720p/master-5003215.762810074.m3u8"
+    },
+    {
+      "title": "Special Message for Students",
+      "url": "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rohitnegi-data/3265757-1722239185/hls-06b244/720p/master-1231181.474782874.m3u8"
+    }
+  ],
+  "whatYouWillLearn": [
+    "Master data structures and algorithms from basics to advanced",
+    "Learn problem-solving techniques and coding patterns",
+    "Understand time and space complexity analysis",
+    "Master competitive programming and interview preparation",
+    "Solve coding problems from various difficulty levels",
+    "Build strong algorithmic thinking and problem-solving skills"
+  ],
+  "requirements": [
+    "Basic programming knowledge in any language",
+    "Understanding of basic programming concepts",
+    "Internet connection for video streaming",
+    "Code editor (VS Code recommended) for practice",
+    "Willingness to practice coding problems regularly"
+  ],
+  "rating": {
+    "average": 5,
+    "count": 412,
+    "breakdown": {
+      "1": 3,
+      "2": 10,
+      "3": 17,
+      "4": 142,
+      "5": 238
+    }
+  },
+  "duration": "22h 33m",
+  "level": "Advanced",
+  "language": "Hinglish",
+  "studentsEnrolled": 237,
+  "lastUpdated": "2025-10-20",
+  "features": [
+    "Lifetime Access",
+    "Certificate of Completion",
+    "Mobile and Desktop Access",
+    "Downloadable Resources",
+    "Community Support"
+  ],
+  "teacherId": "rohit-negi"
+}
