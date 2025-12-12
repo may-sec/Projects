@@ -1,0 +1,269 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 255 255 255; /* white */
+    --foreground: 0 0 0; /* black */
+    --primary: 0 0 0; /* black */
+    --primary-foreground: 255 255 255; /* white */
+    --secondary: 243 244 246; /* gray-100 */
+    --secondary-foreground: 17 24 39; /* gray-900 */
+    --muted: 249 250 251; /* gray-50 */
+    --muted-foreground: 107 114 128; /* gray-500 */
+    --border: 229 231 235; /* gray-200 */
+    --card: 255 255 255; /* white */
+    --card-foreground: 0 0 0; /* black */
+  }
+
+  .dark {
+    --background: 0 0 0; /* black */
+    --foreground: 255 255 255; /* white */
+    --primary: 255 255 255; /* white */
+    --primary-foreground: 0 0 0; /* black */
+    --secondary: 31 41 55; /* gray-800 */
+    --secondary-foreground: 243 244 246; /* gray-100 */
+    --muted: 17 24 39; /* gray-900 */
+    --muted-foreground: 156 163 175; /* gray-400 */
+    --border: 55 65 81; /* gray-700 */
+    --card: 0 0 0; /* black */
+    --card-foreground: 255 255 255; /* white */
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer utilities {
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  /* Floating Animations */
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      transform: translateY(-20px) rotate(5deg);
+    }
+  }
+
+  @keyframes float-delayed {
+    0%, 100% {
+      transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      transform: translateY(-15px) rotate(-3deg);
+    }
+  }
+
+  @keyframes float-slow {
+    0%, 100% {
+      transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      transform: translateY(-10px) rotate(2deg);
+    }
+  }
+
+  @keyframes float-reverse {
+    0%, 100% {
+      transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      transform: translateY(15px) rotate(-2deg);
+    }
+  }
+
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .animate-float-delayed {
+    animation: float-delayed 8s ease-in-out infinite;
+  }
+
+  .animate-float-slow {
+    animation: float-slow 10s ease-in-out infinite;
+  }
+
+  .animate-float-reverse {
+    animation: float-reverse 7s ease-in-out infinite;
+  }
+
+  @keyframes slide-up {
+    from {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  .animate-slide-up {
+    animation: slide-up 0.5s ease-out;
+  }
+
+  /* Carousel Animations */
+  @keyframes carousel-slide {
+    from {
+      transform: translateX(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  @keyframes carousel-fade {
+    from {
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  .animate-carousel-slide {
+    animation: carousel-slide 0.6s ease-out;
+  }
+
+  .animate-carousel-fade {
+    animation: carousel-fade 0.4s ease-out;
+  }
+
+/* Hover scale effect */
+.hover\:scale-102:hover {
+  transform: scale(1.02);
+}
+
+/* Alternating row scroll animations */
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes scroll-right {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animate-scroll-left {
+  animation: scroll-left 20s linear infinite;
+}
+
+.animate-scroll-right {
+  animation: scroll-right 20s linear infinite;
+}
+
+/* Pause animation on hover */
+.animate-scroll-left:hover,
+.animate-scroll-right:hover {
+  animation-play-state: paused;
+}
+
+  .bg-background {
+    background-color: rgb(var(--background));
+  }
+
+  .bg-foreground {
+    background-color: rgb(var(--foreground));
+  }
+
+  .bg-primary {
+    background-color: rgb(var(--primary));
+  }
+
+  .bg-secondary {
+    background-color: rgb(var(--secondary));
+  }
+
+  .bg-muted {
+    background-color: rgb(var(--muted));
+  }
+
+  .bg-card {
+    background-color: rgb(var(--card));
+  }
+
+  .text-foreground {
+    color: rgb(var(--foreground));
+  }
+
+  .text-primary {
+    color: rgb(var(--primary));
+  }
+
+  .text-secondary-foreground {
+    color: rgb(var(--secondary-foreground));
+  }
+
+  .text-muted-foreground {
+    color: rgb(var(--muted-foreground));
+  }
+
+  .text-card-foreground {
+    color: rgb(var(--card-foreground));
+  }
+
+  .border-border {
+    border-color: rgb(var(--border));
+  }
+
+  .text-border {
+    color: rgb(var(--border));
+  }
+
+  .text-primary-foreground {
+    color: rgb(var(--primary-foreground));
+  }
+
+  .text-background {
+    color: rgb(var(--background));
+  }
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

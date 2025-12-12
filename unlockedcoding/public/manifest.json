@@ -1,0 +1,27 @@
+{
+  "name": "Unlocked Coding",
+  "short_name": "UnlockedCoding",
+  "description": "Your gateway to mastering programming and technology. Learn, build, and grow with our comprehensive courses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+}
