@@ -1,6 +1,0 @@
-{
-  "category": "skills",
-  "des": "Essential skills for career development and personal growth",
-  "imageofcategory": "https://www.resumego.net/wp-content/uploads/soft-hard-skills.png",
-  "rank": "low"
-}
